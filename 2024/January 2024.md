@@ -1,7 +1,7 @@
 
 # - Blender
 
-##### Week 1-3
+##### *Week 1-3*
 • Make a 3d donut and atleast 1 complete scenery.
 
 **Goal 1** : Learn user interface and navigation.
@@ -10,22 +10,24 @@
 
 # - Flutter
 
-##### Week 1-2
+##### *Week 1-2*
 • Make a decent useable app
 
 
 # - React
 
-##### Week 1
+##### *Week 1*
 • Learn Typescript and complete week 7.1 and 7.2
 
-##### Week 2 
+##### *Week 2 *
 • Complete upto week 9 get ready for nextjs.
+
+##### *Week 3*
 
 
 # - Python
 
-##### Week 1
+##### *Week 1*
 • Complete 2 sections
 
 
