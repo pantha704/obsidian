@@ -19,10 +19,11 @@
 ##### *Week 1*
 • Learn Typescript and complete week 7.1 and 7.2
 
-##### *Week 2 *
+##### *Week 2*
 • Complete upto week 9 get ready for nextjs.
 
 ##### *Week 3*
+• Complete the project challenge on udemy
 
 
 # - Python
