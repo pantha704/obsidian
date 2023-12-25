@@ -27,7 +27,8 @@
 
 ##### *Week 1*
 • Complete 2 sections
-**
+
+
 
 
 ![[February 2024]]
