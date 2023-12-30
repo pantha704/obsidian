@@ -16,7 +16,7 @@
 
 
 
-# - React
+# - React 
 
 ##### *Week 1*
 • Learn Typescript and complete week 7.1 and 7.2
@@ -28,10 +28,11 @@
 • Complete upto week 11
 
 
-# - Python
+# - Python | Go
 
 ##### *Week 1*
-• Complete 2 sections
+• Complete 2 sections in 100 days 
+|| Learn Go Lang from roadmap.sh
 
 
 
