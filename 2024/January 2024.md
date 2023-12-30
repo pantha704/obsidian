@@ -1,5 +1,5 @@
 
-# - Blender
+# - Blender & AfterEffects
 
 ##### *Week 1-3*
 • Make a 3d donut and atleast 1 complete scenery.
@@ -8,10 +8,12 @@
 ***Goal 2*** : Build a simple scene.
 ***Goal 3*** : Learn the basics of modelling and lighting.
 
-# - Flutter
+# - Flutter & Rust
 
 ##### *Week 1-2*
-• Make a decent useable app
+• Make a decent useable app 
+&&  Do rust from roadmap.sh
+
 
 
 # - React
