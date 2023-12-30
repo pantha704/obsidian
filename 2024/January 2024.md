@@ -22,6 +22,9 @@
 ##### *Week 2* 
 • Complete upto week 9 get ready for nextjs.
 
+##### *Week 3*
+• Complete upto week 11
+
 
 # - Python
 
