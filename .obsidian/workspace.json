@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024.md",
+                "file": "Daily notes/2023-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/January 2024.md",
+                "file": "Daily notes/2023-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/January 2024.md",
+                "file": "Daily notes/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/January 2024.md"
+                "file": "Daily notes/2023-12-31.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "933b4a35a082cac8",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "Daily notes/2023-12-28.md",
+    "Daily notes/2023-12-29.md",
+    "Daily notes/2023-12-31.md",
+    "2024/January 2024.md",
     "Daily notes",
-    "2023-12-30.md",
-    "2023-12-29.md"
+    "Daily notes/2023-12-30.md"
   ]
 }
