@@ -31,7 +31,7 @@
 # - Python | Go
 
 ##### *Week 1*
-• Complete 2 sections in 100 days 
+• Complete 2 sections in 100 days of code
 || Learn Go Lang from roadmap.sh
 
 
