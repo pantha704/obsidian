@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"tags\": Monthly progress]",
+      "query": "[\"tags\": Monthly-progress]",
       "color": {
         "a": 1,
         "rgb": 14701138
