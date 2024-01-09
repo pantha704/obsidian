@@ -19,7 +19,7 @@ function swap<T, U>(a: U, b: T): [T, U] {
 }
 
 const a = swap(true, "2");
-console.log(a);   // 
+console.log(a);            // Output: ["2", true]
 ```
 
 
