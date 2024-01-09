@@ -1,3 +1,7 @@
+
+
+
+
 > Partials in Typescript,
 > example,
 >   type todo = {                  // declaring a new type **todo**

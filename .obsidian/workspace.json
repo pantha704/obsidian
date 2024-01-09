@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b4f1a435850fe49",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "933b4a35a082cac8",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "Notes/Reading List.md",
     "Code Dumps/Typescript.md",
