@@ -1,3 +1,6 @@
+---
+tags:
+---
 # - Blender
 
 ##### *Week 1*

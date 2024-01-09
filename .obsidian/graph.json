@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:2024",
+      "query": "tag:Monthly-progress",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 8.11732456140351,
   "linkStrength": 1,
   "linkDistance": 240,
-  "scale": 1.0579048804693674,
-  "close": true
+  "scale": 0.739877269765411,
+  "close": false
 }
