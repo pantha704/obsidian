@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Monthly-progress",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "8dea54ddcbaa5788",
@@ -123,14 +123,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593f7e9e73b58b3c",
+  "active": "1579838fed6b8702",
   "lastOpenFiles": [
+    "Daily notes/2024-01-06.md",
     "2024/January 2024.md",
     "2024/February 2024.md",
     "2024/March 2024.md",
     "Daily notes/2024-01-02.md",
     "/Daily notes/2024-01-06.md",
-    "Daily notes/2024-01-06.md",
     "Daily notes/2023-12-31.md",
     "Daily notes/2023-12-30.md",
     "Daily notes/2023-12-29.md",
