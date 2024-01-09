@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "[\"tags\": Monthly progress]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.2717166401496556,
-  "close": true
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 2.24052631578947,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.396491228070175,
+  "repelStrength": 10.4210526315789,
+  "linkStrength": 0.0245614035087719,
+  "linkDistance": 30,
+  "scale": 0.8002824491759625,
+  "close": false
 }

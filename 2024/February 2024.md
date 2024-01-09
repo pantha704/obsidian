@@ -1,3 +1,7 @@
+---
+tags:
+  - Monthly-progress
+---
 # - Blender
 
 ##### *Week 1*
