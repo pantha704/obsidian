@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e5b995c456fec4c1",
+    "id": "085126b556484f35",
     "type": "split",
     "children": [
       {
-        "id": "15789a5e065da69f",
+        "id": "efdde06526e191e7",
         "type": "tabs",
         "children": [
           {
-            "id": "7624206d4175a548",
+            "id": "593f7e9e73b58b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f930d5e211345630",
+    "id": "f27b54f92a653e65",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3edd2ae524913218",
+        "id": "fb244a38a9bb09e7",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "da9abe240e97d6c4",
+        "id": "1579838fed6b8702",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "094cc1e97856e437",
+        "id": "9feaf4165bc729f8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "96b576c4115008f1",
+        "id": "3509bfe27cb7d589",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "94e17fb55d8eb240",
+    "id": "8dea54ddcbaa5788",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "41378385db3bf281",
+        "id": "d13002b10ee9f022",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "3e6e1698b0e7169f",
+        "id": "0ddaadb0c458aba2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "2ce54650c7fad196",
+        "id": "cf979c269191fdd2",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -117,25 +117,9 @@
             "file": "2024/January 2024.md"
           }
         }
-      },
-      {
-        "id": "b57f0e5681586ace",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "be2690462478cdd4",
-        "type": "leaf",
-        "state": {
-          "type": "git-history-view",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,19 +131,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7624206d4175a548",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
-    "2024/January 2024.md",
-    "/2024/January 2024.md",
-    "Daily notes/2023-12-28.md",
-    "2023-12-30.md",
-    "2023-12-29.md",
-    "Untitled.md",
-    "Daily notes",
-    "2024/February 2024.md",
-    "2023-12-24.md",
     "2024/March 2024.md",
-    "Untitled.canvas",
+    "Daily notes/2024-01-06.md",
+    "Daily notes/2024-01-02.md",
+    "Daily notes/2023-12-31.md",
+    "Daily notes/2023-12-30.md",
+    "Daily notes/2023-12-29.md",
+    "Daily notes/2023-12-28.md",
+    "2024/January 2024.md",
+    "2024/February 2024.md",
+    "Daily notes",
     "2024"
   ]
 }
