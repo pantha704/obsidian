@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"tags\": Monthly-progress]",
+      "query": "[\"tags\": Monthly progress]",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10.4210526315789,
   "linkStrength": 0.482456140350877,
   "linkDistance": 30,
-  "scale": 0.34386383537025694,
+  "scale": 0.8002824491759625,
   "close": true
 }
