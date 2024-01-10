@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Monthly-progress",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "8dea54ddcbaa5788",

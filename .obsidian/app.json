@@ -1,3 +1,4 @@
 {
-  "mobilePullAction": "editor:save-file"
+  "mobilePullAction": "editor:save-file",
+  "promptDelete": false
 }
