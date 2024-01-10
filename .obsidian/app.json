@@ -1,4 +1,5 @@
 {
   "mobilePullAction": "editor:save-file",
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 4
 }
