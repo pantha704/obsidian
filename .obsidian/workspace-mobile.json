@@ -11,8 +11,12 @@
             "id": "593f7e9e73b58b3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-W02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily notes/2024-W02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily notes/2024-W02.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily notes/2024-W02.md"
+          }
         }
       },
       {
@@ -133,9 +141,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593f7e9e73b58b3c",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
+    "Daily notes/2024-W02.md",
+    "Excalidraw/Drawing 2024-01-11 00.08.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-11 00.07.58.excalidraw.md",
+    "Excalidraw",
     "Daily notes/2024-01-11.md",
+    "2024-01-11.md",
     "Daily notes/Recording 20240111000144.webm",
     "Recording 20240111000115.webm",
     "Daily notes/2023-12-28.md",
