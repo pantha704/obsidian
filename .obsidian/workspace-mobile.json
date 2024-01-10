@@ -129,11 +129,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
+    "Daily notes/2024-01-11.md",
     "Daily notes/Recording 20240111000144.webm",
     "Recording 20240111000115.webm",
     "Daily notes/2023-12-28.md",
