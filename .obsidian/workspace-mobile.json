@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/January 2024.md",
+                "file": "Daily notes/2024-01-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024/January 2024.md",
+            "file": "Daily notes/2024-01-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024/January 2024.md",
+            "file": "Daily notes/2024-01-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024/January 2024.md"
+            "file": "Daily notes/2024-01-12.md"
           }
         }
       },
@@ -143,8 +143,8 @@
   },
   "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
-    "learnweb3.io.md",
     "2024/January 2024.md",
+    "learnweb3.io.md",
     "/2024/January 2024.md",
     "Daily notes/2024-01-11.md",
     "Projects/Flutter.md",
