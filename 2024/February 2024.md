@@ -5,11 +5,8 @@ tags:
 # - Blender & AfterEffects
 
 ##### *Week 1-3*
-• Make a 3d donut and atleast 1 complete scenery.
-
-***Goal 1*** : Learn user interface and navigation.
-***Goal 2*** : Build a simple scene.
-***Goal 3*** : Learn the basics of modelling and lighting.
+• Make a complete scenery.
+• Make a good edit
 
 # - Flutter & Rust
 
@@ -17,7 +14,7 @@ tags:
 • Make a decent useable app 
 &&  Do rust from roadmap.sh
 
-##### *Week 3*
+##### *Week 4*
 • Complete the Flutter Udemy Course 
 
 
