@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-10.md",
+                "file": "Daily notes/2024-01-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-10.md",
+                "file": "Daily notes/2024-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-10.md",
+                "file": "Daily notes/2024-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-10.md"
+                "file": "Daily notes/2024-01-11.md"
               }
+            }
+          },
+          {
+            "id": "ee3602e446563c57",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -138,6 +146,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,9 +158,9 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Daily notes/2024-01-10.md",
     "Daily notes/2024-01-11.md",
     "Weekly notes/2024-W02.md",
-    "Daily notes/2024-01-10.md",
     "Weekly notes",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
