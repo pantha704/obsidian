@@ -32,4 +32,4 @@ tags:
 
 ##### *Week 1 ( REPEATED )*
 • Complete 2 sections in 100 days of code
-|| Learn Solodity/solana from roadmap.sh, freecodecamp
+|| Learn *Solodity, solana, blockchain, cryptos* from **roadmap.sh, freecodecamp**
