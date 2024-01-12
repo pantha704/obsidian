@@ -11,8 +11,12 @@
             "id": "933b4a35a082cac8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Flutter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Flutter.md"
+              }
             }
           },
           {
@@ -150,6 +158,8 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Projects/Flutter.md",
+    "Projects",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
     "Code Dumps/Untitled.md",
