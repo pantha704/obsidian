@@ -36,7 +36,7 @@ tags:
 
 ##### *Week 1*
 • Complete 2 sections in 100 days of code
-|| Learn *Solodity, solana, blockchain, cryptos* from **roadmap.sh, freecodecamp, [](learnweb3.io)**
+|| Learn *Solodity, solana, blockchain, cryptos* from **roadmap.sh, freecodecamp, [learnweb3.io](https://learnweb3.io)**
 
 
 
