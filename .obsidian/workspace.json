@@ -11,12 +11,8 @@
             "id": "933b4a35a082cac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/March 2024.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/March 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/March 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024/March 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,18 +150,19 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Code Dumps/Untitled 2.md",
+    "Code Dumps/Untitled 1.md",
+    "Code Dumps/Untitled.md",
+    "2024/April 2024.md",
+    "2024/March 2024.md",
     "2024/February 2024.md",
     "2024/January 2024.md",
-    "2024/March 2024.md",
     "Weekly notes/2024-W02.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-11.md",
     "Daily notes/2024-01-10.md",
     "Daily notes/2024-01-06.md",
     "Weekly notes",
-    "Code Dumps/Untitled 2.md",
-    "Code Dumps/Untitled 1.md",
-    "Code Dumps/Untitled.md",
     "Code Dumps/Typescript.md",
     "Notes/Reading List.md",
     "Code Dumps/Untitled",
