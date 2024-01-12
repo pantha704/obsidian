@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-11.md",
+                "file": "2024/January 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-11.md",
+                "file": "2024/January 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-11.md",
+                "file": "2024/January 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-11.md"
+                "file": "2024/January 2024.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
-    "Daily notes/2024-01-10.md",
-    "Daily notes/2024-01-11.md",
+    "Daily notes/2024-01-06.md",
     "Weekly notes/2024-W02.md",
+    "Daily notes/2024-01-12.md",
+    "Daily notes/2024-01-11.md",
+    "Daily notes/2024-01-10.md",
     "Weekly notes",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
@@ -171,7 +173,6 @@
     "Code Dumps",
     "Daily notes/2024-01-09.md",
     "Notes",
-    "Daily notes/2024-01-06.md",
     "Daily notes/2024-01-02.md",
     "Daily notes/2023-12-31.md",
     "2024/January 2024.md",
