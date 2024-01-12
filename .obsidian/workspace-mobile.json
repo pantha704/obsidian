@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Code",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
