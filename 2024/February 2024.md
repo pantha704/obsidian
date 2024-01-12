@@ -2,7 +2,7 @@
 tags:
   - Monthly-progress
 ---
-# - Blender & AfterEffects
+# - Blender & After Effects
 
 ##### *Week 1-3*
 • Make a complete scenery.
@@ -30,11 +30,11 @@ tags:
 • Complete upto week 16
 
 
-# - Python | Go
+# - Python | Web3
 
 ##### *Week 1 ( REPEATED )*
 • Complete 2 sections in 100 days of code
-|| Learn Go Lang from roadmap.sh
+|| Learn *Solodity, solana, blockchain, cryptos* from **roadmap.sh, freecodecamp**
 
 
 
