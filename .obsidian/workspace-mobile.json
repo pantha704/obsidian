@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2a524157b3f3852e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Reading list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Reading list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Reading list.md"
+          }
         }
       },
       {
@@ -133,8 +150,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593f7e9e73b58b3c",
+  "active": "2a524157b3f3852e",
   "lastOpenFiles": [
+    "Reading list.md",
+    "Untitled",
     "Daily notes/2024-01-13.md",
     "Code Dumps/Typescript.md",
     "/Projects/Flutter.md",
@@ -166,10 +185,8 @@
     "Daily notes/2023-12-28.md",
     "Code Dumps/Untitled 1.md",
     "Daily notes/2024-01-10.md",
-    "Code Dumps/Untitled.md",
     "Code Dumps",
     "/Code Dumps",
-    "Daily notes",
-    "2024"
+    "Daily notes"
   ]
 }
