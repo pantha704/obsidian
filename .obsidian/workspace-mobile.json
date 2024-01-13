@@ -11,12 +11,8 @@
             "id": "593f7e9e73b58b3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024-01-12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily notes/2024-01-12.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,19 +133,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb244a38a9bb09e7",
+  "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
-    "2024/January 2024.md",
+    "Daily notes/2024-01-13.md",
+    "Code Dumps/Typescript.md",
+    "/Projects/Flutter.md",
+    "/Daily notes/2024-01-13.md",
+    "/Code Dumps/Typescript.md",
+    "/2024/March 2024.md",
     "Daily notes/2024-01-12.md",
+    "2024/January 2024.md",
     "learnweb3.io.md",
     "/2024/January 2024.md",
     "Daily notes/2024-01-11.md",
     "Projects/Flutter.md",
     "2024/April 2024.md",
     "/Weekly notes/2024-W02.md",
-    "/Projects/Flutter.md",
     "/Daily notes/2024-01-12.md",
-    "/2024/March 2024.md",
     "/2024/February 2024.md",
     "/2024/April 2024.md",
     "Projects",
@@ -171,10 +167,6 @@
     "Code Dumps/Untitled 1.md",
     "Daily notes/2024-01-10.md",
     "Code Dumps/Untitled.md",
-    "Code Dumps/Untitled 2.md",
-    "2024/March 2024.md",
-    "/Daily notes/2024-01-10.md",
-    "/Code Dumps/Untitled.md",
     "Code Dumps",
     "/Code Dumps",
     "Daily notes",
