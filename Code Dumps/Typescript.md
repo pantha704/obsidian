@@ -30,5 +30,5 @@ router.post('/todos', authenticateJwt, (req, res) => {
 	let title = parsedInput.data.title;
 	let description = parsedInput.data.description;
 })
- 
+
 ```
