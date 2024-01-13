@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch n Read list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch n Read list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Watch n Read list.md"
-          }
+          "state": {}
         }
       },
       {
@@ -150,8 +145,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a524157b3f3852e",
+  "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
+    "2024/January 2024.md",
     "Watch n Read list.md",
     "Untitled",
     "Daily notes/2024-01-13.md",
@@ -161,7 +157,6 @@
     "/Code Dumps/Typescript.md",
     "/2024/March 2024.md",
     "Daily notes/2024-01-12.md",
-    "2024/January 2024.md",
     "learnweb3.io.md",
     "/2024/January 2024.md",
     "Daily notes/2024-01-11.md",
