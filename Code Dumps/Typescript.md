@@ -20,6 +20,15 @@ let titleInputProps = z.object({
 	description: z.string().min(1),
 })
 
-router.post('/todos', authenticateJwt, () => {})
+router.post('/todos', authenticateJwt, (req, res) => {
+	const parsedInput = titleInputProps.safeParse(req.body);
+	if (!parsedInput.success) {
+		return res.status(411).json({
+			msg: parsedInput.error
+		})
+	}
+	let title = parsedInput.data.title;
+	let description = parsedInput.data.description;
+})
  
 ```
