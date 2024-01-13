@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Typescript.md",
+                "file": "Daily notes/2024-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Dumps/Typescript.md",
+                "file": "Daily notes/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Dumps/Typescript.md",
+                "file": "Daily notes/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Dumps/Typescript.md"
+                "file": "Daily notes/2024-01-13.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "933b4a35a082cac8",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "Code Dumps/Untitled 1.md",
     "Code Dumps/Typescript.md",
-    "2024-01-13.md",
+    "Code Dumps/Untitled 1.md",
+    "Daily notes/2024-01-13.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-11.md",
     "Daily notes/2024-01-10.md",
