@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Untitled.md",
+                "file": "2024-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Dumps/Untitled.md",
+                "file": "2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Dumps/Untitled.md",
+                "file": "2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Dumps/Untitled.md"
+                "file": "2024-01-13.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Daily notes/2024-01-12.md",
+    "2024-01-13.md",
+    "Daily notes/2024-01-11.md",
+    "Daily notes/2024-01-10.md",
+    "Code Dumps/Untitled.md",
     "Projects/Flutter.md",
     "2024/March 2024.md",
     "2024/February 2024.md",
@@ -167,12 +172,8 @@
     "Projects",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
-    "Code Dumps/Untitled.md",
     "2024/April 2024.md",
     "Weekly notes/2024-W02.md",
-    "Daily notes/2024-01-12.md",
-    "Daily notes/2024-01-11.md",
-    "Daily notes/2024-01-10.md",
     "Daily notes/2024-01-06.md",
     "Weekly notes",
     "Code Dumps/Typescript.md",
