@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading list.md",
+                "file": "Watch n Read list.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Reading list.md",
+            "file": "Watch n Read list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Reading list.md",
+            "file": "Watch n Read list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Reading list.md"
+            "file": "Watch n Read list.md"
           }
         }
       },
@@ -152,7 +152,7 @@
   },
   "active": "2a524157b3f3852e",
   "lastOpenFiles": [
-    "Reading list.md",
+    "Watch n Read list.md",
     "Untitled",
     "Daily notes/2024-01-13.md",
     "Code Dumps/Typescript.md",
