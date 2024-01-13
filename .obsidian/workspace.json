@@ -11,8 +11,12 @@
             "id": "933b4a35a082cac8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Flutter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Flutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Flutter.md"
+              }
             }
           },
           {
@@ -150,15 +158,17 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "2024/March 2024.md",
+    "2024/February 2024.md",
+    "2024/January 2024.md",
+    "conflict-files-obsidian-git.md",
+    "New folder",
     "Projects/Flutter.md",
     "Projects",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
     "Code Dumps/Untitled.md",
     "2024/April 2024.md",
-    "2024/March 2024.md",
-    "2024/February 2024.md",
-    "2024/January 2024.md",
     "Weekly notes/2024-W02.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-11.md",
