@@ -97,7 +97,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily notes/2024-01-13.md"
+            "file": "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md"
           }
         }
       },
@@ -153,12 +151,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593f7e9e73b58b3c",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
+    "Daily notes/2024-01-13.md",
+    "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
+    "Excalidraw",
     "2024/January 2024.md",
     "Watch n Read list.md",
     "Untitled",
-    "Daily notes/2024-01-13.md",
     "Code Dumps/Typescript.md",
     "/Projects/Flutter.md",
     "/Daily notes/2024-01-13.md",
@@ -181,13 +181,11 @@
     "Daily notes/2024-W02.md",
     "Excalidraw/Drawing 2024-01-11 00.08.57.excalidraw.md",
     "Excalidraw/Drawing 2024-01-11 00.07.58.excalidraw.md",
-    "Excalidraw",
     "2024-01-11.md",
     "Daily notes/Recording 20240111000144.webm",
     "Recording 20240111000115.webm",
     "Daily notes/2023-12-28.md",
     "Code Dumps/Untitled 1.md",
-    "Daily notes/2024-01-10.md",
     "Code Dumps",
     "/Code Dumps",
     "Daily notes"
