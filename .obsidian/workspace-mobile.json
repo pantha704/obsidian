@@ -52,7 +52,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Code",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
