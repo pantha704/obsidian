@@ -11,12 +11,8 @@
             "id": "593f7e9e73b58b3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024-01-13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +119,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily notes/2024-01-13.md"
-          }
+          "state": {}
         }
       },
       {
@@ -155,8 +147,8 @@
   },
   "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
     "Daily notes/2024-01-13.md",
+    "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
     "Excalidraw",
     "2024/January 2024.md",
     "Watch n Read list.md",
