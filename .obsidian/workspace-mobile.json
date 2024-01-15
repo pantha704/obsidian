@@ -11,8 +11,12 @@
             "id": "593f7e9e73b58b3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-01-13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily notes/2024-01-13.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily notes/2024-01-13.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily notes/2024-01-13.md"
+          }
         }
       },
       {
@@ -145,8 +153,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "593f7e9e73b58b3c",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
+    "Daily notes/2024-01-12.md",
     "Watch n Read list.md",
     "Daily notes/2024-01-13.md",
     "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
@@ -158,7 +167,6 @@
     "/Daily notes/2024-01-13.md",
     "/Code Dumps/Typescript.md",
     "/2024/March 2024.md",
-    "Daily notes/2024-01-12.md",
     "learnweb3.io.md",
     "/2024/January 2024.md",
     "Daily notes/2024-01-11.md",
