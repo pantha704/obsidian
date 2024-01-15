@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch n Read list.md",
+                "file": "2024-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch n Read list.md",
+            "file": "2024-01-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch n Read list.md",
+            "file": "2024-01-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Watch n Read list.md"
+            "file": "2024-01-14.md"
           }
         }
       },
@@ -155,8 +155,9 @@
   },
   "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
-    "Daily notes/2024-01-15.md",
     "Watch n Read list.md",
+    "2024-01-14.md",
+    "Daily notes/2024-01-15.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-13.md",
     "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
@@ -187,7 +188,6 @@
     "2024-01-11.md",
     "Daily notes/Recording 20240111000144.webm",
     "Recording 20240111000115.webm",
-    "Daily notes/2023-12-28.md",
     "Code Dumps",
     "/Code Dumps",
     "Daily notes"
