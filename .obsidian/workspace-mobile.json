@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Weekly notes/2024-W03.md",
+            "file": "2024-01-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Weekly notes/2024-W03.md",
+            "file": "2024-01-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Weekly notes/2024-W03.md"
+            "file": "2024-01-16.md"
           }
         }
       },
@@ -155,6 +155,8 @@
   },
   "active": "593f7e9e73b58b3c",
   "lastOpenFiles": [
+    "Weekly notes/2024-W03.md",
+    "2024-01-16.md",
     "Daily notes/2024-01-15.md",
     "Watch n Read list.md",
     "Daily notes/2024-01-14.md",
@@ -163,7 +165,6 @@
     "Daily notes/2024-01-11.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-13.md",
-    "Weekly notes/2024-W03.md",
     "Excalidraw/Drawing 2024-01-14 15.42.57.excalidraw.md",
     "Excalidraw",
     "2024/January 2024.md",
@@ -185,7 +186,6 @@
     "/Projects",
     "Weekly notes",
     "Daily notes/2024-W02.md",
-    "Excalidraw/Drawing 2024-01-11 00.08.57.excalidraw.md",
     "Daily notes/Recording 20240111000144.webm",
     "Recording 20240111000115.webm",
     "Code Dumps",
