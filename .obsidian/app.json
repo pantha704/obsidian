@@ -1,5 +1,7 @@
 {
   "mobilePullAction": "editor:save-file",
   "promptDelete": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true
 }

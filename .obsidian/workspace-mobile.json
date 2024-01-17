@@ -4,18 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "efdde06526e191e7",
+        "id": "b41a33374632177a",
         "type": "tabs",
         "children": [
           {
-            "id": "593f7e9e73b58b3c",
+            "id": "2a6d7bf03dcc6b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-12.md",
+                "file": "Daily notes/2024-01-16 - Tue.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3d208711387253ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress/Daily Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5ba5bdc85466f4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "274a35f6912a6c0e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Progress/Daily Progress.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.631531958783539,
+                  "close": true
+                }
               }
             }
           }
@@ -44,7 +98,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Code",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,14 +139,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-12.md",
+            "file": "Progress/Daily Progress.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -102,9 +156,9 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-12.md",
+            "file": "Progress/Daily Progress.md",
             "linksCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -114,20 +168,52 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily notes/2024-01-12.md"
+            "file": "Progress/Daily Progress.md"
           }
         }
       },
       {
-        "id": "01891d3acd75e4e6",
+        "id": "47de68b8f052e8bf",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "43e2989bc0ddb43b",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "3e936312395dc04c",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "e4f65cf3630833ec",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      },
+      {
+        "id": "0ade52c93bb40703",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 7
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,46 +224,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-day-planner:Timeline": false,
+      "janitor:Janitor: scan vault": false,
+      "big-calendar:Big Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fb244a38a9bb09e7",
+  "active": "3d208711387253ac",
   "lastOpenFiles": [
-    "2024/January 2024.md",
-    "Daily notes/2024-01-12.md",
-    "learnweb3.io.md",
-    "/2024/January 2024.md",
-    "Daily notes/2024-01-11.md",
-    "Projects/Flutter.md",
-    "2024/April 2024.md",
-    "/Weekly notes/2024-W02.md",
-    "/Projects/Flutter.md",
-    "/Daily notes/2024-01-12.md",
-    "/2024/March 2024.md",
-    "/2024/February 2024.md",
-    "/2024/April 2024.md",
-    "Projects",
-    "/Projects",
+    "Code Dumps/Todo dumps.md",
+    "Progress/Daily Progress.md",
+    "Templates/Daily Progress Template.md",
+    "Daily notes/2024-01-17 - Wed.md",
+    "Daily notes/2024-01-18 - Thu.md",
+    "Daily notes/2024-01-16 - Tue.md",
+    "Progress/Weekly Progress.md",
+    "Weekly notes/2024-W03.md",
     "Weekly notes/2024-W02.md",
-    "Weekly notes",
-    "Daily notes/2024-W02.md",
-    "Excalidraw/Drawing 2024-01-11 00.08.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-11 00.07.58.excalidraw.md",
-    "Excalidraw",
-    "2024-01-11.md",
-    "Daily notes/Recording 20240111000144.webm",
-    "Recording 20240111000115.webm",
-    "Daily notes/2023-12-28.md",
-    "Code Dumps/Untitled 1.md",
-    "Daily notes/2024-01-10.md",
-    "Code Dumps/Untitled.md",
-    "Code Dumps/Untitled 2.md",
-    "2024/March 2024.md",
-    "/Daily notes/2024-01-10.md",
-    "/Code Dumps/Untitled.md",
-    "Code Dumps",
-    "/Code Dumps",
-    "Daily notes",
-    "2024"
+    "Templates/Weekly Progress Template.md",
+    "Daily notes/2024-01-14.md",
+    "Daily notes/2024-01-15.md",
+    "Templates/Monthly Progress Template.md",
+    "Daily notes/2024-01-19 - Fri.md",
+    "Daily notes/2024-01-20 - Sat.md",
+    "Progress",
+    "conflict-files-obsidian-git.md",
+    "Daily progress.md",
+    "Untitled.canvas",
+    "Daily notes/2024-01-17.md",
+    "Daily notes/2023-12-29.md",
+    "2024/January 2024.md",
+    "To read/Lists/Watch n Read list.md",
+    "2024/April 2024.md",
+    "Daily notes/2024-01-18.md",
+    "2024-01-16.md",
+    "Attachments",
+    "Untitled/Mastery.pdf",
+    "Templates",
+    "Untitled mindmap.md",
+    "2024/2024-01.md",
+    "To read/Books/Mastery.pdf",
+    "Yearly notes",
+    "To read/Lists",
+    "To read/Books/The-Art-Of-Seduction.pdf",
+    "To read/Books",
+    "To read"
   ]
 }

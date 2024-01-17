@@ -1,5 +1,21 @@
 [
   "obsidian-git",
+  "settings-search",
+  "tasks-calendar-wrapper",
+  "periodic-notes",
+  "obsidian-tracker",
+  "tracker-plus",
+  "obsidian-version-history-diff",
+  "obsidian-annotator",
   "calendar",
-  "obsidian-excalidraw-plugin"
+  "better-reading-mode",
+  "better-word-count",
+  "obsidian-code-block-enhancer",
+  "dataview",
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "janitor",
+  "obsidian-charts",
+  "big-calendar",
+  "table-editor-obsidian"
 ]

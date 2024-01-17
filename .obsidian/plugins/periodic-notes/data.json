@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD - ddd",
+    "template": "Templates/Daily Progress Template.md",
+    "folder": "Daily notes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "template": "Templates/Weekly Progress Template.md",
+    "folder": "Weekly notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "MMMM YYYY",
+    "template": "Templates/Monthly Progress Template.md",
+    "folder": "2024",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "Yearly notes",
+    "enabled": true
+  }
+}
