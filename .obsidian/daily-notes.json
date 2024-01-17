@@ -1,4 +1,5 @@
 {
   "folder": "Daily notes",
-  "template": "Templates/Daily Progress Template"
+  "template": "Templates/Daily Progress Template",
+  "format": "YYYY-MM-DD - ddd"
 }
