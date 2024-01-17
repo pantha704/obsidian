@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f16a8f73deb0a0a1",
+        "id": "ec3a0fe4c4acdb23",
         "type": "tabs",
+        "dimension": 53.139013452914796,
         "children": [
           {
             "id": "933b4a35a082cac8",
@@ -13,26 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-13.md",
+                "file": "Code Dumps/Todo dumps.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "aa107079b9569de6",
+        "type": "tabs",
+        "dimension": 46.860986547085204,
+        "children": [
           {
             "id": "9171a27df27e4168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "Progress/Weekly Progress.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "Code Dumps/Todo dumps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "Code Dumps/Todo dumps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly notes/2024-W03.md"
+                "file": "Code Dumps/Todo dumps.md"
               }
             }
           },
@@ -159,11 +166,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +188,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9171a27df27e4168",
+  "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Daily notes/2024-01-13.md",
+    "Progress/Weekly Progress.md",
+    "Weekly notes/2024-W03.md",
+    "Weekly notes/2024-W02.md",
+    "Daily notes/2024-01-17 - Wed.md",
+    "Code Dumps/Todo dumps.md",
+    "Code Dumps/Untitled 2.md",
+    "Code Dumps/Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "Progress/Daily Progress.md",
     "2024-01-16.md",
     "Watch n Read list.md",
     "To read/Lists/Watch n Read list.md",
-    "Weekly notes/2024-W03.md",
-    "Daily notes/2024-01-13.md",
     "Code Dumps/Typescript.md",
-    "Code Dumps/Untitled 1.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-11.md",
     "Daily notes/2024-01-10.md",
@@ -201,9 +213,7 @@
     "2024/January 2024.md",
     "New folder",
     "Projects",
-    "Code Dumps/Untitled 2.md",
     "2024/April 2024.md",
-    "Weekly notes/2024-W02.md",
     "Daily notes/2024-01-06.md",
     "Weekly notes",
     "Notes/Reading List.md",
@@ -212,9 +222,6 @@
     "Daily notes/2024-01-09.md",
     "Notes",
     "Daily notes/2024-01-02.md",
-    "Daily notes/2023-12-31.md",
-    "Daily notes/2023-12-30.md",
-    "Daily notes/2023-12-28.md",
     "Daily notes"
   ]
 }
