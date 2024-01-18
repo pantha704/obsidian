@@ -2,8 +2,8 @@
 
 
 ```tracker
-searchType: frontmatter 
-searchTarget: mood,target
+searchType: dvField
+searchTarget: tasksDone
 folder: /Daily notes 
 startDate:
 endDate:
