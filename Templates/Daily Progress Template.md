@@ -1,8 +1,6 @@
 ---
 aliases: 
 tags: 
-mood: 
-target: 
 Created: <% tp.file.creation_date() %>
 Modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
@@ -12,9 +10,11 @@ Modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 <%tp.web.daily_quote()%>
 
 
-Target : 
+Target::  
+- 
 
-Day end : 
+tasksDone::
+- 
 
 
 ```tracker

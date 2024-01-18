@@ -3,7 +3,7 @@
 
 ```tracker
 searchType: dvField
-searchTarget: tasksDone
+searchTarget: tasksDone, Target
 folder: /Daily notes 
 startDate:
 endDate:
