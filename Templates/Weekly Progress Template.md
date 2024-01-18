@@ -23,7 +23,7 @@ startDate: <% moment(tp.file.title,'YYYY-[W]ww').day(0).format("YYYY-MM-DD - ddd
 endDate: <% moment(tp.file.title,'YYYY-[W]ww').day(6).format("YYYY-MM-DD - ddd") %>
 datasetName: Progress
 line:
-    title: "Youcan do it!"
+    title: "You can do it!"
     lineColor: lightgreen
     fillGap: true
     showLegend: true
