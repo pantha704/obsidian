@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-14 - Sun.md",
+                "file": "Weekly notes/2024-W02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-14 - Sun.md",
+                "file": "Weekly notes/2024-W02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-14 - Sun.md"
+                "file": "Weekly notes/2024-W02.md"
               }
             }
           },
@@ -173,28 +173,30 @@
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Daily notes/2024-01-15 - Mon.md",
-    "Daily notes/2024-01-16 - Tue.md",
-    "Daily notes/2024-01-15.md",
-    "Daily notes/2024-01-17 - Wed.md",
-    "Daily notes/2024-01-14 - Sun.md",
-    "Weekly notes/2024-W02.md",
+    "Weekly notes/2024-W03.md",
     "Templates/2024-W03.md",
     "Templates/Weekly Progress Template.md",
-    "Templates/Daily Progress Template.md",
-    "Weekly notes/2024-W03.md",
-    "Templates/Monthly Progress Template.md",
+    "Daily notes/2024-01-19 - Fri.md",
+    "Daily notes/2024-01-13.md",
+    "Daily notes/2024-01-12.md",
+    "Daily notes/2024-01-15 - Mon.md",
+    "Daily notes/2024-01-21 - Sun.md",
     "Daily notes/2024-01-18 - Thu.md",
+    "Daily notes/2024-01-20 - Sat.md",
+    "Daily notes/2024-01-16 - Tue.md",
+    "Daily notes/2024-01-17 - Wed.md",
+    "Daily notes/2024-01-14 - Sun.md",
+    "Templates/Daily Progress Template.md",
+    "Daily notes/2024-01-15.md",
+    "Weekly notes/2024-W02.md",
+    "Templates/Monthly Progress Template.md",
     "Code Dumps/Typescript.md",
     "customStyle.css",
     "New Text Document.txt",
     "Code Dumps/CSS Styles/customStyle.css.md",
     "Code Dumps/CSS Styles",
-    "Daily notes/2024-01-19 - Fri.md",
     "Progress/Daily Progress.md",
     "Progress/Weekly Progress.md",
-    "Daily notes/2024-01-21 - Sun.md",
-    "Daily notes/2024-01-20 - Sat.md",
     "'Daily-notes/2024-01-16.md",
     "'Daily.md",
     "'Daily-notes",
@@ -202,7 +204,6 @@
     "Daily-notes",
     "Daily'.md",
     "Daily.md",
-    "[[2024-01-15]].md",
     "Excalidraw",
     "New folder",
     "Projects",
