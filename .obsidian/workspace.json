@@ -6,7 +6,6 @@
       {
         "id": "ec3a0fe4c4acdb23",
         "type": "tabs",
-        "dimension": 53.139013452914796,
         "children": [
           {
             "id": "933b4a35a082cac8",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Weekly Progress Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aa107079b9569de6",
-        "type": "tabs",
-        "dimension": 46.860986547085204,
-        "children": [
-          {
-            "id": "9171a27df27e4168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Weekly Progress Template.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Weekly Progress Template.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Weekly Progress Template.md"
+                "file": "Daily notes/2024-01-19 - Fri.md"
               }
             }
           },
@@ -166,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,9 +171,11 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
-    "Weekly notes/2024-W03.md",
     "Daily notes/2024-01-18 - Thu.md",
+    "Daily notes/2024-01-19 - Fri.md",
     "Templates/Daily Progress Template.md",
+    "Weekly notes/2024-W03.md",
+    "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-18.md",
     "Daily notes/2024-01-16.md",
     "Code Dumps/Todo dumps.md",
@@ -215,10 +197,8 @@
     "Projects/Flutter.md",
     "2024/March 2024.md",
     "2024/February 2024.md",
-    "2024/January 2024.md",
     "New folder",
     "Projects",
-    "2024/April 2024.md",
     "Weekly notes",
     "Code Dumps/Untitled",
     "Code Dumps",
