@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2024-W02.md",
+                "file": "Progress/Weekly Progress.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly notes/2024-W02.md",
+                "file": "Progress/Weekly Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly notes/2024-W02.md"
+                "file": "Progress/Weekly Progress.md"
               }
             }
           },
@@ -173,12 +173,16 @@
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
+    "Templates/Weekly Progress Template.md",
     "Weekly notes/2024-W03.md",
     "Templates/2024-W03.md",
-    "Templates/Weekly Progress Template.md",
+    "Weekly notes/2024-W02.md",
+    "Daily notes/2024-01-12 - Fri.md",
+    "Daily notes/2024-01-10 - Wed.md",
+    "Daily notes/2024-01-11 - Thu.md",
+    "Daily notes/2024-01-13 - Sat.md",
+    "Daily notes/2024-01-06.md",
     "Daily notes/2024-01-19 - Fri.md",
-    "Daily notes/2024-01-13.md",
-    "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-15 - Mon.md",
     "Daily notes/2024-01-21 - Sun.md",
     "Daily notes/2024-01-18 - Thu.md",
@@ -188,7 +192,6 @@
     "Daily notes/2024-01-14 - Sun.md",
     "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-15.md",
-    "Weekly notes/2024-W02.md",
     "Templates/Monthly Progress Template.md",
     "Code Dumps/Typescript.md",
     "customStyle.css",
@@ -200,10 +203,7 @@
     "'Daily-notes/2024-01-16.md",
     "'Daily.md",
     "'Daily-notes",
-    "Daily-notes/2024-01-16.md",
     "Daily-notes",
-    "Daily'.md",
-    "Daily.md",
     "Excalidraw",
     "New folder",
     "Projects",
