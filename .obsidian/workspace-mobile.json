@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-14 - Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-14 - Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-18 - Thu.md",
+            "file": "Daily notes/2024-01-14 - Sun.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-18 - Thu.md",
+            "file": "Daily notes/2024-01-14 - Sun.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -167,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily notes/2024-01-18 - Thu.md"
+            "file": "Daily notes/2024-01-14 - Sun.md"
           }
         }
       },
@@ -243,11 +243,17 @@
   },
   "active": "2a6d7bf03dcc6b82",
   "lastOpenFiles": [
+    "Daily notes/2024-01-18 - Thu.md",
+    "Templates/2024-W03.md",
+    "Daily notes/2024-01-13 - Sat.md",
+    "Daily notes/2024-01-14 - Sun.md",
+    "Daily notes/2024-01-12 - Fri.md",
+    "Daily notes/2024-01-10 - Wed.md",
+    "Daily notes/2024-01-11 - Thu.md",
     "Daily notes/2024-01-15 - Mon.md",
     "Daily notes/2024-01-21 - Sun.md",
     "Daily notes/2024-01-18 - Thu3.md",
     "Weekly notes/2024-W03.md",
-    "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2023-12-28.md",
     "Code Dumps/Untitled 1.md",
     "Daily notes/2024-01-18.md",
@@ -264,14 +270,8 @@
     "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-14.md",
     "Daily notes/2024-01-15.md",
-    "Templates/Monthly Progress Template.md",
-    "Daily notes/2024-01-20 - Sat.md",
     "Progress",
-    "conflict-files-obsidian-git.md",
-    "Daily progress.md",
     "Untitled.canvas",
-    "Daily notes/2024-01-17.md",
-    "Daily notes/2023-12-29.md",
     "Attachments",
     "Untitled/Mastery.pdf",
     "Templates",
