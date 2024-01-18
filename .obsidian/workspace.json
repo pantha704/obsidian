@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2024-W02.md",
+                "file": "Templates/Weekly Progress Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly notes/2024-W02.md",
+                "file": "Templates/Weekly Progress Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly notes/2024-W02.md",
+                "file": "Templates/Weekly Progress Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly notes/2024-W02.md"
+                "file": "Templates/Weekly Progress Template.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Progress/Weekly Progress.md",
     "Weekly notes/2024-W02.md",
+    "Progress/Weekly Progress.md",
     "Templates/Weekly Progress Template.md",
     "Weekly notes/2024-W03.md",
     "Progress/Daily Progress.md",

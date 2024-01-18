@@ -8,13 +8,13 @@ Modified: Thursday 18th January 2024 13:30:52
 {{date}}
 
 
-Day 1 : 
-Day 2 : 
-Day 3 : 
-Day 4 : 
-Day 5 : 
-Day 6 : 
-Day 7 : 
+Day 1 :                [[<% mom %>]]           
+Day 2 :                
+Day 3 :                
+Day 4 :                
+Day 5 :                
+Day 6 :                
+Day 7 :                
 
 
 ```tracker
