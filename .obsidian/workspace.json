@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/2024-W03.md",
+                "file": "Templates/Daily Progress Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/2024-W03.md",
+                "file": "Templates/Daily Progress Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/2024-W03.md",
+                "file": "Templates/Daily Progress Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/2024-W03.md"
+                "file": "Templates/Daily Progress Template.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Templates/Daily Progress Template.md",
-    "Templates/2024-W03.md",
     "Daily notes/2024-01-21 - Sun.md",
+    "Templates/2024-W03.md",
+    "Templates/Daily Progress Template.md",
     "Weekly notes/2024-W02.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Progress/Daily Progress.md",
