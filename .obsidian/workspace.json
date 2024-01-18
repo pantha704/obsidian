@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-17 - Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-17 - Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-17 - Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md"
+                "file": "Daily notes/2024-01-17 - Wed.md"
               }
             }
           },
@@ -187,10 +187,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0796ac31435ece59",
+  "active": "ee3602e446563c57",
   "lastOpenFiles": [
-    "Daily notes/2024-01-19 - Fri.md",
     "Daily notes/2024-01-18 - Thu.md",
+    "Daily notes/2024-01-19 - Fri.md",
     "Excalidraw/Drawing 2024-01-18 12.24.34.excalidraw.md",
     "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-20 - Sat.md",

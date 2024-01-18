@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-16 - Tue.md",
+                "file": "Daily notes/2024-01-18 - Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress/Daily Progress.md",
+                "file": "Templates/Weekly Progress Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5ba5bdc85466f4fc",
@@ -44,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Progress/Daily Progress.md",
+                "file": "Daily notes/2024-01-18 - Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Progress/Daily Progress.md",
+            "file": "Daily notes/2024-01-18 - Thu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Progress/Daily Progress.md",
+            "file": "Daily notes/2024-01-18 - Thu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -168,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Progress/Daily Progress.md"
+            "file": "Daily notes/2024-01-18 - Thu.md"
           }
         }
       },
@@ -205,7 +204,7 @@
         }
       },
       {
-        "id": "0ade52c93bb40703",
+        "id": "7cba856c3491a265",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -217,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -228,25 +228,30 @@
       "janitor:Janitor: scan vault": false,
       "big-calendar:Big Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d208711387253ac",
+  "active": "7cba856c3491a265",
   "lastOpenFiles": [
-    "Code Dumps/Todo dumps.md",
-    "Progress/Daily Progress.md",
+    "Code Dumps/Untitled 1.md",
+    "Daily notes/2024-01-18.md",
+    "Daily notes/2024-01-16 - Tue.md",
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
+    "Excalidraw",
     "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-17 - Wed.md",
     "Daily notes/2024-01-18 - Thu.md",
-    "Daily notes/2024-01-16 - Tue.md",
+    "Daily notes/2024-01-19 - Fri.md",
+    "Progress/Daily Progress.md",
     "Progress/Weekly Progress.md",
+    "Code Dumps/Todo dumps.md",
     "Weekly notes/2024-W03.md",
     "Weekly notes/2024-W02.md",
     "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-14.md",
     "Daily notes/2024-01-15.md",
     "Templates/Monthly Progress Template.md",
-    "Daily notes/2024-01-19 - Fri.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Progress",
     "conflict-files-obsidian-git.md",
@@ -257,18 +262,14 @@
     "2024/January 2024.md",
     "To read/Lists/Watch n Read list.md",
     "2024/April 2024.md",
-    "Daily notes/2024-01-18.md",
     "2024-01-16.md",
     "Attachments",
     "Untitled/Mastery.pdf",
     "Templates",
-    "Untitled mindmap.md",
-    "2024/2024-01.md",
     "To read/Books/Mastery.pdf",
     "Yearly notes",
     "To read/Lists",
     "To read/Books/The-Art-Of-Seduction.pdf",
-    "To read/Books",
-    "To read"
+    "To read/Books"
   ]
 }
