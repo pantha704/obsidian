@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Daily Progress Template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,21 +174,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
-    "Progress/Daily Progress.md",
+    "Daily notes/2024-01-17 - Wed.md",
+    "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-20 - Sat.md",
+    "Progress/Daily Progress.md",
     "Daily notes/2024-01-19 - Fri.md",
-    "Daily notes/2024-01-17 - Wed.md",
     "Daily notes/2024-01-16 - Tue.md",
     "Daily notes/2024-01-15.md",
-    "Templates/Daily Progress Template.md",
     "Weekly notes/2024-W03.md",
     "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-18.md",
