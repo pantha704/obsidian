@@ -1,4 +1,5 @@
 [
+  "obsidian-git",
   "settings-search",
   "tasks-calendar-wrapper",
   "periodic-notes",
@@ -15,9 +16,18 @@
   "cm-editor-syntax-highlight-obsidian",
   "janitor",
   "obsidian-charts",
-  "big-calendar",
   "table-editor-obsidian",
-  "obsidian-importer",
-  "google-calendar",
+  "templater-obsidian",
+  "code-emitter",
+  "customjs",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "obsidian-gist",
+  "obsidian-text-expander-js",
+  "mermaid-themes",
+  "mermaid-tools",
+  "mermaid-helper",
+  "obsidian-mind-map",
+  "obsidian-markmind",
   "remotely-save"
 ]
