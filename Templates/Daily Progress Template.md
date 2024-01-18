@@ -16,7 +16,10 @@ Target::
 - cpp
 - Flutter
 - Rust
-- 
+- Solana
+- learnweb3.io
+- Blender
+- After Effects
 
 tasksDone:: 
 - 

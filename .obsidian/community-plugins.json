@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "settings-search",
   "tasks-calendar-wrapper",
   "periodic-notes",
@@ -29,8 +28,5 @@
   "mermaid-helper",
   "obsidian-mind-map",
   "obsidian-markmind",
-  "remotely-save",
-  "obsidian-minimal-settings",
-  "obsidian-hider",
-  "obsidian-style-settings"
+  "remotely-save"
 ]
