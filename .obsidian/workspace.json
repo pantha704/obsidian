@@ -144,6 +144,14 @@
               "type": "tasks_timeline_view",
               "state": {}
             }
+          },
+          {
+            "id": "57fd3195890ede17",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -166,10 +174,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "933b4a35a082cac8",
+  "active": "ee3602e446563c57",
   "lastOpenFiles": [
     "Progress/Daily Progress.md",
     "Daily notes/2024-01-18 - Thu.md",

@@ -18,5 +18,17 @@
   "obsidian-charts",
   "big-calendar",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "google-calendar",
+  "code-emitter",
+  "customjs",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "obsidian-gist",
+  "obsidian-text-expander-js",
+  "mermaid-themes",
+  "mermaid-tools",
+  "mermaid-helper",
+  "obsidian-mind-map",
+  "obsidian-markmind"
 ]
