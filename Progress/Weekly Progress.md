@@ -21,7 +21,7 @@ line:
 <% moment(tp.file.title,"YYYY-[W]ww").add(-1,'weeks').day(0).format("YYYY-MM-DD - ddd") %>
 
 
-%% 
+
 ```tracker
 searchType: dvField
 searchTarget: tasksDone, Target
@@ -38,4 +38,3 @@ line:
     xAxisLabel: Dates
     yAxisLabel: Productivity
 ```
-%%
