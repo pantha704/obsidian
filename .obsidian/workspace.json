@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Daily Progress Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -175,10 +175,11 @@
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ee3602e446563c57",
+  "active": "933b4a35a082cac8",
   "lastOpenFiles": [
     "Progress/Daily Progress.md",
     "Daily notes/2024-01-18 - Thu.md",
