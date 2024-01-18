@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3a0fe4c4acdb23",
+        "id": "76ed65b5623a04f4",
         "type": "tabs",
         "children": [
           {
-            "id": "933b4a35a082cac8",
+            "id": "35e65b076593b353",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,9 +152,17 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "eda426aaf404f61c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -179,13 +187,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "933b4a35a082cac8",
+  "active": "35e65b076593b353",
   "lastOpenFiles": [
-    "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-20 - Sat.md",
-    "Daily notes/2024-01-17 - Wed.md",
     "Daily notes/2024-01-18 - Thu.md",
+    "Daily notes/2024-01-18 - Th.md",
+    "Templates/Daily Progress Template.md",
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "Progress/Daily Progress.md",
+    "Excalidraw",
+    "Daily notes/2024-01-17 - Wed.md",
     "Daily notes/2024-01-19 - Fri.md",
     "Daily notes/2024-01-16 - Tue.md",
     "Daily notes/2024-01-15.md",
@@ -205,8 +216,6 @@
     "Code Dumps/Typescript.md",
     "Daily notes/2024-01-12.md",
     "Daily notes/2024-01-11.md",
-    "Daily notes/2024-01-10.md",
-    "Projects/Flutter.md",
     "New folder",
     "Projects",
     "Weekly notes",
