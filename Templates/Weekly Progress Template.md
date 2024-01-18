@@ -18,17 +18,17 @@ tasksDone::
 ```tracker
 searchType: dvField
 searchTarget: tasksDone
-folder: /Weekly notes 
+folder: /Daily notes 
 startDate: <% moment(tp.file.title,'YYYY-[W]ww').day(0).format("YYYY-MM-DD - ddd") %>
 endDate: <% moment(tp.file.title,'YYYY-[W]ww').day(6).format("YYYY-MM-DD - ddd") %>
-datasetName: 
+datasetName: Progress
 line:
     title: "Keep Going!"
     lineColor: lightgreen
     fillGap: true
     showLegend: true
     legendOrientation: vertical
-    xAxisLabel: Dates
+    xAxisLabel: ''
     yAxisLabel: Productivity
 ```
 
