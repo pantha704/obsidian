@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress/Weekly Progress.md",
+                "file": "Weekly notes/2024-W02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress/Weekly Progress.md",
+                "file": "Weekly notes/2024-W02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress/Weekly Progress.md",
+                "file": "Weekly notes/2024-W02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress/Weekly Progress.md"
+                "file": "Weekly notes/2024-W02.md"
               }
             }
           },
@@ -187,19 +187,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0796ac31435ece59",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "Progress/Daily Progress.md",
     "Progress/Weekly Progress.md",
     "Templates/Weekly Progress Template.md",
-    "Templates/Daily Progress Template.md",
+    "Weekly notes/2024-W02.md",
+    "Weekly notes/2024-W03.md",
     "Templates/Monthly Progress Template.md",
+    "Progress/Daily Progress.md",
+    "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-16 - Tue.md",
     "Daily notes/2024-01-17 - Wed.md",
     "Daily notes/2024-01-19 - Fri.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Daily notes/2024-01-18 - Thu.md",
-    "Weekly notes/2024-W03.md",
     "Daily notes/2024-01-19 - Thu3.md",
     "Daily notes/2024-01-18 - Thue.md",
     "Excalidraw/Drawing 2024-01-18 12.24.34.excalidraw.md",
@@ -209,7 +210,6 @@
     "Daily notes/2024-01-18.md",
     "Code Dumps/Todo dumps.md",
     "Daily notes/2024-01-13.md",
-    "Weekly notes/2024-W02.md",
     "Code Dumps/Untitled 2.md",
     "Code Dumps/Untitled 1.md",
     "conflict-files-obsidian-git.md",

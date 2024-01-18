@@ -5,8 +5,8 @@
 searchType: dvField
 searchTarget: tasksDone, Target
 folder: /Daily notes 
-startDate: Invalid date
-endDate: Invalid date
+startDate: <% moment(tp.file.title,"YYYY-[W]ww").add(-1,'weeks').day(0).format("YYYY-MM-DD - ddd") %>
+endDate: <% moment(tp.file.title,"YYYY-[W]ww").day(6).format("YYYY-MM-DD - ddd") %>
 datasetName: Tasks Done, Total Tasks
 line:
     title: "Keep Going!"
@@ -18,4 +18,4 @@ line:
     yAxisLabel: Productivity
 ```
 
-Invalid date
+<% moment(tp.file.title,"YYYY-[W]ww").add(-1,'weeks').day(0).format("YYYY-MM-DD - ddd") %>
