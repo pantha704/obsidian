@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/CSS Styles/Untitled.md",
+                "file": "Templates/2024-W03.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Dumps/CSS Styles/Untitled.md",
+                "file": "Templates/2024-W03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Dumps/CSS Styles/Untitled.md",
+                "file": "Templates/2024-W03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Dumps/CSS Styles/Untitled.md"
+                "file": "Templates/2024-W03.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             }
           },
           {
-            "id": "204cc8b17aff40e3",
+            "id": "2c7919b00a5a2329",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -187,10 +188,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0796ac31435ece59",
+  "active": "2c7919b00a5a2329",
   "lastOpenFiles": [
     "Code Dumps/Typescript.md",
-    "Code Dumps/CSS Styles/Untitled.md",
+    "customStyle.css",
+    "New Text Document.txt",
+    "Code Dumps/CSS Styles/customStyle.css.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Code Dumps/CSS Styles",
     "Daily notes/2024-01-19 - Fri.md",
@@ -217,13 +220,10 @@
     "Daily'.md",
     "Daily.md",
     "[[2024-01-15]].md",
-    "(Daily.md",
     "Excalidraw",
     "New folder",
     "Projects",
     "Weekly notes",
-    "Code Dumps",
-    "Notes",
-    "Daily notes"
+    "Code Dumps"
   ]
 }
