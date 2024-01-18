@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-21 - Sun.md",
+                "file": "Templates/2024-W03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-21 - Sun.md",
+                "file": "Templates/2024-W03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-21 - Sun.md",
+                "file": "Templates/2024-W03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-21 - Sun.md"
+                "file": "Templates/2024-W03.md"
               }
             }
           },
@@ -187,11 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "0796ac31435ece59",
   "lastOpenFiles": [
+    "Weekly notes/2024-W02.md",
+    "Daily notes/2024-01-21 - Sun.md",
     "Templates/Daily Progress Template.md",
     "Templates/2024-W03.md",
-    "Daily notes/2024-01-21 - Sun.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Progress/Daily Progress.md",
     "Daily notes/2024-01-15 - Mon.md",
@@ -212,7 +213,6 @@
     "(Daily.md",
     "[Daily.md",
     "[[Daily.md",
-    "Weekly notes/2024-W02.md",
     "2024-01-15 - Mon.md",
     "Weekly notes/2024-W03.md",
     "Daily notes/2024-01-07 - Sun.md",
