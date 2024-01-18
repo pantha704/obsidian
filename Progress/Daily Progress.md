@@ -2,7 +2,7 @@
 
 ```tracker
 searchType: frontmatter 
-searchTarget: mood
+searchTarget: mood,target
 folder: /Daily notes 
 startDate:
 endDate:
