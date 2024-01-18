@@ -25,6 +25,9 @@ startDate:
 endDate:
 line:
     title: "Keep Going!"
+    lineColor: blue, yellow
+    fillGap: true
+    showLegend: true
     xAxisLabel: Dates
     yAxisLabel: Productivity 
 ```
