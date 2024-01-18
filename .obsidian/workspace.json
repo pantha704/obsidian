@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76ed65b5623a04f4",
+        "id": "e201ba6b147a24bc",
         "type": "tabs",
         "children": [
           {
-            "id": "35e65b076593b353",
+            "id": "0796ac31435ece59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,14 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6123f4326d13ace2",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
               "state": {}
             }
           },
@@ -162,17 +146,16 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-day-planner:Timeline": false,
       "janitor:Janitor: scan vault": false,
-      "big-calendar:Big Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -187,13 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35e65b076593b353",
+  "active": "0796ac31435ece59",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Templates/Daily Progress Template.md",
-    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "Progress/Daily Progress.md",
     "Excalidraw",
     "Daily notes/2024-01-17 - Wed.md",
