@@ -3,14 +3,14 @@
 
 ``` tracker
 searchType: dvField
-searchTarget: tasksDone, Target
+searchTarget: tasksDone
 folder: /Weekly notes 
 startDate: <% moment(tp.file.title,'YYYY-[W]ww').day(0).format("YYYY-MM-DD - ddd") %>
-endDate: <% moment(tp.file.title,'YYYY-[W]ww').day(7).format("YYYY-MM-DD - ddd") %>
-datasetName: Tasks Done, Total Tasks
+endDate: <% moment(tp.file.title,'YYYY-[W]ww').day(6).format("YYYY-MM-DD - ddd") %>
+datasetName: Progress
 line:
-    title: "Keep Going!"
-    lineColor: blue, yellow
+    title: "You can do it!"
+    lineColor: lightblue
     fillGap: true
     showLegend: true
     legendOrientation: vertical
@@ -18,7 +18,6 @@ line:
     yAxisLabel: Productivity
 ```
 
-<% moment(tp.file.title,"YYYY-[W]ww").add(-1,'weeks').day(0).format("YYYY-MM-DD - ddd") %>
 
 
 
