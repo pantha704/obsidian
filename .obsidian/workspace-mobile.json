@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-14 - Sun.md",
+                "file": "Progress/Weekly Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily notes/2024-01-14 - Sun.md",
+                "file": "Progress/Weekly Progress.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024-01-14 - Sun.md",
+            "file": "Progress/Weekly Progress.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024-01-14 - Sun.md",
+            "file": "Progress/Weekly Progress.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -167,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily notes/2024-01-14 - Sun.md"
+            "file": "Progress/Weekly Progress.md"
           }
         }
       },
@@ -241,12 +241,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a6d7bf03dcc6b82",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
+    "Daily notes/2024-01-14 - Sun.md",
+    "Templates/2024-W03 (Dummy Weeks Template).md",
     "Daily notes/2024-01-18 - Thu.md",
     "Templates/2024-W03.md",
     "Daily notes/2024-01-13 - Sat.md",
-    "Daily notes/2024-01-14 - Sun.md",
     "Daily notes/2024-01-12 - Fri.md",
     "Daily notes/2024-01-10 - Wed.md",
     "Daily notes/2024-01-11 - Thu.md",
@@ -269,7 +270,6 @@
     "Weekly notes/2024-W02.md",
     "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-14.md",
-    "Daily notes/2024-01-15.md",
     "Progress",
     "Untitled.canvas",
     "Attachments",
