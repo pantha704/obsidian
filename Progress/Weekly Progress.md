@@ -3,13 +3,18 @@
 ****
 
 ``` tracker
-searchType: frontmatter 
-searchTarget: mood
-folder: Weekly notes 
+searchType: dvField
+searchTarget: tasksDone, Target
+folder: /Daily notes 
 startDate:
 endDate:
+datasetName: Tasks Done, Total Tasks
 line:
-    title: "Wow, you came so far!"
-    xAxisLabel: Weeks
-    yAxisLabel: Productivity 
+    title: "Keep Going!"
+    lineColor: blue, yellow
+    fillGap: true
+    showLegend: true
+    legendOrientation: vertical
+    xAxisLabel: Dates
+    yAxisLabel: Productivity
 ```

@@ -23,7 +23,7 @@ searchTarget: tasksDone, Target
 folder: /Daily notes 
 startDate:
 endDate:
-datasetName: Tasks
+datasetName: Tasks Done, Total Tasks
 line:
     title: "Keep Going!"
     lineColor: blue, yellow
@@ -31,5 +31,5 @@ line:
     showLegend: true
     legendOrientation: vertical
     xAxisLabel: Dates
-    yAxisLabel: Productivity / Work
+    yAxisLabel: Productivity
 ```
