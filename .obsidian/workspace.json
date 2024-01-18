@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md",
+                "file": "Daily notes/2024-01-19 - Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-18 - Thu.md"
+                "file": "Daily notes/2024-01-19 - Fri.md"
               }
             }
           },
@@ -175,15 +175,15 @@
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
-    "Daily notes/2024-01-18 - Thu.md",
-    "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-20 - Sat.md",
+    "Daily notes/2024-01-18 - Thu.md",
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "Templates/Daily Progress Template.md",
     "Progress/Daily Progress.md",
     "Excalidraw",
