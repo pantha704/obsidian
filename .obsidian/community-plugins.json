@@ -29,5 +29,8 @@
   "mermaid-helper",
   "obsidian-mind-map",
   "obsidian-markmind",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-hider"
 ]
