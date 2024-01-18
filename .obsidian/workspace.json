@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Progress/Weekly Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Progress/Weekly Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Progress/Weekly Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Progress Template.md"
+                "file": "Progress/Weekly Progress.md"
               }
             }
           },
@@ -189,13 +189,14 @@
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Daily notes/2024-01-21 - Sun.md",
     "Templates/2024-W03.md",
+    "Progress/Weekly Progress.md",
     "Templates/Daily Progress Template.md",
+    "Daily notes/2024-01-21 - Sun.md",
+    "Daily notes/2024-01-15 - Mon.md",
     "Weekly notes/2024-W02.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Progress/Daily Progress.md",
-    "Daily notes/2024-01-15 - Mon.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-19 - Fri.md",
     "Daily notes/2024-01-16 - Tue.md",
@@ -216,7 +217,6 @@
     "2024-01-15 - Mon.md",
     "Weekly notes/2024-W03.md",
     "Daily notes/2024-01-07 - Sun.md",
-    "2024-01-07 - Sun.md",
     "Excalidraw",
     "New folder",
     "Projects",

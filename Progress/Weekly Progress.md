@@ -5,8 +5,8 @@
 searchType: dvField
 searchTarget: tasksDone, Target
 folder: /Weekly notes 
-startDate: <% moment(tp.file.title,"YYYY-[W]ww").day(1).format("YYYY-MM-DD - ddd") %>
-endDate: <% moment(tp.file.title,"YYYY-[W]ww").add(1,'weeks').day(0).format("YYYY-MM-DD - ddd") %>
+startDate: <% moment(tp.file.title,'YYYY-[W]ww').day(0).format("YYYY-MM-DD - ddd") %>
+endDate: <% moment(tp.file.title,'YYYY-[W]ww').day(7).format("YYYY-MM-DD - ddd") %>
 datasetName: Tasks Done, Total Tasks
 line:
     title: "Keep Going!"
