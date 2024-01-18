@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-01-19 - Fri.md",
+                "file": "Templates/Daily Progress Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-01-19 - Fri.md",
+                "file": "Templates/Daily Progress Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-01-19 - Fri.md",
+                "file": "Templates/Daily Progress Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-01-19 - Fri.md"
+                "file": "Templates/Daily Progress Template.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "933b4a35a082cac8",
   "lastOpenFiles": [
+    "Progress/Daily Progress.md",
     "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Daily notes/2024-01-19 - Fri.md",
@@ -178,7 +179,6 @@
     "Daily notes/2024-01-16 - Tue.md",
     "Daily notes/2024-01-15.md",
     "Templates/Daily Progress Template.md",
-    "Progress/Daily Progress.md",
     "Weekly notes/2024-W03.md",
     "Templates/Weekly Progress Template.md",
     "Daily notes/2024-01-18.md",
