@@ -35,6 +35,6 @@ line:
     fillGap: true
     showLegend: true
     legendOrientation: vertical
-    xAxisLabel: Dates
+    xAxisLabel: ''
     yAxisLabel: Productivity
 ```
