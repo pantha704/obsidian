@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Daily notes/2024-01-18 - Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Daily notes/2024-01-18 - Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Progress Template.md",
+                "file": "Daily notes/2024-01-18 - Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Progress Template.md"
+                "file": "Daily notes/2024-01-18 - Thu.md"
               }
             }
           },
@@ -152,6 +152,14 @@
               "type": "mermaid-toolbar-view",
               "state": {}
             }
+          },
+          {
+            "id": "204cc8b17aff40e3",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -172,20 +180,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0796ac31435ece59",
   "lastOpenFiles": [
-    "Daily notes/2024-01-18 - Thu.md",
     "Daily notes/2024-01-19 - Fri.md",
+    "Daily notes/2024-01-18 - Thu.md",
+    "Excalidraw/Drawing 2024-01-18 12.24.34.excalidraw.md",
+    "Templates/Daily Progress Template.md",
     "Daily notes/2024-01-20 - Sat.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
-    "Templates/Daily Progress Template.md",
     "Progress/Daily Progress.md",
     "Excalidraw",
     "Daily notes/2024-01-17 - Wed.md",
