@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e201ba6b147a24bc",
+        "id": "83706a4e47aba27b",
         "type": "tabs",
         "children": [
           {
-            "id": "0796ac31435ece59",
+            "id": "7a270f8e5d9fe077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "To read/Lists/Me/fobw.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly notes/2024-W03.md",
+                "file": "To read/Lists/Me/fobw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly notes/2024-W03.md"
+                "file": "To read/Lists/Me/fobw.md"
               }
             }
           },
@@ -138,7 +138,32 @@
             }
           },
           {
-            "id": "f0ece3812f10ab99",
+            "id": "96999b682b336a49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2024-01-18 - Thu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2ce208574e4c741",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d790e2b391245fcd",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -146,11 +171,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,43 +197,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0796ac31435ece59",
+  "active": "d790e2b391245fcd",
   "lastOpenFiles": [
-    "Weekly notes/2024-W02.md",
-    "Weekly notes/2024-W03.md",
-    "Templates/2024-W03 (Dummy Weeks Templa).md",
-    "Daily notes/2024-01-18 - Thu3.md",
-    "Templates/Daily Progress Template.md",
-    "Daily notes/2024-01-18 - Thu.md",
-    "Daily notes/2024-01-19 - Fri.md",
-    "Progress/Daily Progress.md",
-    "Daily notes/2024-01-14 - Sun.md",
-    "Daily notes/2024-01-17 - Wed.md",
-    "Daily notes/2024-01-16 - Tue.md",
-    "Daily notes/2024-01-15 - Mon.md",
-    "Daily notes/2024-01-13 - Sat.md",
-    "Daily notes/2024-01-12 - Fri.md",
-    "Daily notes/2024-01-11 - Thu.md",
-    "Daily notes/2024-01-10 - Wed.md",
-    "Progress/Weekly Progress.md",
-    "Templates/Weekly Progress Template.md",
-    "Daily notes/2024-01-06.md",
-    "Daily notes/2024-01-21 - Sun.md",
-    "Daily notes/2024-01-20 - Sat.md",
-    "Daily notes/2024-01-15.md",
-    "Templates/Monthly Progress Template.md",
-    "Code Dumps/Typescript.md",
-    "customStyle.css",
-    "New Text Document.txt",
-    "Code Dumps/CSS Styles/customStyle.css.md",
-    "Code Dumps/CSS Styles",
-    "'Daily-notes/2024-01-16.md",
-    "'Daily-notes",
-    "Daily-notes",
-    "Excalidraw",
-    "New folder",
-    "Projects",
-    "Weekly notes",
-    "Code Dumps"
+    "To read/Science/Six-Not-So-Easy-Pieces.pdf",
+    "To read/Science/Six Easy Pieces ( PDFDrive ).pdf",
+    "To read/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
+    "To read/Science",
+    "PARA/Areas ( for jobs )/Repos to commit.md",
+    "To read/Lists/Me/fobw.md",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "To read/Lists/Me/Art of S.md",
+    "To read/Non fiction/emotional-intelligence-20bradberry-amp-greavesebspdf_compress.pdf",
+    "To read/Non fiction/EBOOK(picking nuggets) - 23 Nuggets.pdf",
+    "PARA/Research ( Exploration )/Notes n resource/Resources.md",
+    "To read/Lists/Me",
+    "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
+    "Syllabus/SnS/Mod 2.md",
+    "Syllabus/SnS/Mod 5.md",
+    "Syllabus/SnS/Mod 6.md",
+    "Syllabus/SnS/Mod 4.md",
+    "Syllabus/DSA/Revision.md",
+    "Syllabus/SnS/Mod 3.md",
+    "Syllabus/SnS/Mod 1.md",
+    "Syllabus/CO/Untitled.md",
+    "Syllabus/CO/Assignment.md",
+    "Syllabus/CO/Address mode.md",
+    "Syllabus/DSA/Linked list.md",
+    "Syllabus/DSA/Search n Sort.md",
+    "To read/Non fiction/EBOOK - 23 Nuggets.pdf",
+    "Syllabus/DSA/Time complexity.md",
+    "Syllabus/Linear Algebra/Group B.md",
+    "Syllabus/DSA/Final assignment.md",
+    "Syllabus/Linear Algebra/MCQ 1-9.md",
+    "Syllabus/Linear Algebra/Group C.md",
+    "Syllabus/SnS/Signals and system.md",
+    "Syllabus/Linear Algebra/Syllabus.md",
+    "To read/Research n learn/coding/Cheat Sheet- Essential Cybersecurity Skills for Career Pivoters (SimplyCyber.io).pdf",
+    "Syllabus/CO",
+    "Syllabus/DSA",
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }

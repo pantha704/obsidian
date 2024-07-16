@@ -10,6 +10,18 @@ Modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 <%tp.web.daily_quote()%>
 
 
+```tracker
+searchType: dvField
+searchTarget: tasksDone
+folder: /Daily notes 
+datasetName: 🏖️
+month:
+	startWeekOn: 'Sun'
+	color: steelblue
+	showSelectedValue: true 
+```
+
+
 Target:: 
 - React
 - DSA

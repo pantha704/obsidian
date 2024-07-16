@@ -1,8 +1,8 @@
 ---
 tags: 
 aliases: 
-Created: 2024-01-17 23:00
-Modified: Thursday 18th January 2024 13:30:52
+Created: <% tp.file.creation_date() %>
+Modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 Day 1 :                [Monday](<Daily notes/<% moment(tp.file.title,'YYYY-[W]ww').day(1).format("YYYY-MM-DD - ddd") %>>)

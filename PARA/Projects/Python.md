@@ -1,0 +1,2 @@
+
+1. Make a program which takes a video and cuts it into multiple parts. It should have some meaning and understanding ( can do this by extracting the transcript/subtitles of the video using some other tool/package ) that could also be uploaded in public.

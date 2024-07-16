@@ -1,0 +1,15 @@
+# Modules
+- ### mdk4 deauth
+- ### yuki
+- ### Beef
+- ### [Lazy script](https://youtu.be/PUQ1bMtft-o?si=PR2AvvMMjw3Uyeik) [Github](https://github.com/arismelachroinos/lscript)
+- ### [WEF Github](https://github.com/D3Ext/WEF)
+- ### [HTTP Ddos Xerxes](https://github.com/XCHADXFAQ77X/XERXES)
+- ### [Unicorn](https://www.youtube.com/watch?v=YF1ovpb1Cqc)
+- ### Evilginx
+- ### BITB
+- ### Webdavstrike
+- ### Owasp zap
+- ### [Steghide](https://salsa.debian.org/pkg-security-team/steghide), to hide txt, img, etc in txt, img, etc
+- ### [evillnk](https://github.com/d1mov/evillnk) 
+- 

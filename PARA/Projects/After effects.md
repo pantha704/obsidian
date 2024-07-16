@@ -1,0 +1,2 @@
+- ### Watch your fav edits and try to learn the transitions shakes and effects used in them, and make a new edit.
+- 
