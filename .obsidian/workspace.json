@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To read/Lists/Me/fobw.md",
+                "file": "PARA/Research ( Exploration )/After Magisk root.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To read/Lists/Me/fobw.md",
+                "file": "PARA/Research ( Exploration )/After Magisk root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To read/Lists/Me/fobw.md"
+                "file": "PARA/Research ( Exploration )/After Magisk root.md"
               }
             }
           },
@@ -197,21 +197,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d790e2b391245fcd",
+  "active": "7a270f8e5d9fe077",
   "lastOpenFiles": [
+    "PARA/Research ( Exploration )/Trading.md",
+    "PARA/Research ( Exploration )/After Magisk root.md",
+    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
+    "PARA/Research ( Exploration )/Web 3.md",
+    "PARA/Research ( Exploration )/Kali.md",
+    "PARA/Research ( Exploration )/Notes n resource/Downloading videos using yt-dlp.md",
+    "PARA/Research ( Exploration )/Notes n resource/msfconsole.md",
+    "PARA/Research ( Exploration )/Notes n resource/Resources.md",
+    "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
+    "To read/Lists/Me/fobw.md",
     "To read/Science/Six-Not-So-Easy-Pieces.pdf",
     "To read/Science/Six Easy Pieces ( PDFDrive ).pdf",
     "To read/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "To read/Science",
     "PARA/Areas ( for jobs )/Repos to commit.md",
-    "To read/Lists/Me/fobw.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "To read/Lists/Me/Art of S.md",
     "To read/Non fiction/emotional-intelligence-20bradberry-amp-greavesebspdf_compress.pdf",
     "To read/Non fiction/EBOOK(picking nuggets) - 23 Nuggets.pdf",
-    "PARA/Research ( Exploration )/Notes n resource/Resources.md",
     "To read/Lists/Me",
-    "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
     "Syllabus/SnS/Mod 2.md",
     "Syllabus/SnS/Mod 5.md",
     "Syllabus/SnS/Mod 6.md",
@@ -226,15 +233,8 @@
     "Syllabus/DSA/Search n Sort.md",
     "To read/Non fiction/EBOOK - 23 Nuggets.pdf",
     "Syllabus/DSA/Time complexity.md",
-    "Syllabus/Linear Algebra/Group B.md",
-    "Syllabus/DSA/Final assignment.md",
-    "Syllabus/Linear Algebra/MCQ 1-9.md",
-    "Syllabus/Linear Algebra/Group C.md",
-    "Syllabus/SnS/Signals and system.md",
-    "Syllabus/Linear Algebra/Syllabus.md",
     "To read/Research n learn/coding/Cheat Sheet- Essential Cybersecurity Skills for Career Pivoters (SimplyCyber.io).pdf",
     "Syllabus/CO",
-    "Syllabus/DSA",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
