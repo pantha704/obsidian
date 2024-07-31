@@ -11,9 +11,12 @@
             "id": "3d208711387253ac",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "To read/Non fiction/Nonviolent-Communication.pdf"
+                "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -29,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To read/Non fiction/Nonviolent-Communication.pdf",
+                "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "To read/Non fiction/Nonviolent-Communication.pdf",
+            "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -136,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "To read/Non fiction/Nonviolent-Communication.pdf"
+            "file": "To read/Lists/Me/Daily Workout/Cool Down.md"
           }
         }
       },
@@ -181,7 +184,7 @@
         }
       },
       {
-        "id": "185f66a65cf30824",
+        "id": "23d2194ae8e54914",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -210,19 +213,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "185f66a65cf30824",
+  "active": "3d208711387253ac",
   "lastOpenFiles": [
+    "To read/Lists/Me/Daily Workout/Main Workout.md",
+    "To read/Lists/Me/Daily Workout/Morning warm up.md",
+    "To read/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
+    "To read/Research n learn/coding/Neural Networks and Deep Learning-Michael Nielsen.pdf",
+    "To read/Non fiction/Mental Models/Volume I_Shane Parrish - The Great Mental Models_ General Thinking Concepts, Farnam Street Media Inc. (2019)(Z-Lib.io).epub",
+    "To read/Non fiction/Mental Models/Volume 2_Shane Parrish - The Great Mental Models, Physics, Chemistry and Biology-Latticework Publishing Inc. (2020)(Z-Lib.io).epub",
+    "To read/Non fiction/Mental Models/Volume 3_Rhiannon Beaubien_ Rosie Leizrowice - The Great Mental Models Systems and Mathematics-Latticework Publishing Inc. (2021)(Z-Lib.io).epub",
+    "To read/Non fiction/Mental Models",
+    "To read/Science/Six Easy Pieces ( PDFDrive ).pdf",
+    "To read/Non fiction/Sadhguru - Death.pdf",
+    "To read/Lists/Me/Daily Workout/Cool Down.md",
+    "To read/Non fiction/Sadhguru-Shiva - Ultimate Outlaw.pdf",
+    "To read/Research n learn/coding/Data Science from Scratch.pdf",
+    "To read/Non fiction/Sadhguru-Three Truths of Well-Being.pdf",
+    "To read/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
+    "To read/Lists/Me/Lessons by Prathams.md",
+    "To read/Lists/Me/Morning Procedures.md",
+    "To read/Lists/Me/Be healthy, wealthy and wise.md",
     "To read/Lists/Me/fobw.md",
-    "To read/Non fiction/The_Book_Of_Secrets_-_Osho.pdf",
-    "To read/Research n learn/coding/REAL-PROJECTS.pdf",
-    "To read/Non fiction/4BasicPrincAdvitiaVedanta_ENA4.pdf",
-    "To read/Fiction/The Dark Verse (Ryunx)/The_Emperor_DV-3-__RuNyx.pdf",
-    "To read/Non fiction/How_to_Change_Your_Mind_-_Michael_Pollan.pdf",
-    "To read/Fiction/The Dark Verse (Ryunx)/The_Reaper_DV-2-__RuNyx.pdf",
-    "To read/Fiction/The Dark Verse (Ryunx)/The_Predator_DV-1-__RuNyx.pdf",
-    "To read/Fiction/Dark Romance (Aubrey Dark)/Mine_Dark-Romance-2-_Aubrey_Dark.pdf",
-    "To read/Fiction/Dark Romance (Aubrey Dark)/His_Dark-Romance-1-_Aurbrey_Dark.pdf",
-    "To read/Fiction/Dark Romance (Aubrey Dark)/Yours_Dark-Romance-3-_Aubrey_Dark.pdf",
+    "To read/Lists/Me/Art of S.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "PARA/Projects/Python.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
@@ -238,16 +250,7 @@
     "PARA/Research ( Exploration )/Web 3.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
-    "To read/Lists/Me/Art of S.md",
     "PARA/Research ( Exploration )/Notes n resource/Resources.md",
-    "Syllabus/Sem 2/SnS/Mod 6.md",
-    "Syllabus/Sem 2/SnS/Mod 4.md",
-    "Syllabus/Sem 2/SnS/Mod 3.md",
-    "Syllabus/Sem 2/SnS/Mod 5.md",
-    "Syllabus/Sem 2/SnS/Mod 1.md",
-    "Syllabus/Sem 2/SnS/Mod 2.md",
-    "Syllabus/Sem 2/CO/Untitled.md",
-    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
