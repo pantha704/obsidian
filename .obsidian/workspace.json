@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Trading/Sources.md",
+                "file": "PARA/Archives/Web3/Sources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Trading/Sources.md",
+                "file": "PARA/Archives/Web3/Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Trading/Sources.md"
+                "file": "PARA/Archives/Web3/Sources.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "b0aac720c26901b2",
+            "id": "06e0842281116659",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -199,10 +199,11 @@
   },
   "active": "7a270f8e5d9fe077",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Web3/Sources.md",
-    "1..md",
-    "PARA/Archives/Trading/Sources.md",
     "PARA/Archives/Web3/Approach Startups.md",
+    "PARA/Archives/Trading/Sources.md",
+    "1..md",
     "PARA/Research ( Exploration )/Trading.md",
     "PARA/Archives/Trading",
     "PARA/Research ( Exploration )/Web 3.md",
@@ -234,7 +235,6 @@
     "To read/Lists/Me/Art of S.md",
     "To read/Lists/Me/fobw.md",
     "PARA/Research ( Exploration )/Notes n resource/Downloading videos using yt-dlp.md",
-    "PARA/Research ( Exploration )/Notes n resource/msfconsole.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
