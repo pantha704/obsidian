@@ -3,6 +3,7 @@
 
 - ### [Solidity](https://soliditylang.org/) 
 - ### [Cyfrin Updraft](https://updraft.cyfrin.io/) 
+- ### [Alchemy](https://university.alchemy.com/home) 
 - ### 
 
 
@@ -12,6 +13,7 @@
 
 - ### [Solana](https://solana.com/)  
 - ### [Rise In](https://www.risein.com/) 
+- ### [Sol Dev ( Switched to Solana's course on main site )](https://www.soldev.app/course) 
 - ### [Ground Zero by Superteams](https://groundzero.superteam.fun/)  
 - ### 
 

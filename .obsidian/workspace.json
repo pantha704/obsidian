@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "06e0842281116659",
+            "id": "f528935a164ed217",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -197,14 +197,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a270f8e5d9fe077",
+  "active": "f528935a164ed217",
   "lastOpenFiles": [
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Trading/Sources.md",
-    "1..md",
     "PARA/Research ( Exploration )/Trading.md",
+    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
+    "PARA/Research ( Exploration )/Full stack dev.md",
+    "PARA/Archives/Web dev",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Archives/Web3/Approach Startups.md",
+    "1..md",
     "PARA/Archives/Trading",
     "PARA/Research ( Exploration )/Web 3.md",
     "To read/Lists/Me/Lessons by Prathams.md",
@@ -216,8 +220,6 @@
     "To read/Non fiction/The Soul’s Code_ In Search of Character and Calling ( PDFDrive.com ).pdf",
     "To read/Non fiction/The Soul’s Code_ In Search of Character and Calling ( PDFDrive.com ).pdf.crdownload",
     "To read/Non fiction/Direct-truth_compress.pdf",
-    "PARA/Archives/Web3",
-    "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Python.md",
     "PARA/Research ( Exploration )/Kali.md",
     "PARA/Research ( Exploration )/Video Editing.md",
@@ -225,7 +227,6 @@
     "PARA/Research ( Exploration )/Flutter.md",
     "PARA/Research ( Exploration )/IOT.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
-    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "To read/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
     "To read/Lists/Me/Daily Workout/Morning warm up.md",
     "To read/Lists/Me/Daily Workout/Cool Down.md",
@@ -234,7 +235,6 @@
     "To read/Lists/Watch n Read list.md",
     "To read/Lists/Me/Art of S.md",
     "To read/Lists/Me/fobw.md",
-    "PARA/Research ( Exploration )/Notes n resource/Downloading videos using yt-dlp.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
