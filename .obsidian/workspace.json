@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "aeaa9786f9b3853e",
+            "id": "15d01ff90a26247d",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aeaa9786f9b3853e",
+  "active": "15d01ff90a26247d",
   "lastOpenFiles": [
+    "To read/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "To read/Non fiction/The Black Swan - Nassim Nicholas Taleb.pdf",
     "To read/Research n learn/trading/Stock Trading for Beginners ( Udemy ).pdf",
     "To read/Research n learn/trading",
@@ -219,7 +221,6 @@
     "To read/Non fiction/The Peloponnesian War - Thucydides (Oxford World's Classics) ( PDFDrive ).pdf",
     "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf.crdownload",
-    "To read/Non fiction/Antifragile__2012_Nassim_Taleb.pdf",
     "PARA/Research ( Exploration )/Python.md",
     "PARA/Research ( Exploration )/Kali.md",
     "PARA/Research ( Exploration )/Video Editing.md",
