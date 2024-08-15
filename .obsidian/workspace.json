@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "edc3c938114604ab",
+            "id": "f740451e8c72d498",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +192,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "edc3c938114604ab",
+  "active": "f740451e8c72d498",
   "lastOpenFiles": [
     "To read/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "To read/Non fiction/The Black Swan - Nassim Nicholas Taleb.pdf",
