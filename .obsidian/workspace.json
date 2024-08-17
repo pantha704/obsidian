@@ -11,8 +11,13 @@
             "id": "af75640b6f0cd0b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web3/Sources.md",
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web3/Sources.md"
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md"
               }
             }
           },
@@ -192,37 +197,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "283c85215d9f5a8e",
+  "active": "af75640b6f0cd0b1",
   "lastOpenFiles": [
+    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
+    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
+    "PARA/Archives/Web dev/Nextjs",
+    "PARA/Research ( Exploration )/After Magisk root.md",
+    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Archives/Web dev/Nextjs",
+    "Code Dumps/Web Dev",
     "To read/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "ebooks/Non fiction/The Black Swan - Nassim Nicholas Taleb.pdf",
     "ebooks/Research n learn/trading/Stock Trading for Beginners ( Udemy ).pdf",
     "ebooks/Research n learn/trading",
     "To read/Non fiction/~~$The-Laws-of-Human-Nature.pdf",
     "To read/Non fiction/~~$Direct-truth_compress.pdf",
-    "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
-    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Archives/Web dev",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "1..md",
-    "PARA/Archives/Trading",
     "PARA/Research ( Exploration )/Web 3.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
-    "ebooks/Non fiction/The Peloponnesian War - Thucydides (Oxford World's Classics) ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
-    "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf.crdownload",
     "PARA/Research ( Exploration )/Python.md",
     "PARA/Research ( Exploration )/Kali.md",
     "PARA/Research ( Exploration )/Video Editing.md",
     "PARA/Research ( Exploration )/C and C++.md",
     "PARA/Research ( Exploration )/Flutter.md",
     "PARA/Research ( Exploration )/IOT.md",
-    "PARA/Research ( Exploration )/After Magisk root.md",
     "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
     "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",

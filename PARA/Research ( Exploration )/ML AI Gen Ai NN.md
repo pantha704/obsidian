@@ -1,6 +1,6 @@
 
-- ### [Machine learning a-z](https://sdsclub.com/machine-learning-a-z-tips-and-resources/) 
 - ### [Machine learning a-z resources](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.dropbox.com%2Fsh%2Fyupiogdyr7p8i0p%2FAAA1GyR2dXv-NYCjlQ5l17o5a%3Fdl%3D0&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-ODdiMzk1YmEtNzdkNS00MjM1LTljZTItNTM4ZWZkOTk4ZjhhXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BE48swJ%2ByRuaPF7CL%2BdIrig%3D%3D) 
+- ### [Machine learning a-z](https://sdsclub.com/machine-learning-a-z-tips-and-resources/) 
 - 
 
 
