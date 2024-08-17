@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e553b18cd814cf0a",
+        "id": "9d014868d7508f86",
         "type": "tabs",
         "children": [
           {
-            "id": "40cf5aeb1569d8e7",
+            "id": "af75640b6f0cd0b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "aff4667e04ffef5f",
+            "id": "283c85215d9f5a8e",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -192,12 +192,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f0965d5f9a60c171",
+  "active": "283c85215d9f5a8e",
   "lastOpenFiles": [
     "To read/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
-    "To read/Non fiction/The Black Swan - Nassim Nicholas Taleb.pdf",
-    "To read/Research n learn/trading/Stock Trading for Beginners ( Udemy ).pdf",
-    "To read/Research n learn/trading",
+    "ebooks/Non fiction/The Black Swan - Nassim Nicholas Taleb.pdf",
+    "ebooks/Research n learn/trading/Stock Trading for Beginners ( Udemy ).pdf",
+    "ebooks/Research n learn/trading",
     "To read/Non fiction/~~$The-Laws-of-Human-Nature.pdf",
     "To read/Non fiction/~~$Direct-truth_compress.pdf",
     "PARA/Archives/Web dev/Sources.md",
@@ -212,9 +212,9 @@
     "1..md",
     "PARA/Archives/Trading",
     "PARA/Research ( Exploration )/Web 3.md",
-    "To read/Lists/Me/Lessons by Prathams.md",
-    "To read/Non fiction/The Peloponnesian War - Thucydides (Oxford World's Classics) ( PDFDrive ).pdf",
-    "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
+    "ebooks/Lists/Me/Lessons by Prathams.md",
+    "ebooks/Non fiction/The Peloponnesian War - Thucydides (Oxford World's Classics) ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf.crdownload",
     "PARA/Research ( Exploration )/Python.md",
     "PARA/Research ( Exploration )/Kali.md",
@@ -223,13 +223,13 @@
     "PARA/Research ( Exploration )/Flutter.md",
     "PARA/Research ( Exploration )/IOT.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
-    "To read/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
-    "To read/Lists/Me/Daily Workout/Morning warm up.md",
-    "To read/Lists/Me/Daily Workout/Cool Down.md",
-    "To read/Lists/Me/Daily Workout/Main Workout.md",
-    "To read/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
-    "To read/Lists/Watch n Read list.md",
-    "To read/Lists/Me/Art of S.md",
+    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
+    "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
+    "ebooks/Lists/Me/Daily Workout/Cool Down.md",
+    "ebooks/Lists/Me/Daily Workout/Main Workout.md",
+    "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
+    "ebooks/Lists/Watch n Read list.md",
+    "ebooks/Lists/Me/Art of S.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
