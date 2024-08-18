@@ -11,12 +11,9 @@
             "id": "3d208711387253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "ebooks/Non fiction/Mastery.pdf"
               }
             }
           }
@@ -32,7 +29,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
+                "file": "ebooks/Non fiction/Mastery.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "To read/Lists/Me/Daily Workout/Cool Down.md",
+            "file": "ebooks/Non fiction/Mastery.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -139,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "To read/Lists/Me/Daily Workout/Cool Down.md"
+            "file": "ebooks/Non fiction/Mastery.pdf"
           }
         }
       },
@@ -184,7 +181,7 @@
         }
       },
       {
-        "id": "9fd2ff851b6791e5",
+        "id": "ce82a73e5772d0a7",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -213,33 +210,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fd2ff851b6791e5",
+  "active": "3d208711387253ac",
   "lastOpenFiles": [
+    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
+    "ebooks/Non fiction/Mastery.pdf",
+    "ebooks/Lists/Me/Daily Workout/Cool Down.md",
+    "ebooks/Research n learn/hecking/Practical Reverse Engineering.pdf",
+    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
+    "ebooks/Research n learn/hecking/The Art of Memory Forensics - Detecting Malware and Threats in Windows, Linux, and Mac Memory (2014).pdf",
+    "ebooks/Lists/Me/fobw.md",
+    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
+    "PARA/Archives/Web dev/Nextjs",
     "To read/Non fiction/e70b1ed0-cb22-45b4-bb9d-1e4ddb377065.pdf",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Archives/Web dev/Sources.md",
-    "To read/Non fiction/Direct-truth_compress.pdf",
-    "To read/Non fiction/Antifragile__2012_Nassim_Taleb.pdf",
-    "To read/Non fiction/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
-    "To read/Non fiction/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
-    "To read/Non fiction/Stillness is the Key - Ryan Holiday ( PDFDrive ).pdf",
-    "To read/Non fiction/The Peloponnesian War - Thucydides (Oxford World's Classics) ( PDFDrive ).pdf",
-    "To read/Non fiction/The Soul’s Code_ In Search of Character and Calling ( PDFDrive.com ).pdf",
-    "To read/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
-    "PARA/Archives/Trading",
-    "PARA/Archives/Web dev",
+    "ebooks/Non fiction/Direct-truth_compress.pdf",
+    "ebooks/Non fiction/Antifragile__2012_Nassim_Taleb.pdf",
+    "ebooks/Non fiction/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
+    "ebooks/Non fiction/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
+    "ebooks/Non fiction/Stillness is the Key - Ryan Holiday ( PDFDrive ).pdf",
     "PARA/Archives/Web3/Approach Startups.md",
-    "To read/Lists/Me/Daily Workout/Main Workout.md",
-    "To read/Lists/Me/Daily Workout/Morning warm up.md",
-    "To read/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
-    "To read/Lists/Me/Daily Workout/Cool Down.md",
-    "To read/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
-    "To read/Lists/Me/Lessons by Prathams.md",
+    "ebooks/Lists/Me/Daily Workout/Main Workout.md",
+    "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
+    "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
+    "ebooks/Lists/Me/Lessons by Prathams.md",
     "To read/Lists/Me/Morning Procedures.md",
     "To read/Lists/Me/Be healthy, wealthy and wise.md",
-    "To read/Lists/Me/fobw.md",
-    "To read/Lists/Me/Art of S.md",
+    "ebooks/Lists/Me/Art of S.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "PARA/Projects/Python.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
@@ -250,7 +248,6 @@
     "PARA/Research ( Exploration )/Kali.md",
     "PARA/Research ( Exploration )/IOT.md",
     "PARA/Research ( Exploration )/Python.md",
-    "PARA/Research ( Exploration )/Trading.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",

@@ -271,4 +271,3 @@ Next.js has built-in support for internationalized (i18n) routing and language d
 ## 16. Static HTML Export
 
 Next.js allows you to export your application to static HTML, which can be run standalone without the need of a Node.js server.
-
