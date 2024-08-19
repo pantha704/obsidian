@@ -163,15 +163,7 @@
             }
           },
           {
-            "id": "41c4a1fa12cf3a51",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bfab994077489fb",
+            "id": "60e375f5c6bdc029",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -179,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -205,7 +197,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b31435e8cf886b6",
+  "active": "60e375f5c6bdc029",
   "lastOpenFiles": [
     "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
