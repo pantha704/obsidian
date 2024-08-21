@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ebooks/Non fiction/Mastery.pdf"
+                "file": "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf"
               }
             }
           }
@@ -29,7 +29,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ebooks/Non fiction/Mastery.pdf",
+                "file": "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ebooks/Non fiction/Mastery.pdf",
+            "file": "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -136,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ebooks/Non fiction/Mastery.pdf"
+            "file": "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf"
           }
         }
       },
@@ -181,7 +181,7 @@
         }
       },
       {
-        "id": "bd88558275b53c16",
+        "id": "2faee22a473c0599",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -212,8 +212,8 @@
   },
   "active": "3d208711387253ac",
   "lastOpenFiles": [
-    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "ebooks/Non fiction/Mastery.pdf",
+    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
     "ebooks/Research n learn/hecking/Practical Reverse Engineering.pdf",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
