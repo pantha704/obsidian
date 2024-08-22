@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c29f66fa5ba094b",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
     "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
