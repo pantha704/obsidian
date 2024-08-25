@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md"
+                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "41c60ae55c07220e",
+            "id": "be4f349a0d6d9c65",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -197,8 +197,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b31435e8cf886b6",
+  "active": "be4f349a0d6d9c65",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Sources.md",
     "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
@@ -210,7 +211,6 @@
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Web dev/Nextjs",
     "PARA/Research ( Exploration )/After Magisk root.md",
-    "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Web dev/Nextjs",
     "Code Dumps/Web Dev",
     "PARA/Archives/Web3/Sources.md",
