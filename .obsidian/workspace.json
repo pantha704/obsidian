@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "be4f349a0d6d9c65",
+            "id": "07edc2899961288e",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be4f349a0d6d9c65",
+  "active": "07edc2899961288e",
   "lastOpenFiles": [
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf.crdownload",
