@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60fea2ca7eb15aed",
+        "id": "b218a30756ada019",
         "type": "tabs",
         "children": [
           {
-            "id": "1b31435e8cf886b6",
+            "id": "d53a3909306a7189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +155,7 @@
             }
           },
           {
-            "id": "07edc2899961288e",
+            "id": "2e9ce0ab42d5814f",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +189,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "07edc2899961288e",
+  "active": "2e9ce0ab42d5814f",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf.crdownload",
     "PARA/Archives/Web dev/Sources.md",
     "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
-    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "ebooks/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "ebooks/Fiction/Dark Romance (Aubrey Dark)/His_Dark-Romance-1-_Aurbrey_Dark.pdf",
@@ -212,7 +205,6 @@
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Web dev/Nextjs",
     "PARA/Research ( Exploration )/After Magisk root.md",
-    "PARA/Archives/Web dev/Nextjs",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
