@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "a0dfe7ad5f1342c5",
+            "id": "aa155a13699ad508",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +188,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a0dfe7ad5f1342c5",
+  "active": "aa155a13699ad508",
   "lastOpenFiles": [
     "ebooks/Science/The Beginning of Infinity - David Deutsch - Explanations that Transform the World.pdf",
     "ebooks/Science/The_Fabric_of_Reality - David_Deutsch.pdf",
