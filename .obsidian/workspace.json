@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b218a30756ada019",
+        "id": "528dcdd5e95c39b8",
         "type": "tabs",
         "children": [
           {
-            "id": "d53a3909306a7189",
+            "id": "0219aead00c45fc1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "8bd9d2f83caa8242",
+            "id": "5f08d37051155efa",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -188,7 +188,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8bd9d2f83caa8242",
+  "active": "5f08d37051155efa",
   "lastOpenFiles": [
     "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
     "ebooks/Science/The Beginning of Infinity - David Deutsch - Explanations that Transform the World.pdf",
