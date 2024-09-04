@@ -11,8 +11,13 @@
             "id": "746245ffc8c1863b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md"
+              }
             }
           },
           {
@@ -155,7 +163,7 @@
             }
           },
           {
-            "id": "df25fa2936e0d0fe",
+            "id": "0736607230732042",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -191,6 +199,12 @@
   },
   "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Areas ( for jobs )/Freelance/Guide.md",
+    "PARA/Areas ( for jobs )/Freelance",
+    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
+    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
     "ebooks/Science/The Beginning of Infinity - David Deutsch - Explanations that Transform the World.pdf",
     "ebooks/Science/The_Fabric_of_Reality - David_Deutsch.pdf",
@@ -198,19 +212,14 @@
     "ebooks/Science/The Beginning of Infinity -  Explanations that Transform the World - David Deutsch.pdf.crdownload",
     "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf",
     "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf.crdownload",
-    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf.crdownload",
-    "PARA/Archives/Web dev/Sources.md",
-    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
-    "ebooks/Non fiction/~~$A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "1..md",
     "PARA/Research ( Exploration )/Web 3.md",
@@ -226,7 +235,6 @@
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
     "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
-    "ebooks/Lists/Watch n Read list.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
