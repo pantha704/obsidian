@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "a7b52b18890f32ca",
+            "id": "37da9c7d4e752d25",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7b52b18890f32ca",
+  "active": "37da9c7d4e752d25",
   "lastOpenFiles": [
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
