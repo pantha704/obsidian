@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md",
+                "file": "PARA/Archives/AI ML/Path.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md",
+                "file": "PARA/Archives/AI ML/Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Freelance/Guide.md"
+                "file": "PARA/Archives/AI ML/Path.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "bd15387f42fbe12e",
+            "id": "caced37a8f8ca526",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd15387f42fbe12e",
+  "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Freelance/Guide.md",
+    "PARA/Archives/AI ML/Path.md",
     "ebooks/Non fiction/The 48 Laws Of Power.pdf",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Areas ( for jobs )/Freelance/Guide.md",
     "PARA/Areas ( for jobs )/Freelance",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/Web dev/Sources.md",
@@ -213,7 +215,6 @@
     "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf",
     "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf.crdownload",
     "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
-    "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf.crdownload",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Archives/Web3/Sources.md",
