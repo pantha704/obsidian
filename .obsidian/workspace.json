@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "PARA/Areas ( for jobs )/Guide/Things to keep in mind.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "PARA/Areas ( for jobs )/Guide/Things to keep in mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md"
+                "file": "PARA/Areas ( for jobs )/Guide/Things to keep in mind.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "4a387a0f9c810679",
+            "id": "3d1d6444b9873a0b",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +198,18 @@
   },
   "active": "746245ffc8c1863b",
   "lastOpenFiles": [
-    "PARA/Archives/Blogs.md",
+    "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Areas ( for jobs )/Freelance/Guide.md",
+    "PARA/Areas ( for jobs )/Guide/Things to keep in mind.md",
+    "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Web dev/Sources.md",
+    "PARA/Areas ( for jobs )/Guide",
+    "PARA/Archives/Web dev/Guide.md",
+    "PARA/Archives/Blogs.md",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "ebooks/Science/Richard Feynman - Lectures on Physics - Motion of the Planets.mp3",
     "ebooks/Science/Feynman Lectures on Physics  Volumes 1,2,3 - Feynman, Leighton and Sands.pdf",
-    "PARA/Areas ( for jobs )/Freelance/Guide.md",
     "PARA/Archives/Ideas n Resources/Project ideas.md",
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf",
     "PARA/Archives/Ideas n Resources/Books sites.md",
@@ -215,8 +219,6 @@
     "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.epub",
     "ebooks/Non fiction/Feynman/Unconfirmed 129495.crdownload",
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf.crdownload",
-    "ebooks/Non fiction/Feynman/SURELY YOU'RE JOKING MR. FEYNMAN - RICHARD P. FEYNMAN.pdf",
-    "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Ideas n Resources/Resources.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
@@ -232,9 +234,6 @@
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/AI ML/Path.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
-    "PARA/Archives/Trading/Sources.md",
-    "PARA/Research ( Exploration )/Trading.md",
-    "1..md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
