@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Project ideas.md",
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Project ideas.md",
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Project ideas.md"
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "edbe93698506f179",
+            "id": "7c0a7092495a9090",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +196,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Freelance/Guide.md",
+    "PARA/Archives/Ideas n Resources/Project ideas.md",
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf",
     "PARA/Archives/Ideas n Resources/Books sites.md",
     "ebooks/Non fiction/Feynman/[Feynman _1] Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
@@ -210,8 +211,6 @@
     "ebooks/Non fiction/Feynman/SURELY YOU'RE JOKING MR. FEYNMAN - RICHARD P. FEYNMAN.pdf",
     "ebooks/Non fiction/Feynman/what-do-you-care-what-other-people-think - Feynman-Richard-pr_063fdecd0bff6b4b1abee8b27a5af984.pdf",
     "ebooks/Non fiction/Feynman",
-    "ebooks/Non fiction/New folder",
-    "PARA/Archives/Ideas n Resources/Project ideas.md",
     "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Ideas n Resources/Resources.md",
     "PARA/Archives/Untitled.md",
@@ -222,7 +221,6 @@
     "PARA/Projects/Javascript.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
-    "PARA/Areas ( for jobs )/Freelance/Guide.md",
     "PARA/Areas ( for jobs )/After effects.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Web3/Approach Startups.md",
