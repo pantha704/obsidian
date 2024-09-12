@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/AI ML/Path.md",
+                "file": "PARA/Projects/Flutter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/AI ML/Path.md",
+                "file": "PARA/Projects/Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/AI ML/Path.md"
+                "file": "PARA/Projects/Flutter.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "caced37a8f8ca526",
+            "id": "6b925d77b580a1f2",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -197,31 +197,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "746245ffc8c1863b",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
+    "ebooks/Non fiction/[SUM] Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
+    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
+    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf.crdownload",
+    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf",
+    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf.crdownload",
+    "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf",
+    "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf.crdownload",
+    "ebooks/Research n learn/coding/PyTorch深度学习（GPT双语） - (it-ebooks-extra) it-ebooks - iBooker it-ebooks(Z-Lib.io).pdf",
+    "ebooks/Research n learn/coding/(it-ebooks-extra) it-ebooks - PyTorch深度学习（GPT双语）-iBooker it-ebooks(Z-Lib.io).pdf",
+    "ebooks/Research n learn/coding/(it-ebooks-extra) it-ebooks - PyTorch深度学习（GPT双语）-iBooker it-ebooks(Z-Lib.io).pdf.crdownload",
+    "PARA/Projects/Javascript.md",
+    "PARA/Projects/Python.md",
+    "PARA/Projects/After effects.md",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
-    "PARA/Archives/AI ML/Path.md",
-    "ebooks/Non fiction/The 48 Laws Of Power.pdf",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Areas ( for jobs )/Freelance",
-    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
-    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Areas ( for jobs )/After effects.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "ebooks/Non fiction/~~$Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
-    "ebooks/Science/The Beginning of Infinity - David Deutsch - Explanations that Transform the World.pdf",
-    "ebooks/Science/The_Fabric_of_Reality - David_Deutsch.pdf",
-    "ebooks/Science/The Beginning of Infinity -  Explanations that Transform the World - David Deutsch.pdf",
-    "ebooks/Science/The Beginning of Infinity -  Explanations that Transform the World - David Deutsch.pdf.crdownload",
-    "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf",
-    "ebooks/Science/The_Fabric_of_Reality-David_Deutsch.pdf.crdownload",
-    "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
+    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
+    "PARA/Archives/AI ML/Path.md",
+    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
-    "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
-    "PARA/Archives/Web3/Approach Startups.md",
     "1..md",
     "PARA/Research ( Exploration )/Web 3.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
@@ -230,11 +235,6 @@
     "PARA/Research ( Exploration )/Video Editing.md",
     "PARA/Research ( Exploration )/C and C++.md",
     "PARA/Research ( Exploration )/Flutter.md",
-    "PARA/Research ( Exploration )/IOT.md",
-    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
-    "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
-    "ebooks/Lists/Me/Daily Workout/Cool Down.md",
-    "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
