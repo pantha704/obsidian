@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Blogs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Blogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md"
+                "file": "PARA/Archives/Blogs.md"
               }
             }
           },
@@ -199,6 +199,10 @@
   },
   "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Archives/Blogs.md",
+    "ebooks/Science/Links.md",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "ebooks/Science/Richard Feynman - Lectures on Physics - Motion of the Planets.mp3",
     "ebooks/Science/Feynman Lectures on Physics  Volumes 1,2,3 - Feynman, Leighton and Sands.pdf",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
@@ -212,10 +216,8 @@
     "ebooks/Non fiction/Feynman/Unconfirmed 129495.crdownload",
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf.crdownload",
     "ebooks/Non fiction/Feynman/SURELY YOU'RE JOKING MR. FEYNMAN - RICHARD P. FEYNMAN.pdf",
-    "ebooks/Non fiction/Feynman/what-do-you-care-what-other-people-think - Feynman-Richard-pr_063fdecd0bff6b4b1abee8b27a5af984.pdf",
     "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Ideas n Resources/Resources.md",
-    "PARA/Archives/Untitled.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Video Editing.md",
@@ -229,8 +231,6 @@
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/AI ML/Path.md",
-    "PARA/Archives/Web dev/Sources.md",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
