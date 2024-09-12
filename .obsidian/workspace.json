@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Books sites.md",
+                "file": "PARA/Archives/Ideas n Resources/Project ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Books sites.md",
+                "file": "PARA/Archives/Ideas n Resources/Project ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Ideas n Resources/Books sites.md"
+                "file": "PARA/Archives/Ideas n Resources/Project ideas.md"
               }
             }
           },
@@ -199,24 +199,25 @@
   },
   "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Archives/Ideas n Resources/Books sites.md",
+    "ebooks/Non fiction/Feynman/[Feynman _1] Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
+    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.pdf",
+    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.pdf.crdownload",
+    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.epub",
+    "ebooks/Non fiction/Feynman/Unconfirmed 129495.crdownload",
+    "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf.crdownload",
+    "ebooks/Non fiction/Feynman/SURELY YOU'RE JOKING MR. FEYNMAN - RICHARD P. FEYNMAN.pdf",
+    "ebooks/Non fiction/Feynman/what-do-you-care-what-other-people-think - Feynman-Richard-pr_063fdecd0bff6b4b1abee8b27a5af984.pdf",
+    "ebooks/Non fiction/Feynman",
+    "ebooks/Non fiction/New folder",
     "PARA/Archives/Ideas n Resources/Project ideas.md",
     "PARA/Archives/Designing/Rules.md",
-    "PARA/Archives/Ideas n Resources",
     "PARA/Archives/Ideas n Resources/Resources.md",
-    "PARA/Archives/Designing",
     "PARA/Archives/Untitled.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Video Editing.md",
     "PARA/Projects/Flutter.md",
-    "ebooks/Non fiction/Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
-    "ebooks/Non fiction/[SUM] Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
-    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
-    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf.crdownload",
-    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf",
-    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf.crdownload",
-    "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf",
-    "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf.crdownload",
     "PARA/Projects/Javascript.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
@@ -234,7 +235,6 @@
     "PARA/Research ( Exploration )/Trading.md",
     "1..md",
     "PARA/Research ( Exploration )/Web 3.md",
-    "ebooks/Lists/Me/Lessons by Prathams.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
