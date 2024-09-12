@@ -1,4 +1,6 @@
 
+# For download
+
 - ### [Archive](https://archive.org/) 
 - ### [ebooks cart](https://ebookscart.com/) 
 - ### [PDF drive](https://www.pdfdrive.com/) 
@@ -7,3 +9,14 @@
 - ### [Z Library](https://zlibrary.to/) 
 - ### [Z Lib](https://z-lib.io/) 
 - 
+  
+
+---
+
+# Summaries
+
+- ### [HN Books](https://hnbooks.pieterma.es/) 
+- ###
+- ###
+- ### 
+

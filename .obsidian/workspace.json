@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Designing/Rules.md",
+                "file": "PARA/Archives/Ideas n Resources/Books sites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Designing/Rules.md",
+                "file": "PARA/Archives/Ideas n Resources/Books sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Designing/Rules.md"
+                "file": "PARA/Archives/Ideas n Resources/Books sites.md"
               }
             }
           },
@@ -199,8 +199,10 @@
   },
   "active": "746245ffc8c1863b",
   "lastOpenFiles": [
-    "PARA/Research ( Exploration )/Notes n resource/Resources.md",
+    "PARA/Archives/Ideas n Resources/Project ideas.md",
     "PARA/Archives/Designing/Rules.md",
+    "PARA/Archives/Ideas n Resources",
+    "PARA/Archives/Ideas n Resources/Resources.md",
     "PARA/Archives/Designing",
     "PARA/Archives/Untitled.md",
     "PARA/Research ( Exploration )/After Magisk root.md",
@@ -215,7 +217,6 @@
     "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf.crdownload",
     "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf",
     "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf.crdownload",
-    "ebooks/Research n learn/coding/PyTorch深度学习（GPT双语） - (it-ebooks-extra) it-ebooks - iBooker it-ebooks(Z-Lib.io).pdf",
     "PARA/Projects/Javascript.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
@@ -234,7 +235,6 @@
     "1..md",
     "PARA/Research ( Exploration )/Web 3.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
-    "PARA/Research ( Exploration )/Python.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
