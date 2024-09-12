@@ -1,0 +1,2 @@
+- ### [Safe Rules](https://anthonyhobday.com/sideprojects/saferules/) 
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Flutter.md",
+                "file": "PARA/Archives/Designing/Rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Projects/Flutter.md",
+                "file": "PARA/Archives/Designing/Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Projects/Flutter.md"
+                "file": "PARA/Archives/Designing/Rules.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "6b925d77b580a1f2",
+            "id": "edbe93698506f179",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -197,8 +197,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "746245ffc8c1863b",
   "lastOpenFiles": [
+    "PARA/Research ( Exploration )/Notes n resource/Resources.md",
+    "PARA/Archives/Designing/Rules.md",
+    "PARA/Archives/Designing",
+    "PARA/Archives/Untitled.md",
+    "PARA/Research ( Exploration )/After Magisk root.md",
+    "PARA/Research ( Exploration )/Full stack dev.md",
+    "PARA/Research ( Exploration )/Video Editing.md",
+    "PARA/Projects/Flutter.md",
     "ebooks/Non fiction/Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
     "ebooks/Non fiction/[SUM] Creative-selection-inside-apples-design-process-during-the-gold-ken-kocienda-1f487d3.pdf",
     "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
@@ -208,8 +216,6 @@
     "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf",
     "ebooks/Non fiction/Mental Models/Tommy Tedford - The Great Mental Models_ Decision Making, Logical-Analysis, Problem-Solving, and Increasing Your Brain Power-Independently Published (2020)(Z-Lib.pdf.crdownload",
     "ebooks/Research n learn/coding/PyTorch深度学习（GPT双语） - (it-ebooks-extra) it-ebooks - iBooker it-ebooks(Z-Lib.io).pdf",
-    "ebooks/Research n learn/coding/(it-ebooks-extra) it-ebooks - PyTorch深度学习（GPT双语）-iBooker it-ebooks(Z-Lib.io).pdf",
-    "ebooks/Research n learn/coding/(it-ebooks-extra) it-ebooks - PyTorch深度学习（GPT双语）-iBooker it-ebooks(Z-Lib.io).pdf.crdownload",
     "PARA/Projects/Javascript.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
@@ -223,18 +229,12 @@
     "PARA/Archives/Web dev/Sources.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
-    "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Archives/Trading/Sources.md",
     "PARA/Research ( Exploration )/Trading.md",
-    "PARA/Research ( Exploration )/Full stack dev.md",
     "1..md",
     "PARA/Research ( Exploration )/Web 3.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
     "PARA/Research ( Exploration )/Python.md",
-    "PARA/Research ( Exploration )/Kali.md",
-    "PARA/Research ( Exploration )/Video Editing.md",
-    "PARA/Research ( Exploration )/C and C++.md",
-    "PARA/Research ( Exploration )/Flutter.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
