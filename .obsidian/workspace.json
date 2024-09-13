@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "fea8357826915af7",
+            "id": "f13cff5b0d2111ff",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +196,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "746245ffc8c1863b",
+  "active": "f13cff5b0d2111ff",
   "lastOpenFiles": [
-    "PARA/Archives/Resources.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "ebooks/Science/Links.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Resources.md",
+    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
