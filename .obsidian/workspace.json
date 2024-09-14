@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "112c7bb1b5d6a493",
+        "id": "0e5082f19fce37f3",
         "type": "tabs",
         "children": [
           {
-            "id": "746245ffc8c1863b",
+            "id": "8a1db06c25521ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "7ff52d747d26d250",
+            "id": "da55984638c45da9",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +196,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ff52d747d26d250",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "ebooks/Science/Links.md",
+    "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) - Kapil Gupta ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
+    "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Direct-truth_compress.pdf",
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Resources.md",
+    "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
+    "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Projects/Blender.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Areas ( for jobs )/Repos to commit.md",
+    "PARA/Research ( Exploration )/Notes n resource",
+    "ebooks/Science/Links.md",
+    "PARA/Archives/Resources.md",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
     "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Web dev/Sources.md",
@@ -213,15 +224,8 @@
     "PARA/Archives/Blogs.md",
     "ebooks/Science/Richard Feynman - Lectures on Physics - Motion of the Planets.mp3",
     "ebooks/Science/Feynman Lectures on Physics  Volumes 1,2,3 - Feynman, Leighton and Sands.pdf",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
     "ebooks/Non fiction/Feynman/[Feynman _1] Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
-    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.pdf",
-    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.pdf.crdownload",
-    "ebooks/Non fiction/Feynman/[Feynman _1] Feynman, Richard Phillips & Leighton, Ralph - Surely You're Joking, Mr. Feynman! (1985, Vintage) - libgen.li.epub",
-    "ebooks/Non fiction/Feynman/Unconfirmed 129495.crdownload",
-    "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf.crdownload",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Video Editing.md",
@@ -230,11 +234,6 @@
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
     "PARA/Areas ( for jobs )/After effects.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Approach Startups.md",
-    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
-    "PARA/Archives/AI ML/Path.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
