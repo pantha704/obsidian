@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "8bc1befcb20479d6",
+            "id": "f738e5893d5ec522",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8bc1befcb20479d6",
+  "active": "f738e5893d5ec522",
   "lastOpenFiles": [
+    "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
+    "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) - Kapil Gupta ( PDFDrive ).pdf",
@@ -224,8 +227,6 @@
     "PARA/Archives/Web dev/Guide.md",
     "PARA/Archives/Blogs.md",
     "ebooks/Science/Richard Feynman - Lectures on Physics - Motion of the Planets.mp3",
-    "ebooks/Science/Feynman Lectures on Physics  Volumes 1,2,3 - Feynman, Leighton and Sands.pdf",
-    "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf",
     "PARA/Research ( Exploration )/After Magisk root.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Video Editing.md",

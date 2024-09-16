@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/Archives/Web dev/Sources.md",
+            "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/Archives/Web dev/Sources.md"
+            "file": "Syllabus/Sem 3/Algorithm/Syllabus.md"
           }
         }
       },
@@ -184,7 +184,7 @@
         }
       },
       {
-        "id": "6033670a27e654e0",
+        "id": "6a65289052e1b5bf",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -213,23 +213,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6033670a27e654e0",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
-    "ebooks/Non fiction/5e8f92bf-c044-4244-a3b0-f25ea60d81a7.pdf",
-    "ebooks/Science/c5e319c7-fdc9-40e8-be5a-d5c94a25c12b.pdf",
-    "ebooks/Non fiction/Bhagavad-gita_As_It_Is.pdf",
-    "ebooks/Science/The Beginning of Infinity - David Deutsch - Explanations that Transform the World.pdf",
-    "ebooks/Science/The_Fabric_of_Reality - David_Deutsch.pdf",
-    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
+    "ebooks/Science/Links.md",
+    "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
+    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
+    "PARA/Research ( Exploration )/Notes/msfconsole.md",
+    "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
+    "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
+    "ebooks/Non fiction/Jordan B. Peterson - Beyond Order_ 12 More Rules for Life-Portfolio (2021)(Z-Lib.io).pdf",
+    "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
+    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf",
+    "ebooks/Non fiction/Poor Charlie’s Almanack_ The Wit and Wisdom of Charles T. Munger ( PDFDrive ).pdf",
+    "PARA/Archives/Designing",
+    "ebooks/Non fiction/Feynman",
+    "PARA/Areas ( for jobs )/Guide",
+    "PARA/Archives/Resources n Ideas",
+    "PARA/Research ( Exploration )/Notes",
     "PARA/Archives/Web dev/Sources.md",
-    "ebooks/Non fiction/The Art of Being ALONE Solitude Is My HOME, Loneliness Was My Cage.pdf",
-    "ebooks/Research n learn/coding/Head First JavaScript Programming_Eric T. Freeman, Elisabeth Robson - A Brain-Friendly Guide-O’Reilly Media (2014).pdf",
-    "ebooks/Research n learn/coding/Javascript In Less Than 50 Pages - Gabriel Torkel - 3.pdf",
+    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
-    "ebooks/Non fiction/Mastery.pdf",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
-    "ebooks/Research n learn/hecking/Practical Reverse Engineering.pdf",
     "ebooks/Lists/Me/fobw.md",
     "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
     "PARA/Archives/Web3/Sources.md",
@@ -243,14 +251,6 @@
     "To read/Lists/Me/Be healthy, wealthy and wise.md",
     "ebooks/Lists/Me/Art of S.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
-    "PARA/Projects/Python.md",
-    "PARA/Research ( Exploration )/After Magisk root.md",
-    "PARA/Research ( Exploration )/C and C++.md",
-    "PARA/Research ( Exploration )/Flutter.md",
-    "PARA/Research ( Exploration )/Full stack dev.md",
-    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
-    "PARA/Research ( Exploration )/Kali.md",
-    "PARA/Research ( Exploration )/IOT.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
