@@ -4,6 +4,11 @@
 - ### [CS knowledge MIT ](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
 - ### [Quick Ref](https://quickref.me/) 
 - ### [Code parrot (AI for creating UIs)](https://codeparrot.ai/) 
+- ### [Learn X in Y minutes](https://learnxinyminutes.com) 
+- ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) 
+- ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
+- ### [Project based learning](https://github.com/practical-tutorials/project-based-learning) 
 - ### 
+
 
 ---

@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "f738e5893d5ec522",
+            "id": "116b283c1ab85050",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a1db06c25521ede",
+  "active": "116b283c1ab85050",
   "lastOpenFiles": [
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
