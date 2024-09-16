@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Resources n Ideas/Books sites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Resources n Ideas/Books sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md"
+                "file": "PARA/Archives/Resources n Ideas/Books sites.md"
               }
             }
           },
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "116b283c1ab85050",
+  "active": "8a1db06c25521ede",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
     "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
@@ -207,11 +211,8 @@
     "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
     "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
     "ebooks/Non fiction/Direct-truth_compress.pdf",
-    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
     "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Projects/Blender.md",
@@ -223,7 +224,6 @@
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
     "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Web dev/Sources.md",
-    "PARA/Areas ( for jobs )/Guide",
     "PARA/Archives/Web dev/Guide.md",
     "PARA/Archives/Blogs.md",
     "PARA/Research ( Exploration )/After Magisk root.md",

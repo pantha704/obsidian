@@ -13,7 +13,7 @@
 
 ---
 
-# Summaries
+# Summaries / Quick lookup
 
 - ### [HN Books](https://hnbooks.pieterma.es/) 
 - ###
