@@ -147,14 +147,6 @@
             }
           },
           {
-            "id": "94b90e8d181a72a1",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
-            }
-          },
-          {
             "id": "2dacd2c85569c2e9",
             "type": "leaf",
             "state": {
@@ -163,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,6 +184,7 @@
   },
   "active": "8a1db06c25521ede",
   "lastOpenFiles": [
+    "_remotely-save-metadata-on-remote.json",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Books sites.md",
