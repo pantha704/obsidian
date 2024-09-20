@@ -130,14 +130,6 @@
             }
           },
           {
-            "id": "b73ecf1c48599e3b",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "96999b682b336a49",
             "type": "leaf",
             "state": {
@@ -155,27 +147,28 @@
             }
           },
           {
-            "id": "f2ce208574e4c741",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "1cf6ba2b2468cc0d",
+            "id": "94b90e8d181a72a1",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
               "state": {}
             }
+          },
+          {
+            "id": "2dacd2c85569c2e9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +186,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cf6ba2b2468cc0d",
+  "active": "8a1db06c25521ede",
   "lastOpenFiles": [
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",

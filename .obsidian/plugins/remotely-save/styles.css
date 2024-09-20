@@ -21,6 +21,10 @@
   display: none;
 }
 
+.settings-encryption-method-hide {
+  display: none;
+}
+
 .s3-disclaimer {
   font-weight: bold;
 }
@@ -58,11 +62,34 @@
   display: none;
 }
 
+.onedrivefull-allow-to-use-hide {
+  display: none;
+}
+
+.onedrivefull-disclaimer {
+  font-weight: bold;
+}
+.onedrivefull-hide {
+  display: none;
+}
+
+.onedrivefull-auth-button-hide {
+  display: none;
+}
+
+.onedrivefull-revoke-auth-button-hide {
+  display: none;
+}
+
 .webdav-disclaimer {
   font-weight: bold;
 }
 .webdav-hide {
   display: none;
+}
+
+.webdav-customheaders-textarea {
+  font-family: monospace;
 }
 
 .webdis-disclaimer {
@@ -148,12 +175,46 @@
   display: none;
 }
 
+.koofr-disclaimer {
+  font-weight: bold;
+}
+.koofr-hide {
+  display: none;
+}
+
+.koofr-allow-to-use-hide {
+  display: none;
+}
+
+.koofr-auth-button-hide {
+  display: none;
+}
+
+.koofr-revoke-auth-button-hide {
+  display: none;
+}
+
+.azureblobstorage-disclaimer {
+  font-weight: bold;
+}
+.azureblobstorage-hide {
+  display: none;
+}
+
+.azureblobstorage-allow-to-use-hide {
+  display: none;
+}
+
 .qrcode-img {
   width: 350px;
   height: 350px;
 }
 
 .ignorepaths-textarea {
+  font-family: monospace;
+}
+
+.onlyallowpaths-textarea {
   font-family: monospace;
 }
 
