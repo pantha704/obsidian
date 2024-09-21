@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "2dacd2c85569c2e9",
+            "id": "b711ea1d522dccbd",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -178,8 +178,8 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8a1db06c25521ede",
