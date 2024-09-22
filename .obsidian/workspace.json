@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5082f19fce37f3",
+        "id": "e8805cbc9b53d82b",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1db06c25521ede",
+            "id": "c740e0b69da7303d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Resources n Ideas/Books sites.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Books sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PARA/Archives/Resources n Ideas/Books sites.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,7 +139,7 @@
             }
           },
           {
-            "id": "b711ea1d522dccbd",
+            "id": "cb6ac249b46edb31",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -182,12 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a1db06c25521ede",
+  "active": "c740e0b69da7303d",
   "lastOpenFiles": [
+    "Syllabus/20230811_142039.pdf",
+    "Syllabus/Sem 3/OOP/Syllabus.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
     "_remotely-save-metadata-on-remote.json",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
     "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
@@ -196,7 +190,6 @@
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) - Kapil Gupta ( PDFDrive ).pdf",
     "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
     "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Direct-truth_compress.pdf",
     "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
     "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
@@ -204,7 +197,6 @@
     "PARA/Projects/Blender.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Areas ( for jobs )/Repos to commit.md",
-    "PARA/Research ( Exploration )/Notes n resource",
     "ebooks/Science/Links.md",
     "PARA/Archives/Resources.md",
     "PARA/Areas ( for jobs )/Freelance/Guide.md",
@@ -219,7 +211,6 @@
     "PARA/Projects/Javascript.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/After effects.md",
-    "PARA/Areas ( for jobs )/After effects.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
+                "file": "Syllabus/Sem 3/OOP/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
+                "file": "Syllabus/Sem 3/OOP/Syllabus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
+            "file": "Syllabus/Sem 3/OOP/Syllabus.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Syllabus/Sem 3/Algorithm/Syllabus.md"
+            "file": "Syllabus/Sem 3/OOP/Syllabus.md"
           }
         }
       },
@@ -184,7 +184,7 @@
         }
       },
       {
-        "id": "4ca894d0b8ea417f",
+        "id": "0c4e90da08b30c93",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
@@ -213,8 +213,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ca894d0b8ea417f",
+  "active": "3d208711387253ac",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Kapil Gupta MD - Complete Collection(Z-Lib.io).pdf",
+    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
@@ -234,7 +236,6 @@
     "ebooks/Non fiction/Feynman",
     "PARA/Areas ( for jobs )/Guide",
     "PARA/Archives/Resources n Ideas",
-    "PARA/Research ( Exploration )/Notes",
     "PARA/Archives/Web dev/Sources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
@@ -250,7 +251,6 @@
     "ebooks/Lists/Me/Lessons by Prathams.md",
     "To read/Lists/Me/Morning Procedures.md",
     "To read/Lists/Me/Be healthy, wealthy and wise.md",
-    "ebooks/Lists/Me/Art of S.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
