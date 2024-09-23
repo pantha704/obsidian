@@ -176,18 +176,18 @@
         }
       },
       {
-        "id": "b04818facf56237e",
-        "type": "leaf",
-        "state": {
-          "type": "timeline",
-          "state": {}
-        }
-      },
-      {
         "id": "0c4e90da08b30c93",
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "e7ed61813b8f1999",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
           "state": {}
         }
       }
@@ -196,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -213,8 +214,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d208711387253ac",
+  "active": "fb244a38a9bb09e7",
   "lastOpenFiles": [
+    "Syllabus/20230811_142039.pdf",
+    "Syllabus/Sem 3/OOP/Modules 1-4.md",
+    "_remotely-save-metadata-on-remote.json",
+    "ebooks/Non fiction/Feel-Good Productivity_ How to Do More of What Matters to You (Z-lib.io).pdf",
     "ebooks/Non fiction/Kapil Gupta MD - Complete Collection(Z-Lib.io).pdf",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
@@ -233,9 +238,6 @@
     "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf",
     "ebooks/Non fiction/Poor Charlie’s Almanack_ The Wit and Wisdom of Charles T. Munger ( PDFDrive ).pdf",
     "PARA/Archives/Designing",
-    "ebooks/Non fiction/Feynman",
-    "PARA/Areas ( for jobs )/Guide",
-    "PARA/Archives/Resources n Ideas",
     "PARA/Archives/Web dev/Sources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
@@ -250,7 +252,6 @@
     "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
     "To read/Lists/Me/Morning Procedures.md",
-    "To read/Lists/Me/Be healthy, wealthy and wise.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",

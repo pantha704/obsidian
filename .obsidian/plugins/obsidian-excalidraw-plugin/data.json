@@ -105,7 +105,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.5.0",
+  "previousRelease": "2.0.17",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -778,5 +778,5 @@
     }
   ],
   "showSplashscreen": true,
-  "autosaveInterval": 15000
+  "autosaveInterval": 10000
 }
