@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/OOP/Modules 1-4.md",
+                "file": "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus/Sem 3/OOP/Modules 1-4.md",
+                "file": "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus/Sem 3/OOP/Modules 1-4.md"
+                "file": "Syllabus/Sem 3/Computer Architecture/Syllabus.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "72fd9229b1446d0b",
+            "id": "f7eac414f5c10b99",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,8 +184,8 @@
   },
   "active": "c740e0b69da7303d",
   "lastOpenFiles": [
-    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
+    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "_remotely-save-metadata-on-remote.json",
