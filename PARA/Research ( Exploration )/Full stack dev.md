@@ -1,2 +1,5 @@
-- ### Learn prisma, graphql, nextjs, discord bots, tg bots,
+- ### Learn prisma, graphql, nextjs, discord bots, tg bots, 
 - 
+
+
+---
