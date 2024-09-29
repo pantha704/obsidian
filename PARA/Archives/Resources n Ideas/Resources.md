@@ -8,6 +8,8 @@
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) 
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [Project based learning](https://github.com/practical-tutorials/project-based-learning) 
+- ### [Its Foss](https://itsfoss.com) 
+- ### 
 - ### 
 
 
