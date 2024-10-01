@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md"
+                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "69eec46a24667c8f",
+            "id": "fe2590912175e2aa",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,13 +184,20 @@
   },
   "active": "f88c80a5b0fe2c1a",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Lets do this.md",
+    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
+    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+    "Weekly notes/Untitled.md",
+    "Syllabus/Sem 3/Algorithm/Syllabus.md",
+    "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Rusting up.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
-    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Video Editing.md",
     "PARA/Research ( Exploration )/IOT.md",
@@ -202,8 +209,6 @@
     "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "_remotely-save-metadata-on-remote.json",
-    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
     "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
@@ -215,10 +220,6 @@
     "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
-    "PARA/Projects/Blender.md",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Areas ( for jobs )/Repos to commit.md",
-    "ebooks/Science/Links.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }

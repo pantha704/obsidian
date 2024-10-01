@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/OOP/Syllabus.md",
+                "file": "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f03b4fd9e50716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5ba5bdc85466f4fc",
@@ -32,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Syllabus/Sem 3/OOP/Syllabus.md",
+                "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Syllabus/Sem 3/OOP/Syllabus.md",
+            "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -139,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Syllabus/Sem 3/OOP/Syllabus.md"
+            "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md"
           }
         }
       },
@@ -184,7 +198,15 @@
         }
       },
       {
-        "id": "4a68ae4ec4ca2b54",
+        "id": "c6e8e12716f353ae",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "c1cdf94ce39c37e8",
         "type": "leaf",
         "state": {
           "type": "timeline",
@@ -192,7 +214,7 @@
         }
       }
     ],
-    "currentTab": 7
+    "currentTab": 8
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,15 +236,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb244a38a9bb09e7",
+  "active": "54f03b4fd9e50716",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Lets do this.md",
+    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
+    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+    "Weekly notes/Untitled.md",
+    "Syllabus/Sem 3/Algorithm/Syllabus.md",
+    "PARA/Archives/Web3/Rusting up.md",
+    "ebooks/Research n learn/coding/Python-Distilled.pdf",
+    "ebooks/Research n learn/coding/Impractical Python Projects.pdf",
+    "ebooks/Research n learn/coding/Automate the Boring Stuff with Python.pdf",
+    "ebooks/Research n learn/coding/Python Playground - Mahesh Venkitachalam.pdf",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
+    "ebooks/Research n learn/coding/Python_Crash_Course_A_Hands_Eric_Matthes.pdf",
+    "ebooks/Research n learn/coding/Practical Python AI Projects ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
+    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "_remotely-save-metadata-on-remote.json",
     "ebooks/Non fiction/Feel-Good Productivity_ How to Do More of What Matters to You (Z-lib.io).pdf",
-    "ebooks/Non fiction/Kapil Gupta MD - Complete Collection(Z-Lib.io).pdf",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
-    "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
@@ -230,14 +264,8 @@
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Research ( Exploration )/Notes/msfconsole.md",
-    "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
-    "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "ebooks/Non fiction/Jordan B. Peterson - Beyond Order_ 12 More Rules for Life-Portfolio (2021)(Z-Lib.io).pdf",
     "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
-    "ebooks/Non fiction/Mental Models/The Great Mental Models_ General Thinking Concepts (Z-lib.io).pdf",
-    "ebooks/Non fiction/Poor Charlie’s Almanack_ The Wit and Wisdom of Charles T. Munger ( PDFDrive ).pdf",
-    "PARA/Archives/Designing",
     "PARA/Archives/Web dev/Sources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
@@ -246,12 +274,6 @@
     "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Trading/Sources.md",
-    "PARA/Archives/Web3/Approach Startups.md",
-    "ebooks/Lists/Me/Daily Workout/Main Workout.md",
-    "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
-    "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
-    "ebooks/Lists/Me/Lessons by Prathams.md",
-    "To read/Lists/Me/Morning Procedures.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
