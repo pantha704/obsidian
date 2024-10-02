@@ -8,7 +8,7 @@ Here's a breakdown of the key concepts in **Module-I: Finite State Machines and 
    - **Finite State Machine (FSM)**: A model of computation used to design sequential logic. It consists of a finite number of states, transitions between those states, and outputs.
 
 ### 2. **State Table & State Assignments**
-   - **State Table**: A table that lists all possible states of an FSM and the transitions between them based on inputs. It includes current states, inputs, next states, and outputs.
+   - **State Table**: A tabl  e that lists all possible states of an FSM and the transitions between them based on inputs. It includes current states, inputs, next states, and outputs.
    - **State Assignments**: The process of assigning binary codes to each state in the FSM, ensuring the circuit design works efficiently.
 
 ### 3. **Concept of Synchronous, Asynchronous, and Linear Sequential Machines**
