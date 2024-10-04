@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Lets do this.md",
+                "file": "PARA/Research ( Exploration )/Rooting android.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web dev/Lets do this.md",
+                "file": "PARA/Research ( Exploration )/Rooting android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Lets do this.md"
+                "file": "PARA/Research ( Exploration )/Rooting android.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "f88c80a5b0fe2c1a",
   "lastOpenFiles": [
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
     "PARA/Archives/Web dev/Lets do this.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Weekly notes/Untitled.md",
