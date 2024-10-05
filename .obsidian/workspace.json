@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Research ( Exploration )/Rooting android.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Research ( Exploration )/Rooting android.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Research ( Exploration )/Rooting android.md"
+                "file": "PARA/Archives/Resources n Ideas/Resources.md"
               }
             }
           },
@@ -184,7 +184,13 @@
   },
   "active": "f88c80a5b0fe2c1a",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Books sites.md",
+    "PARA/Archives/Web dev/Sources.md",
+    "PARA/Archives/Web dev/Nextjs/Example Repos.md",
+    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web dev/Lets do this.md",
+    "PARA/Research ( Exploration )/Rooting android.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
@@ -194,7 +200,6 @@
     "PARA/Archives/Web3/Rusting up.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
@@ -207,7 +212,6 @@
     "Untitled.md",
     "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
     "Syllabus/20230811_142039.pdf",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
     "_remotely-save-metadata-on-remote.json",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
@@ -216,10 +220,6 @@
     "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) - Kapil Gupta ( PDFDrive ).pdf",
     "ebooks/Non fiction/Direct-truth_compress - Kapil Gupta.pdf",
-    "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
-    "PARA/Research ( Exploration )/Notes n resource/Books sites.md",
-    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
-    "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
