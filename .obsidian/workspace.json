@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Web dev/Lets do this.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Web dev/Lets do this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md"
+                "file": "PARA/Archives/Web dev/Lets do this.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "4cf07474d1fd3b6d",
+            "id": "d9659742eb4fefb1",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,11 +184,12 @@
   },
   "active": "f88c80a5b0fe2c1a",
   "lastOpenFiles": [
+    "Templates/Daily Progress Template.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web dev/Lets do this.md",
     "PARA/Research ( Exploration )/Rooting android.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
@@ -210,7 +211,6 @@
     "PARA/Research ( Exploration )/Flutter.md",
     "Syllabus/Sem 3/OOP/Syllabus.md",
     "Untitled.md",
-    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
