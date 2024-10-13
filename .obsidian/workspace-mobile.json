@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+                "file": "PARA/Archives/Web dev/Lets do this.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +46,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+                "file": "PARA/Archives/Web dev/Lets do this.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+            "file": "PARA/Archives/Web dev/Lets do this.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Syllabus/Sem 3/Algorithm/Asymptotic notations.md"
+            "file": "PARA/Archives/Web dev/Lets do this.md"
           }
         }
       },
@@ -206,7 +206,7 @@
         }
       },
       {
-        "id": "69498397abeb161a",
+        "id": "ea71cedcedd67dbc",
         "type": "leaf",
         "state": {
           "type": "timeline",
@@ -238,9 +238,11 @@
   },
   "active": "54f03b4fd9e50716",
   "lastOpenFiles": [
+    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+    "PARA/Research ( Exploration )/Rooting android.md",
+    "ebooks/Non fiction/Thinking in Systems - Donella H. Meadows.pdf",
     "PARA/Archives/Web dev/Lets do this.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
-    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Weekly notes/Untitled.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Archives/Web3/Rusting up.md",
@@ -256,7 +258,6 @@
     "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "_remotely-save-metadata-on-remote.json",
-    "ebooks/Non fiction/Feel-Good Productivity_ How to Do More of What Matters to You (Z-lib.io).pdf",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
@@ -273,7 +274,6 @@
     "ebooks/Lists/Me/fobw.md",
     "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
     "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Trading/Sources.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
