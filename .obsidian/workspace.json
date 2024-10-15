@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Approach Startups.md",
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web3/Approach Startups.md",
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web3/Approach Startups.md"
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "e28176e61438995d",
+            "id": "905ef645056bc498",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -184,6 +184,8 @@
   },
   "active": "f88c80a5b0fe2c1a",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Ikigai-_Libtoon.com_.pdf",
+    "PARA/Archives/Web3/Approach Startups.md",
     "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
     "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
@@ -195,7 +197,6 @@
     "ebooks/Lists/Me/Art of S.md",
     "ebooks/Lists/Me",
     "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Rusting up.md",
     "PARA/Archives/Web dev/Lets do this.md",
     "Templates/Daily Progress Template.md",
@@ -212,7 +213,6 @@
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
-    "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
