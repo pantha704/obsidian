@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a5ba1368ab7ce9",
+        "id": "abfcaf6394f79287",
         "type": "tabs",
         "children": [
           {
-            "id": "f88c80a5b0fe2c1a",
+            "id": "87f8a239e80bd477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Web dev/Cool Sites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Web dev/Cool Sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md"
+                "file": "PARA/Archives/Web dev/Cool Sites.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "905ef645056bc498",
+            "id": "148624d892dab94d",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -182,9 +182,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f88c80a5b0fe2c1a",
+  "active": "87f8a239e80bd477",
   "lastOpenFiles": [
-    "ebooks/Non fiction/Ikigai-_Libtoon.com_.pdf",
+    "PARA/Archives/Web dev/Cool Sites.md",
+    "ebooks/Non fiction/Ikigai.pdf",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
@@ -211,7 +213,6 @@
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Weekly notes/Untitled.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
-    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
@@ -219,7 +220,6 @@
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
     "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
