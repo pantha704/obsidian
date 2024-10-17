@@ -16,7 +16,7 @@
 
 - ### [Internshala](https://internshala.com/) 
 
-- ### 
+- ### [Solana Jobs](https://jobs.solana.com/) 
 # Open Source :
 
 - ### [GSOC](https://summerofcode.withgoogle.com/) , [Orgs](https://www.gsocorganizations.dev/) 
