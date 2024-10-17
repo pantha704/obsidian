@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md"
+                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "87f8a239e80bd477",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "ebooks/Non fiction/Ikigai.pdf",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
@@ -212,7 +213,6 @@
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Weekly notes/Untitled.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
