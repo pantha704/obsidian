@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md",
+                "file": "PARA/Areas ( for jobs )/Hackathons.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md",
+                "file": "PARA/Areas ( for jobs )/Hackathons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/React hooks.md"
+                "file": "PARA/Areas ( for jobs )/Hackathons.md"
               }
             }
           },
@@ -184,7 +184,11 @@
   },
   "active": "87f8a239e80bd477",
   "lastOpenFiles": [
+    "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
+    "PARA/Areas ( for jobs )/After effects.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Areas ( for jobs )/Hackathons.md",
     "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "ebooks/Non fiction/Ikigai.pdf",
@@ -209,10 +213,6 @@
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "PARA/Research ( Exploration )/Rooting android.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
-    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
-    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
-    "Weekly notes/Untitled.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
