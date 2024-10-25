@@ -24,12 +24,9 @@
             "id": "54f03b4fd9e50716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Archives/Web dev/Lets do this.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "ebooks/Non fiction/Ikigai.pdf"
               }
             }
           }
@@ -46,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PARA/Archives/Web dev/Lets do this.md",
+                "file": "ebooks/Non fiction/Ikigai.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/Archives/Web dev/Lets do this.md",
+            "file": "ebooks/Non fiction/Ikigai.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -153,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/Archives/Web dev/Lets do this.md"
+            "file": "ebooks/Non fiction/Ikigai.pdf"
           }
         }
       },
@@ -206,7 +203,7 @@
         }
       },
       {
-        "id": "ea71cedcedd67dbc",
+        "id": "ef27b0e153fedf8a",
         "type": "leaf",
         "state": {
           "type": "timeline",
@@ -238,10 +235,14 @@
   },
   "active": "54f03b4fd9e50716",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Lets do this.md",
+    "ebooks/Non fiction/Ikigai.pdf",
+    "PARA/Areas ( for jobs )/Hackathons.md",
+    "PARA/Archives/Web dev/Cool Sites.md",
+    "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "PARA/Research ( Exploration )/Rooting android.md",
     "ebooks/Non fiction/Thinking in Systems - Donella H. Meadows.pdf",
-    "PARA/Archives/Web dev/Lets do this.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Weekly notes/Untitled.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
@@ -257,7 +258,6 @@
     "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
-    "_remotely-save-metadata-on-remote.json",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
@@ -270,10 +270,6 @@
     "PARA/Archives/Web dev/Sources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "ebooks/Lists/Me/Daily Workout/Cool Down.md",
-    "ebooks/Lists/Me/fobw.md",
-    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
-    "PARA/Archives/Web3/Sources.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",

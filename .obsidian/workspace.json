@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Hackathons.md",
+                "file": "PARA/Archives/AI ML/Machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Machine learning"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,7 +97,9 @@
                 "file": "PARA/Areas ( for jobs )/Hackathons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hackathons"
             }
           },
           {
@@ -100,7 +110,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -110,7 +122,9 @@
               "type": "outline",
               "state": {
                 "file": "PARA/Areas ( for jobs )/Hackathons.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hackathons"
             }
           },
           {
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -126,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "inline-scripts-button-view",
-              "state": {}
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           },
           {
@@ -143,15 +161,19 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "46a335588d0d1a2f",
+            "id": "da2861057dd29521",
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -184,11 +206,13 @@
   },
   "active": "87f8a239e80bd477",
   "lastOpenFiles": [
+    "PARA/Archives/AI ML/Path.md",
+    "PARA/Archives/AI ML/Machine learning.md",
+    "PARA/Areas ( for jobs )/Hackathons.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/After effects.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Areas ( for jobs )/Hackathons.md",
     "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "ebooks/Non fiction/Ikigai.pdf",
@@ -211,8 +235,6 @@
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
-    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "PARA/Research ( Exploration )/Rooting android.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",
