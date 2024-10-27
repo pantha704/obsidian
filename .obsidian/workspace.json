@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Sources.md",
+                "file": "Code Dumps/Open source.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sources"
+              "title": "Open source"
             }
           }
         ]
@@ -206,17 +206,19 @@
   },
   "active": "194cb1855f0a237a",
   "lastOpenFiles": [
+    "Code Dumps/Typescript.md",
+    "Code Dumps/Open source.md",
+    "Code Dumps/Todo dumps.md",
+    "Code Dumps/Parallax framer 3js.md",
+    "Code Dumps/LNC3.md",
+    "Code Dumps/LNC2.md",
+    "Code Dumps/LNC.md",
+    "PARA/Archives/Web dev/Sources.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web dev/Framer motion roadmap.md",
-    "Code Dumps/Parallax framer 3js.md",
-    "Code Dumps/LNC.md",
-    "Code Dumps/Typescript.md",
-    "Code Dumps/Todo dumps.md",
-    "Code Dumps/LNC3.md",
     "Code Dumps/Week 16.md",
     "Code Dumps/Untitled 1.md",
     "Code Dumps/Untitled 2.md",
-    "Code Dumps/LNC2.md",
     "PARA/Archives/Web dev/Framer (by o1-mini).md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
@@ -231,8 +233,6 @@
     "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "ebooks/Non fiction/Ikigai.pdf",
     "PARA/Archives/Web3/Approach Startups.md",
-    "ebooks/Lists/Me/Daily Workout/Main Workout.md",
-    "ebooks/Lists/Me/Daily Workout/Cool Down.md",
     "ebooks/Lists/Me/Daily Workout",
     "ebooks/Lists/Me",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
