@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Framer motion roadmap.md",
+                "file": "PARA/Archives/Web dev/Sources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Framer motion roadmap"
+              "title": "Sources"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "9c5ed974099b7597",
+            "id": "41b3bb0627d1bba7",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,11 +206,22 @@
   },
   "active": "194cb1855f0a237a",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web dev/Framer motion roadmap.md",
+    "Code Dumps/Parallax framer 3js.md",
+    "Code Dumps/LNC.md",
+    "Code Dumps/Typescript.md",
+    "Code Dumps/Todo dumps.md",
+    "Code Dumps/LNC3.md",
+    "Code Dumps/Week 16.md",
+    "Code Dumps/Untitled 1.md",
+    "Code Dumps/Untitled 2.md",
+    "Code Dumps/LNC2.md",
+    "PARA/Archives/Web dev/Framer (by o1-mini).md",
+    "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
     "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
-    "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/AI ML/Path.md",
     "PARA/Areas ( for jobs )/Hackathons.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
@@ -222,19 +233,8 @@
     "PARA/Archives/Web3/Approach Startups.md",
     "ebooks/Lists/Me/Daily Workout/Main Workout.md",
     "ebooks/Lists/Me/Daily Workout/Cool Down.md",
-    "ebooks/Lists/Me/Daily Workout/Morning warm up.md",
-    "ebooks/Lists/Me/Daily Workout/Be healthy, wealthy and wise.md",
     "ebooks/Lists/Me/Daily Workout",
-    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
-    "ebooks/Lists/Me/Lessons by Prathams.md",
-    "ebooks/Lists/Me/fobw.md",
-    "ebooks/Lists/Me/Art of S.md",
     "ebooks/Lists/Me",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Rusting up.md",
-    "PARA/Archives/Web dev/Lets do this.md",
-    "Templates/Daily Progress Template.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "Syllabus/20230811_142039.pdf",
     "_remotely-save-metadata-on-remote.json",

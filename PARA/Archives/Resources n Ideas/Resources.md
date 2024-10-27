@@ -9,6 +9,8 @@
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [Project based learning](https://github.com/practical-tutorials/project-based-learning) 
 - ### [Its Foss](https://itsfoss.com) 
+- ### [Framer Motion](https://egghead.io/lessons/react-install-framer-motion-and-create-a-motion-component) 
+- ### 
 - ### 
 - ### 
 
