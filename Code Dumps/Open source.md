@@ -1,4 +1,6 @@
 
+## [You have nothing to loose, except time and energy, which gets converted into every-thing you have/will have](https://chatgpt.com/c/671f7d66-303c-800c-b324-551fed87a7af) 
+
 # Forked Repos
 
 - ### [p5.js](https://github.com/pantha704/p5.js) 
