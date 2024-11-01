@@ -4,72 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b41a33374632177a",
+        "id": "d5aa6d67bc876348",
         "type": "tabs",
         "children": [
           {
-            "id": "3d208711387253ac",
+            "id": "35811325db0b5d82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54f03b4fd9e50716",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ebooks/Non fiction/Ikigai.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5ba5bdc85466f4fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "274a35f6912a6c0e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "ebooks/Non fiction/Ikigai.pdf",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.631531958783539,
-                  "close": true
-                }
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +33,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -103,7 +50,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -114,7 +63,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -122,7 +73,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -141,7 +94,9 @@
             "file": "ebooks/Non fiction/Ikigai.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -151,7 +106,9 @@
           "type": "outline",
           "state": {
             "file": "ebooks/Non fiction/Ikigai.pdf"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -159,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "advanced-tables-toolbar",
-          "state": {}
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
         }
       },
       {
@@ -167,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "git-history-view",
-          "state": {}
+          "state": {},
+          "icon": "history",
+          "title": "History"
         }
       },
       {
@@ -175,7 +136,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -183,7 +146,9 @@
         "type": "leaf",
         "state": {
           "type": "inline-scripts-button-view",
-          "state": {}
+          "state": {},
+          "icon": "inline-scripts-button-view",
+          "title": "Inline Scripts - Buttons"
         }
       },
       {
@@ -191,7 +156,9 @@
         "type": "leaf",
         "state": {
           "type": "tasks_timeline_view",
-          "state": {}
+          "state": {},
+          "icon": "calendar-clock",
+          "title": "Tasks Timeline"
         }
       },
       {
@@ -199,15 +166,19 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
-        "id": "ef27b0e153fedf8a",
+        "id": "e0e5cf68b6f51718",
         "type": "leaf",
         "state": {
           "type": "timeline",
-          "state": {}
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
         }
       }
     ],
@@ -233,17 +204,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54f03b4fd9e50716",
+  "active": "35811325db0b5d82",
   "lastOpenFiles": [
-    "PARA/Archives/Web dev/Lets do this.md",
+    "PARA/Archives/Web dev/Framer (by o1-mini).md",
+    "PARA/Archives/Web dev/Framer motion roadmap.md",
+    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
+    "ebooks/Non fiction/Discipline is Destiny - Ryan Holiday.pdf",
+    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
+    "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
+    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "ebooks/Non fiction/Ikigai.pdf",
+    "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
+    "PARA/Archives/Web dev/Lets do this.md",
     "PARA/Areas ( for jobs )/Hackathons.md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "PARA/Research ( Exploration )/Rooting android.md",
     "ebooks/Non fiction/Thinking in Systems - Donella H. Meadows.pdf",
-    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "Weekly notes/Untitled.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Archives/Web3/Rusting up.md",
@@ -254,9 +232,7 @@
     "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
     "ebooks/Research n learn/coding/Python_Crash_Course_A_Hands_Eric_Matthes.pdf",
     "ebooks/Research n learn/coding/Practical Python AI Projects ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
     "Syllabus/Sem 3/OOP/Syllabus.md",
-    "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 3/OOP/Modules 1-4.md",
     "ebooks/Science/Links.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
@@ -266,10 +242,6 @@
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Research ( Exploration )/Notes/msfconsole.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Research ( Exploration )/Notes/Downloading videos using yt-dlp.md",
-    "PARA/Archives/Web dev/Sources.md",
-    "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
-    "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",

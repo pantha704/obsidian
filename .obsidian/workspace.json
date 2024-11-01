@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Open source.md",
+                "file": "PARA/Archives/Web dev/UI UX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open source"
+              "title": "UI UX"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "9d2d0001214edbbe",
+            "id": "d13317d74cb43dec",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,14 @@
   },
   "active": "194cb1855f0a237a",
   "lastOpenFiles": [
-    "Code Dumps/Typescript.md",
+    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
+    "PARA/Archives/Web dev/UI UX.md",
     "Code Dumps/Open source.md",
+    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX",
+    "PARA/Archives/Web dev/Cohort 3",
+    "Code Dumps/Untitled 2.md",
+    "Code Dumps/Untitled 1.md",
+    "Code Dumps/Typescript.md",
     "Code Dumps/Todo dumps.md",
     "Code Dumps/Parallax framer 3js.md",
     "Code Dumps/LNC3.md",
@@ -217,8 +223,6 @@
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web dev/Framer motion roadmap.md",
     "Code Dumps/Week 16.md",
-    "Code Dumps/Untitled 1.md",
-    "Code Dumps/Untitled 2.md",
     "PARA/Archives/Web dev/Framer (by o1-mini).md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
@@ -230,9 +234,7 @@
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/After effects.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "ebooks/Non fiction/Ikigai.pdf",
-    "PARA/Archives/Web3/Approach Startups.md",
     "ebooks/Lists/Me/Daily Workout",
     "ebooks/Lists/Me",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
@@ -240,8 +242,6 @@
     "_remotely-save-metadata-on-remote.json",
     "ebooks/Research n learn/coding/Goal+Setting+Questions.pdf",
     "ebooks/Research n learn/coding/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
-    "ebooks/Research n learn/coding/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf",
-    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
