@@ -17,3 +17,12 @@
 
 - ### [huemint](https://huemint.com/) 
 - ### [https://www.youtube.com/watch?v=srRI7yMjGz0](https://www.youtube.com/watch?v=srRI7yMjGz0) (good watch)
+
+
+---
+
+# Images
+
+- ### [lummi AI](https://lummi.ai) 
+- ### [HeyGen AI (for videos)](https://heygen.com) 
+- ### 

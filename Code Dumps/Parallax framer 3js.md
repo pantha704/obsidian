@@ -1,3 +1,4 @@
+
 # Enhanced Learning Path for Building Parallax Scrolling Websites with Framer Motion and Three.js/React Three Fiber
 
 To create dynamic and visually stunning websites like [Lusion](https://lusion.co), it's essential to follow a structured learning path. This roadmap includes key topics, resources, courses, and a suggested timeline to guide your journey.
