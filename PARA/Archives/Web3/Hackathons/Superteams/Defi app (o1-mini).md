@@ -1,7 +1,5 @@
 
-# DeFi app
-
-- # Project Roadmap: Building **stable.fun** in One Month
+# Project Roadmap: Building **stable.fun** in One Month
 
 Creating **stable.fun**, a platform for users to create their own stablecoins based on Etherfuse's yield-bearing stablebonds, involves several stages. This **four-week roadmap** is designed to guide you from setup to deployment, ensuring you meet all project requirements and maximize your chances of winning the bounty.
 
