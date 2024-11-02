@@ -1,6 +1,4 @@
 
-
-
 Sure, here's a step-by-step roadmap to help you develop the project over the next month. This plan assumes you have basic knowledge of Next.js and web development, and aims to guide you through learning the required Web3 concepts and completing the project successfully.
 
 ## Week 1: Foundations and Planning
