@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defi app (o1-preview)"
+              "title": "Resources"
             }
           }
         ]
@@ -206,8 +206,11 @@
   },
   "active": "194cb1855f0a237a",
   "lastOpenFiles": [
-    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-mini).md",
+    "PARA/Archives/Languages/Rust.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
+    "PARA/Archives/Languages/Rust",
+    "PARA/Archives/Languages",
+    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-mini).md",
     "PARA/Archives/Web3/Hackathons/Untitled.md",
     "PARA/Archives/Web3/Hackathons/Superteams",
     "PARA/Archives/Web dev/UI UX.md",
@@ -225,23 +228,20 @@
     "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
     "PARA/Areas ( for jobs )/Guide/Freelance.md",
     "PARA/Areas ( for jobs )/Repos to commit.md",
-    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
+    "PARA/Archives/Web dev/Cohort 3 Harkirat/Week 12, UI UX.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Archives/Web dev/Cool Sites.md",
     "PARA/Archives/Web dev/Lets do this.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX",
-    "PARA/Archives/Web dev/Cohort 3",
+    "PARA/Archives/Web dev/Cohort 3 Harkirat",
     "Code Dumps/LNC3.md",
     "Code Dumps/LNC2.md",
     "Code Dumps/LNC.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "Code Dumps/Week 16.md",
     "ebooks/Non fiction/Ikigai.pdf",
     "ebooks/Lists/Me/Daily Workout",
     "ebooks/Lists/Me",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
-    "Syllabus/20230811_142039.pdf",
-    "_remotely-save-metadata-on-remote.json",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
