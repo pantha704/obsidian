@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Prompts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Prompts"
             }
           }
         ]
@@ -206,11 +206,13 @@
   },
   "active": "194cb1855f0a237a",
   "lastOpenFiles": [
-    "PARA/Archives/Languages/Rust.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-mini).md",
+    "PARA/Archives/Prompts.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Languages/Rust.md",
     "PARA/Archives/Languages/Rust",
     "PARA/Archives/Languages",
-    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-mini).md",
     "PARA/Archives/Web3/Hackathons/Untitled.md",
     "PARA/Archives/Web3/Hackathons/Superteams",
     "PARA/Archives/Web dev/UI UX.md",
@@ -236,8 +238,6 @@
     "PARA/Archives/Web dev/Cohort 3 Harkirat",
     "Code Dumps/LNC3.md",
     "Code Dumps/LNC2.md",
-    "Code Dumps/LNC.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/Ikigai.pdf",
     "ebooks/Lists/Me/Daily Workout",
     "ebooks/Lists/Me",
