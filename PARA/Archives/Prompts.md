@@ -18,18 +18,18 @@ This would help me quickly dive into the codebase and start contributing effecti
 
 ### **Refined Prompt for a Project Roadmap:**
 
- Create a detailed, step-by-step roadmap to build **\<project name\>** from scratch, using **\<tech stack, e.g., Web Development/Web3/AI & ML\>**. The roadmap should be designed for a beginner and should guide me through each phase, from initial setup to a polished, fully functional finish. The goal is to complete this project within **\<weeks/months timeframe\>** and make it suitable for a job portfolio, hackathon, or presentation.
-  
- For each phase, provide:
- - **Milestones and Objectives**: What I should aim to achieve in each phase.
- - **Step-by-Step Instructions**: Detailed, actionable steps for every task or concept.
- - **Learning Resources**: Links to tutorials, courses, or documentation for learning new concepts or tools required at each step.
- - **Tools and Libraries**: Clear instructions on setting up and using the specific tools and libraries needed at every stage.
- - **Best Practices**: Guidelines to follow for coding, organizing, and styling the project to meet industry standards.
- - **Testing and Debugging Tips**: Steps on how to test features and debug common issues that may arise.
- - **Showcase-Ready Finishing Touches**: Tips for polishing the project to make it stand out, like adding documentation, UI improvements, or feature highlights.
- 
- Ensure that by following this roadmap, I can confidently complete the project and present it with a clear understanding of how each component works. The roadmap should be detailed enough that I could use it as a guide to replicate this process in future projects.
+Create a detailed, step-by-step roadmap to build **\<project name\>** from scratch, using a suitable **\<tech stack, e.g., Web Development/Web3/AI & ML\>**. The roadmap should be designed for a beginner and guide me through each phase, from the initial setup to a polished, fully functional finish. The goal is to complete this project within **\<weeks/months timeframe\>** and make it suitable for a job portfolio, hackathon, or presentation.
+
+For each phase, provide:
+- **Milestones and Objectives**: What I should aim to achieve in each phase.
+- **Step-by-Step Instructions**: Detailed, actionable steps for every task or concept.
+- **Learning Resources**: Links to tutorials, courses, or documentation for learning new concepts or tools required at each step.
+- **Tools and Libraries**: Clear instructions on setting up and using the specific tools and libraries needed at every stage.
+- **Best Practices**: Guidelines to follow for coding, organizing, and styling the project to meet industry standards.
+- **Testing and Debugging Tips**: Steps on how to test features and debug common issues that may arise.
+- **Showcase-Ready Finishing Touches**: Tips for polishing the project to make it stand out, like adding documentation, UI improvements, or feature highlights.
+
+Ensure that by following this roadmap, I can confidently complete the project and present it with a clear understanding of how each component works. The roadmap should be detailed enough that I could use it as a guide to replicate this process in future projects.
 
 ---
 

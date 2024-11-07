@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/GSOC 2025/less comp.md",
+                "file": "Code Dumps/ISRO SIH-1736.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "less comp"
+              "title": "ISRO SIH-1736"
             }
           },
           {
@@ -52,7 +52,8 @@
               "title": "Prompts"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,22 +235,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "194cb1855f0a237a",
+  "active": "424544e96d762c6e",
   "lastOpenFiles": [
-    "PARA/Archives/GSOC 2025/Prompts.md",
+    "Code Dumps/ISRO SIH-1736.md",
+    "PARA/Archives/Prompts.md",
     "PARA/Archives/GSOC 2025/less comp.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
+    "PARA/Archives/GSOC 2025/Prompts.md",
     "PARA/Archives/GSOC 2025/Untitled",
     "PARA/Archives/Web dev/Open source.md",
     "PARA/Archives/GSOC 2025",
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Languages/Rust.md",
-    "PARA/Archives/Prompts.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
     "PARA/Archives/Web3/Approach Startups.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
     "PARA/Archives/Web dev/Framer motion roadmap.md",
     "ebooks/Lists/Me/self/Physical",
@@ -270,7 +272,6 @@
     "Code Dumps/Todo dumps.md",
     "Code Dumps/Typescript.md",
     "Code Dumps/Untitled 1.md",
-    "Code Dumps/Untitled 2.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
