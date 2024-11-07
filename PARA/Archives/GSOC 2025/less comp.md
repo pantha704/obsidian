@@ -72,7 +72,7 @@ Based on the previously suggested organizations and considering your expertise i
 - **Project**: **Oppia Web Application**
 - **Tech Stack**: **AngularJS**, potential to contribute using **React** for new features
 - **Description**: Oppia is an online learning platform aimed at creating interactive educational content.
-- **GitHub Repository**: [Oppia](https://github.com/oppia/oppia)
+- **GitHub Repository**: [Oppia](https://github.com/oppia/oppia) 
 - **Why Less Competitive?**
   - **Educational Platform**: Appeals to a specific audience interested in educational technology.
   - **Smaller Scale**: Less visibility compared to larger, more popular organizations.
