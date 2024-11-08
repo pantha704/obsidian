@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/GSOC 2025/common less comp.md",
+                "file": "PARA/Archives/Prompts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "common less comp"
+              "title": "Prompts"
             }
           },
           {
@@ -221,13 +221,16 @@
   },
   "active": "775c1f678bcde4d6",
   "lastOpenFiles": [
+    "PARA/Archives/GSOC 2025/Prompts.md",
+    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
+    "PARA/Archives/AI ML/Path.md",
+    "PARA/Archives/AI ML/Gen AI Beginner.md",
+    "PARA/Archives/GSOC 2025/common less comp.md",
+    "PARA/Archives/GSOC 2025/less comp 2.md",
+    "PARA/Archives/GSOC 2025/less comp.md",
     "Code Dumps/SIH/prompt 2.md",
     "PARA/Archives/Prompts.md",
-    "PARA/Archives/GSOC 2025/common less comp.md",
-    "PARA/Archives/GSOC 2025/less comp.md",
-    "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/Untitled",
-    "PARA/Archives/GSOC 2025/Prompts.md",
     "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
     "Code Dumps/SIH/ISRO SIH-1736.md",
     "Code Dumps/SIH",
@@ -254,9 +257,6 @@
     "PARA/Archives/Web3/Hackathons",
     "PARA/Archives/Web dev/Nextjs/Framer motion roadmap.md",
     "PARA/Archives/Web dev/Nextjs/Framer (by o1-mini).md",
-    "PARA/Archives/Web dev/Nextjs/React hooks.md",
-    "PARA/Archives/Web dev/Nextjs/Sources.md",
-    "Code Dumps/Parallax framer 3js.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
