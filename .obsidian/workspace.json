@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/GSOC 2025/less comp 2.md",
+                "file": "PARA/Archives/Prompts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "less comp 2"
+              "title": "Prompts"
             }
           },
           {
@@ -198,7 +198,7 @@
             }
           },
           {
-            "id": "5bda5ed38276d491",
+            "id": "0248951100d5905e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -237,12 +237,12 @@
   },
   "active": "775c1f678bcde4d6",
   "lastOpenFiles": [
+    "Code Dumps/SIH/prompt 2.md",
+    "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/Untitled",
     "PARA/Archives/GSOC 2025/less comp.md",
-    "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/Prompts.md",
     "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
-    "Code Dumps/SIH/prompt 2.md",
     "Code Dumps/SIH/ISRO SIH-1736.md",
     "Code Dumps/SIH",
     "PARA/Archives/Prompts.md",
