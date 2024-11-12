@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Open source.md",
+                "file": "PARA/Archives/Intro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open source"
+              "title": "Intro"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "71d88b1875797a32",
+            "id": "28c2289c339c391e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,14 +206,21 @@
   },
   "active": "8f94eba1bb790748",
   "lastOpenFiles": [
+    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
+    "PARA/Archives/Intro.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web3/Approach Startups.md",
+    "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
+    "PARA/Archives/Prompts.md",
+    "PARA/Archives/Web dev/Open source.md",
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
     "PARA/Archives/GSOC 2025/Prompts.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
     "PARA/Archives/Languages/Rusting up.md",
     "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf",
@@ -226,7 +233,6 @@
     "ebooks/Lists/Me/self/Diets",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web3/Cohort 3",
-    "PARA/Archives/Prompts.md",
     "ebooks/Lists/Me/self/Physical/Becoming-a-Supple-Leopard.pdf",
     "Code Dumps/Open source.md",
     "ebooks/Lists/Me/self/EMO.pdf",
@@ -236,11 +242,6 @@
     "PARA/Archives/AI ML/Path.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "PARA/Archives/GSOC 2025/less comp.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
-    "Code Dumps/SIH/ISRO SIH-1736.md",
-    "PARA/Archives/Web dev/Open source.md",
-    "PARA/Archives/Languages/Rust.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
