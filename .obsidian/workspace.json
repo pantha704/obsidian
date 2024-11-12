@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Intro.md",
+                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Slides"
             }
           }
         ]
@@ -204,10 +204,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f94eba1bb790748",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
     "PARA/Archives/Intro.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
     "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
