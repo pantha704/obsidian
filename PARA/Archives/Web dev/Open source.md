@@ -26,6 +26,8 @@
 - ### [anchor](https://github.com/pantha704/anchor) 
 - ### [CircuitVerse](https://github.com/pantha704/CircuitVerse) 
 - ### [next.js](https://github.com/pantha704/next.js) 
+- ### [plots2](https://github.com/pantha704/plots2) 
+- ### [LibreHealth-IO/lh-ehr](https://github.com/pantha704/lh-ehr) 
 - ### [](https://github.com/pantha704/) 
 - ### [](https://github.com/pantha704/) 
 - ### [](https://github.com/pantha704/) 
