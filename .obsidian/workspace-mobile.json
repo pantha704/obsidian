@@ -11,10 +11,15 @@
             "id": "f50424f3bef60ad6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/Defi app (o1-preview).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Defi app (o1-preview)"
             }
           }
         ]
@@ -172,7 +177,7 @@
         }
       },
       {
-        "id": "4394249e7995a6ec",
+        "id": "f473f8c45d3b515e",
         "type": "leaf",
         "state": {
           "type": "timeline",
@@ -204,8 +209,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb244a38a9bb09e7",
+  "active": "f50424f3bef60ad6",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
+    "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
+    "ebooks/Lists/Me/self/Diets/For healthy clear skin.md",
+    "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf",
+    "PARA/Archives/Web3/Hackathons/Superteams/3rd prompt.md",
+    "ebooks/Lists/Me/self/Diets/For gaining body mass and muscle.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/2nd prompt.md",
+    "ebooks/Lists/Me/self/Diets",
+    "PARA/Archives/Web3/Cohort 3",
+    "PARA/Archives/Web dev/Cohort 3",
+    "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
+    "PARA/Archives/Prompts.md",
+    "Code Dumps/SIH/prompt 2.md",
+    "PARA/Archives/Web dev/UI UX.md",
+    "Code Dumps/SIH/ISRO SIH-1736.md",
+    "PARA/Archives/GSOC 2025/Prompts.md",
+    "PARA/Archives/Web dev/Open source.md",
+    "PARA/Archives/GSOC 2025/less comp.md",
+    "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/Web dev/Nextjs/Sources.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
@@ -213,7 +238,6 @@
     "PARA/Archives/GSOC 2025",
     "Code Dumps/SIH",
     "PARA/Archives/Web dev/Nextjs/Framer (by o1-mini).md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
     "PARA/Archives/Web dev/Nextjs/Framer motion roadmap.md",
     "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
     "PARA/Archives/Web dev/Cohort 3 Harkirat/Week 12, UI UX.md",
@@ -221,27 +245,8 @@
     "PARA/Archives/Web3/Hackathons/Superteams",
     "PARA/Archives/Web3/Hackathons",
     "PARA/Archives/Web dev/Codebases",
-    "PARA/Archives/Web dev/Cohort 3 Harkirat",
-    "PARA/Archives/Languages",
     "Code Dumps/LNC3.md",
     "Code Dumps/LNC.md",
-    "Code Dumps/LNC2.md",
-    "Code Dumps/Open source.md",
-    "Code Dumps/Parallax framer 3js.md",
-    "PARA/Archives/Web dev/Framer (by o1-mini).md",
-    "PARA/Archives/Web dev/Framer motion roadmap.md",
-    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
-    "ebooks/Non fiction/Discipline is Destiny - Ryan Holiday.pdf",
-    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
-    "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
-    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
-    "ebooks/Non fiction/Ikigai.pdf",
-    "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
-    "PARA/Archives/Web dev/Lets do this.md",
-    "PARA/Areas ( for jobs )/Hackathons.md",
-    "PARA/Archives/Web dev/Cool Sites.md",
-    "PARA/Archives/Web dev/Nextjs/React hooks.md",
-    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Syllabus/CO/Untitled.canvas",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png",
     "Untitled.canvas",
