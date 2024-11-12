@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
+                "file": "PARA/Archives/Web dev/Open source.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slides"
+              "title": "Open source"
             }
           }
         ]
@@ -206,7 +206,11 @@
   },
   "active": "8f94eba1bb790748",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Codebases/Daily-code.md",
+    "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
+    "PARA/Archives/GSOC 2025/Prompts.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Overview.md",
@@ -220,11 +224,9 @@
     "ebooks/Lists/Me/self/Diets/For healthy clear skin.md",
     "ebooks/Lists/Me/self/Diets/For gaining body mass and muscle.md",
     "ebooks/Lists/Me/self/Diets",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web3/Cohort 3",
     "PARA/Archives/Prompts.md",
-    "PARA/Archives/GSOC 2025/Prompts.md",
     "ebooks/Lists/Me/self/Physical/Becoming-a-Supple-Leopard.pdf",
     "Code Dumps/Open source.md",
     "ebooks/Lists/Me/self/EMO.pdf",
@@ -233,12 +235,10 @@
     "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
     "PARA/Archives/AI ML/Path.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
-    "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/less comp.md",
     "PARA/Archives/Web3/Hackathons/Superteams/1st prompt.md",
     "Code Dumps/SIH/ISRO SIH-1736.md",
     "PARA/Archives/Web dev/Open source.md",
-    "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/Languages/Rust.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
