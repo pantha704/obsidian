@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Building Guide/De-Fi app.md",
+                "file": "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De-Fi app"
+              "title": "General Solana dev Roadmap (by o1-mini)"
+            }
+          },
+          {
+            "id": "cef467f895eea73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syllabus/Sem 3/Algorithm/Syllabus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +220,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca5d327fbd490679",
+  "active": "cef467f895eea73b",
   "lastOpenFiles": [
+    "Code Dumps/hyprland.md",
+    "Syllabus/Sem 3/Algorithm/Syllabus.md",
+    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
+    "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
     "PARA/Archives/Web3/Building Guide/De-Fi app.md",
     "PARA/Archives/Web3/Building Guide.md",
@@ -219,7 +239,6 @@
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Prompts.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Archives/Web3/Hackathons/(Trashed) Superteams/stable.fun.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
@@ -236,10 +255,7 @@
     "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf",
     "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf.crdownload",
     "Code Dumps/SIH/prompt 2.md",
-    "ebooks/Lists/Me/self/Diets/For healthy clear skin.md",
-    "ebooks/Lists/Me/self/Diets/For gaining body mass and muscle.md",
     "ebooks/Lists/Me/self/Diets",
-    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web3/Cohort 3",
     "ebooks/Lists/Me/self/Physical/Becoming-a-Supple-Leopard.pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
