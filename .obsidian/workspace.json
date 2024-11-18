@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas ( for jobs )/Guide/Freelance.md",
+                "file": "ebooks/Lists/Me/Move Out, Explore, Share and Gain Experience!.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freelance"
+              "title": "Move Out, Explore, Share and Gain Experience!"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "e23aa966134f8beb",
+            "id": "dffca0d3eaead502",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,11 +206,20 @@
   },
   "active": "b508caf9f4df1bf5",
   "lastOpenFiles": [
-    "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
-    "PARA/Archives/Web3/---.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Web3/Approach Startups.md",
+    "PARA/Archives/Prompts.md",
+    "ebooks/Lists/Me/Move Out, Explore, Share and Gain Experience!.md",
+    "PARA/Archives/Intro.md",
     "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web3/Etc.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
+    "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf",
+    "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf.crdownload",
+    "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
+    "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Areas ( for jobs )/Hackathons.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "Code Dumps/hyprland.md",
@@ -221,27 +230,18 @@
     "PARA/Archives/Web3/Building Guide",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/3rd prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/2nd prompt.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/1st prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Defi app (o1-preview).md",
-    "PARA/Archives/Prompts.md",
     "PARA/Archives/Web3/Hackathons/(Trashed) Superteams/stable.fun.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "PARA/Archives/Intro.md",
     "PARA/Archives/Web dev/Open source.md",
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/GSOC 2025/less comp 2.md",
-    "PARA/Archives/GSOC 2025/common less comp.md",
-    "PARA/Archives/GSOC 2025/Prompts.md",
     "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf.crdownload",
     "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf",
     "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf.crdownload",
-    "ebooks/Lists/Me/self/Diets",
-    "PARA/Archives/Web3/Cohort 3",
-    "ebooks/Lists/Me/self/Physical/Becoming-a-Supple-Leopard.pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
