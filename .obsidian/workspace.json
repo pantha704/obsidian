@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebooks/Lists/Me/Move Out, Explore, Share and Gain Experience!.md",
+                "file": "PARA/Archives/Intro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Move Out, Explore, Share and Gain Experience!"
+              "title": "Intro"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "dffca0d3eaead502",
+            "id": "6875b8b3aef3784e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,13 @@
   },
   "active": "b508caf9f4df1bf5",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/Engage/Connect.md",
+    "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
+    "ebooks/Lists/Me/Engage",
+    "ebooks/Lists/Me/Untitled.md",
+    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
+    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "PARA/Archives/Prompts.md",
-    "ebooks/Lists/Me/Move Out, Explore, Share and Gain Experience!.md",
     "PARA/Archives/Intro.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Web3/Etc.md",
@@ -221,7 +226,6 @@
     "PARA/Archives/Web3/General Solana dev Roadmap (by o1-mini).md",
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Areas ( for jobs )/Hackathons.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "Code Dumps/hyprland.md",
     "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
@@ -234,14 +238,10 @@
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Defi app (o1-preview).md",
     "PARA/Archives/Web3/Hackathons/(Trashed) Superteams/stable.fun.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
-    "PARA/Archives/Web dev/Open source.md",
-    "PARA/Archives/Web dev/Codebases/Daily-code.md",
-    "PARA/Archives/GSOC 2025/less comp 2.md",
     "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf.crdownload",
     "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf",
-    "ebooks/Non fiction/you-are-a-badass_-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life-pdfdrive.com-.pdf.crdownload",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
