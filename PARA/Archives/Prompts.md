@@ -144,6 +144,6 @@ Ensure that by following this roadmap, I can confidently complete the project an
 ---
 ---
 
-# Make me Project
+# Make me a Project
 
 How can i build this within the submission time give me a detailed step by step implementation of the project, divided into separate acts and sequences of building the complete project from initializing anchor till deployment and final polishing touches
