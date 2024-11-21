@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
+                "file": "PARA/Archives/Web3/Sources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slides"
+              "title": "Sources"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "29bf5224d3b7673a",
+            "id": "c4fc35a74ef1baa5",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,7 +206,11 @@
   },
   "active": "b508caf9f4df1bf5",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web3/General roadmaps/Courses.md",
     "PARA/Archives/Web3/General roadmaps/ACTS n SEQUENCES.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "ebooks/Lists/Me/Engage/Connect.md",
     "PARA/Archives/Web3/General roadmaps",
     "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
@@ -215,7 +219,6 @@
     "PARA/Archives/Web3/General roadmaps/General Solana dev Roadmap (by o1-mini).md",
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis",
     "PARA/Archives/Web3/Approach Startups.md",
-    "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Intro.md",
     "ebooks/Lists/Me/Engage",
     "ebooks/Lists/Me/Untitled.md",
@@ -224,7 +227,6 @@
     "PARA/Archives/Prompts.md",
     "PARA/Archives/Web3/Etc.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
     "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf",
     "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf.crdownload",
@@ -237,8 +239,6 @@
     "PARA/Archives/Web3/Building Guide.md",
     "PARA/Archives/Web3/Building Guide",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/3rd prompt.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/2nd prompt.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/1st prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
     "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
     "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf",
