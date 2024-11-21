@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Sources.md",
+                "file": "PARA/Archives/Prompts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sources"
+              "title": "Prompts"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "c4fc35a74ef1baa5",
+            "id": "1fdd11773dd6c2a9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,8 @@
   },
   "active": "b508caf9f4df1bf5",
   "lastOpenFiles": [
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web3/General roadmaps/Courses.md",
     "PARA/Archives/Web3/General roadmaps/ACTS n SEQUENCES.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
