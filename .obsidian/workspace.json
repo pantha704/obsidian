@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "o1-p 2"
             }
           },
           {
@@ -43,13 +43,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 3.md",
+                "file": "PARA/Archives/Web3/Open source/Repos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o1-p 3"
+              "title": "Repos"
+            }
+          },
+          {
+            "id": "d6194cf8a6af7baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ebooks/Lists/Me/Engage/Just DO IT!.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Just DO IT!"
+            }
+          },
+          {
+            "id": "fb967ea292cc1be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/sumuped map.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sumuped map"
             }
           },
           {
@@ -81,9 +111,24 @@
               "icon": "lucide-file",
               "title": "Slides"
             }
+          },
+          {
+            "id": "68e6cf67cda6b05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Graph.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,44 +310,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b508caf9f4df1bf5",
+  "active": "d6194cf8a6af7baa",
   "lastOpenFiles": [
-    "PARA/Archives/Resources n Ideas/Books sites.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Etc.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 2.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 1.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Roadmap.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 3.md",
-    "PARA/Archives/Prompts.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Web3/General roadmaps/Courses.md",
-    "PARA/Archives/Web3/General roadmaps/ACTS n SEQUENCES.md",
-    "ebooks/Lists/Me/Engage/Connect.md",
-    "PARA/Archives/Web3/General roadmaps",
     "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Web3/General roadmaps/General Solana dev Roadmap (by o1-mini).md",
+    "ebooks/Lists/Me/Engage/Just DO IT!.md",
+    "ebooks/Lists/Me/Engage/Connect.md",
+    "PARA/Archives/Web3/Open source/Beginner friendly.md",
+    "PARA/Archives/Resources n Ideas/Untitled.md",
+    "PARA/Archives/Web3/Open source/Repos.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/sumuped map.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 2.md",
+    "PARA/Archives/Web dev/Open source.md",
+    "PARA/Archives/Web3/Open source",
+    "PARA/Archives/Web dev/Framer (by o1-mini).md",
+    "PARA/Archives/Web dev/Framer motion roadmap.md",
+    "PARA/Archives/Web dev/UI UX.md",
+    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
+    "PARA/Archives/Web dev/Cool Sites.md",
+    "PARA/Archives/GSOC 2025/common less comp.md",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Areas ( for jobs )/Repos to commit.md",
+    "PARA/Areas ( for jobs )/After effects.md",
+    "PARA/Areas ( for jobs )/Guide/Keep in mind.md",
+    "PARA/Areas ( for jobs )/Guide/Freelance.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 3.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Graph.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 4.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 1.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-m 1.md",
+    "PARA/Archives/Web3/General roadmaps",
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis",
-    "PARA/Archives/Web3/Approach Startups.md",
-    "PARA/Archives/Intro.md",
     "ebooks/Lists/Me/Engage",
-    "ebooks/Lists/Me/Untitled.md",
-    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
     "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
     "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf",
     "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf.crdownload",
-    "PARA/Areas ( for jobs )/Guide/Freelance.md",
-    "PARA/Areas ( for jobs )/Hackathons.md",
-    "Code Dumps/hyprland.md",
-    "Syllabus/Sem 3/Algorithm/Asymptotic notations.md",
     "PARA/Archives/Web3/Building Guide",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
     "ebooks/Non fiction/Jessica Hagy - (In 10 Simple Steps) - How to Be Interesting_ (2013)(Z-Lib.io).pdf",
-    "ebooks/Non fiction/(In 10 Simple Steps) Jessica Hagy - How to Be Interesting_-Workman Publishing Company (2013)(Z-Lib.io).pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
