@@ -6,6 +6,8 @@
 - ### For mid level knowledge and building projects : [Rust book till chap-10](https://doc.rust-lang.org/book/) 
 - ### [Rustlings from egghead.io](https://egghead.io/lessons/rust-setup-rustlings) 
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
+- ### [OnChainUni (Rust)](https://www.onchainuniversity.xyz/) 
+- ### [speedhseet (Rust)](https://speedsheet.io/s/rust) 
 
 
 ---

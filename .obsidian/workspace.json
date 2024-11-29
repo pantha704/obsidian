@@ -4,116 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "59ef38358d4ed21c",
+        "id": "a332f8debf62576a",
         "type": "tabs",
         "children": [
           {
-            "id": "b508caf9f4df1bf5",
+            "id": "0538e01ebd74c768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
+                "file": "ebooks/Non fiction/Mental Models/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o1-p 2"
-            }
-          },
-          {
-            "id": "d0873d562430abd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jobs n Interns"
-            }
-          },
-          {
-            "id": "f354aa54ef6129a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web3/Open source/Repos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Repos"
-            }
-          },
-          {
-            "id": "fb967ea292cc1be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sumuped map"
-            }
-          },
-          {
-            "id": "85ec68472f5bf359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap"
-            }
-          },
-          {
-            "id": "0c50ca26c1fa9f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Slides"
-            }
-          },
-          {
-            "id": "68e6cf67cda6b05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +167,7 @@
             }
           },
           {
-            "id": "537e2a90779f5522",
+            "id": "59e7d4b8fe60c296",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -295,21 +204,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d0873d562430abd8",
+  "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "PARA/Archives/Web dev/Codebases/oppia/o1-m.md",
-    "PARA/Areas ( for jobs )/Jobs n Interns.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
+    "ebooks/Non fiction/Mental Models/README.md",
+    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Languages/Rusting up.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
+    "PARA/Archives/Web3/Open source/Repos.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
+    "PARA/Areas ( for jobs )/Jobs n Interns.md",
+    "PARA/Archives/Web dev/Codebases/oppia/o1-m.md",
     "PARA/Archives/Web dev/Codebases/oppia/gpt-4o.md",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
-    "PARA/Archives/Web3/Open source/Repos.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Research ( Exploration )/Rooting android/Port kernel.md",
     "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Web dev/Lets do this.md",
@@ -326,8 +238,6 @@
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
     "ebooks/Lists/Me/Engage/Just DO IT!.md",
     "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
-    "ebooks/Lists/Me/Engage/Connect.md",
-    "PARA/Archives/Web3/Open source/Beginner friendly.md",
     "PARA/Archives/Web3/Open source",
     "PARA/Archives/Web3/General roadmaps",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis",

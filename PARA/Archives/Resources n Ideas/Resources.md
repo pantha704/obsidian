@@ -15,7 +15,9 @@
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
 - ### [buildspace](https://github.com/buildspace/buildspace-projects) 
 - ### [Solana Developer Bootcamp 2024](https://github.com/solana-developers/developer-bootcamp-2024) 
-- ### [OnChainUni](https://www.onchainuniversity.xyz/) 
+- ### [OnChainUni (Rust)](https://www.onchainuniversity.xyz/) 
+- ### [speedsheet (for quick search)](https://speedsheet.io/)
+- ### []()
 - ### []()
 
 
