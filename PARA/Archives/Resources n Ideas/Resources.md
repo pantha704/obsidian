@@ -11,6 +11,7 @@
 - ### [Its Foss](https://itsfoss.com) 
 - ### [Framer Motion](https://egghead.io/lessons/react-install-framer-motion-and-create-a-motion-component) 
 - ### [Rust](https://doc.rust-lang.org/book/) 
+- ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
 - ### [buildspace](https://github.com/buildspace/buildspace-projects) 
 - ### [Solana Developer Bootcamp 2024](https://github.com/solana-developers/developer-bootcamp-2024) 
 - ### 
