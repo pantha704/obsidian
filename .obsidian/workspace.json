@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0873d562430abd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "o1-p 1"
-            }
-          },
-          {
             "id": "b508caf9f4df1bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 2.md",
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "o1-p 2"
+            }
+          },
+          {
+            "id": "d0873d562430abd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Areas ( for jobs )/Jobs n Interns.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jobs n Interns"
             }
           },
           {
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/sumuped map.md",
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Roadmap.md",
+                "file": "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,45 +295,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68e6cf67cda6b05c",
+  "active": "d0873d562430abd8",
   "lastOpenFiles": [
-    "PARA/Archives/Languages/Rusting up.md",
+    "PARA/Archives/Web dev/Codebases/oppia/o1-m.md",
     "PARA/Areas ( for jobs )/Jobs n Interns.md",
-    "PARA/Research ( Exploration )/Rooting android/Port kernel.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Languages/Rusting up.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
+    "PARA/Archives/Web dev/Codebases/oppia/gpt-4o.md",
+    "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
+    "PARA/Archives/Web dev/Codebases/Daily-code.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
     "PARA/Archives/Web3/Open source/Repos.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "PARA/Research ( Exploration )/Rooting android/Port kernel.md",
     "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Web dev/Lets do this.md",
     "PARA/Archives/Web dev/Open source/Open source 1.md",
     "PARA/Archives/Web dev/Open source",
     "PARA/Research ( Exploration )/Rooting android/Root.md",
     "PARA/Research ( Exploration )/Rooting android",
-    "PARA/Archives/Web dev/Codebases/oppia/o1-m.md",
-    "PARA/Archives/Web dev/Codebases/oppia/gpt-4o.md",
     "PARA/Archives/Web dev/Codebases/oppia",
     "PARA/Archives/Prompts.md",
     "PARA/Archives/Intro.md",
     "PARA/Projects/Web3.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Graph.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Roadmap.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/sumuped map.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
     "ebooks/Lists/Me/Engage/Just DO IT!.md",
     "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
     "ebooks/Lists/Me/Engage/Connect.md",
     "PARA/Archives/Web3/Open source/Beginner friendly.md",
-    "PARA/Archives/Resources n Ideas/Untitled.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/o1-p 2.md",
     "PARA/Archives/Web3/Open source",
-    "PARA/Archives/Web dev/Framer (by o1-mini).md",
-    "PARA/Archives/Web dev/Framer motion roadmap.md",
     "PARA/Archives/Web3/General roadmaps",
-    "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis",
+    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis",
     "ebooks/Lists/Me/Engage",
     "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
-    "PARA/Archives/Web3/Cohort 3/Decentralized Exchanges.pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
