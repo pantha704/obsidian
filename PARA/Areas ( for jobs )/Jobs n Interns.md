@@ -17,6 +17,5 @@
 # Open Source :
 
 - ### [GSOC](https://summerofcode.withgoogle.com/) , [Orgs](https://www.gsocorganizations.dev/) 
-
 - ### [Outreachy](https://www.outreachy.org/) 
 
