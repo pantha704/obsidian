@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
+                "file": "PARA/Archives/Web dev/General prompts/frontend.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slides"
+              "title": "frontend"
             }
           }
         ]
@@ -206,12 +206,14 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "PARA/Archives/Web dev/General prompts/frontend.md",
+    "PARA/Archives/Web dev/General prompts",
     "ebooks/Non fiction/Mental Models/README.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
     "PARA/Archives/Web3/Open source/Repos.md",
@@ -237,12 +239,10 @@
     "Attachments",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
     "ebooks/Lists/Me/Engage/Just DO IT!.md",
-    "ebooks/Lists/Me/Engage/Move Out, Explore, Share and Gain Experience!.md",
     "PARA/Archives/Web3/Open source",
     "PARA/Archives/Web3/General roadmaps",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis",
     "ebooks/Lists/Me/Engage",
-    "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
