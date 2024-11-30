@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebooks/Non fiction/Mental Models/README.md",
+                "file": "PARA/Archives/Web3/Cohort 3/Slides.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Slides"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "59e7d4b8fe60c296",
+            "id": "c729ff8b2b98f2a2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,8 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/Mental Models/README.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
