@@ -28,3 +28,6 @@ To get **Solana Backpack ETH merch**, you generally need to be part of events, c
 ### Bonus Tip:
 
 Stay proactive in supporting Backpack or Coral's ecosystem through contributions, development, or community involvement. Companies often reward contributors with limited-edition items!
+
+
+https://chatgpt.com/c/674beaac-73e4-800c-8bec-01e9388ed384
