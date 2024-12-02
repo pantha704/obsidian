@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Grow/Merches.md",
+                "file": "Syllabus/Sem 3/Algorithm/o1-m.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merches"
+              "title": "o1-m"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "c729ff8b2b98f2a2",
+            "id": "5ce1e9f3b2031a8b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,11 +206,16 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Web3/Grow/Merches.md",
-    "PARA/Archives/Web3/Grow",
+    "Syllabus/Sem 3/Algorithm/prompt.md",
+    "Syllabus/Sem 3/Algorithm/o1-m.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
+    "PARA/Archives/Web3/Approach Startups.md",
+    "PARA/Archives/Web3/Etc.md",
+    "PARA/Archives/Web3/Grow/Merches.md",
+    "PARA/Archives/GSOC 2025/less comp 2.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
+    "PARA/Archives/Web3/Grow",
     "ebooks/Science/Links.md",
     "PARA/Archives/Web dev/General prompts/frontend.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
@@ -230,14 +235,9 @@
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
     "PARA/Research ( Exploration )/Rooting android/Port kernel.md",
-    "PARA/Archives/Web dev/Open source/Open source.md",
-    "PARA/Archives/Web dev/Lets do this.md",
-    "PARA/Archives/Web dev/Open source/Open source 1.md",
     "PARA/Archives/Web dev/Open source",
-    "PARA/Research ( Exploration )/Rooting android/Root.md",
     "PARA/Research ( Exploration )/Rooting android",
     "PARA/Archives/Web dev/Codebases/oppia",
-    "PARA/Archives/Prompts.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments",
     "PARA/Archives/Web3/Open source",
