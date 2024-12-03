@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Algorithm/o1-m.md",
+                "file": "Syllabus/Sem 3/Algorithm/prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o1-m"
+              "title": "prompt"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "Syllabus/Sem 3/Algorithm/prompt.md",
     "Syllabus/Sem 3/Algorithm/o1-m.md",
+    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
+    "Syllabus/Sem 3/Algorithm/prompt.md",
     "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "Syllabus/Sem 3/Algorithm/Modules 1-3.md",
     "PARA/Archives/Web3/Approach Startups.md",
@@ -234,7 +235,6 @@
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "PARA/Archives/Web dev/Codebases/Daily-code.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
-    "PARA/Research ( Exploration )/Rooting android/Port kernel.md",
     "PARA/Archives/Web dev/Open source",
     "PARA/Research ( Exploration )/Rooting android",
     "PARA/Archives/Web dev/Codebases/oppia",
