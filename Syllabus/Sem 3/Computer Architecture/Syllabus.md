@@ -55,3 +55,5 @@ Certainly! Here’s a detailed explanation of the topics in your syllabus outlin
 4. **Systolic architectures**: Architectures that use a network of processors to rhythmically compute data streams.
 
 Study these concepts thoroughly, focusing on understanding the fundamental principles and how they apply to practical scenarios. Good luck with your exam!
+
+
