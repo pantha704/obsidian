@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Computer Architecture/Module 2/o1-m M-2.md",
+                "file": "Syllabus/Sem 3/Computer Architecture/Module 2/Q9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o1-m M-2"
+              "title": "Q9"
             }
           }
         ]
@@ -206,12 +206,16 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
+    "Syllabus/Sem 3/Computer Architecture/Module 2/pyq.md",
+    "Syllabus/Sem 3/Computer Architecture/Module 2/forwarding vs not forwarding.md",
+    "Syllabus/Sem 3/Computer Architecture/sem3_endsem.pdf",
+    "Syllabus/Sem 3/Computer Architecture/Module 2/Q9.md",
     "Syllabus/Sem 3/Computer Architecture/Module 2/pipelining.md",
+    "Syllabus/Sem 3/Computer Architecture/o1-m M-1.md",
     "Syllabus/Sem 3/Computer Architecture/Module 2/o1-m M-2.md",
     "Syllabus/Sem 3/Computer Architecture/Module 2",
     "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
     "Syllabus/Sem 3/Computer Architecture/o1-m M-3.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-1.md",
     "PARA/Research ( Exploration )/Random.md",
     "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
@@ -234,14 +238,10 @@
     "ebooks/Lists/Me/self/EMO.pdf",
     "ebooks/Lists/Me/self/learnings/More the Accountability more are the chances of a bigger outcome.md",
     "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
-    "Code Dumps/hyprland.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-6.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-5.md",
     "PARA/Archives/Web3/Grow",
     "PARA/Archives/Web dev/General prompts",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "PARA/Archives/Web dev/Open source",
-    "PARA/Research ( Exploration )/Rooting android",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
