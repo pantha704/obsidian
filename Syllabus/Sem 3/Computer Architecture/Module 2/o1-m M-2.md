@@ -23,190 +23,137 @@ A typical instruction pipeline consists of the following five stages:
 4. **Memory Access**: Read from or write to memory if needed.
 5. **Write-Back**: Write the execution results back to a register.
 
-## Basic 5-Stage Pipeline Diagram
+# Enhanced Diagram: Basic 5-Stage Pipeline
 
-### Pipeline Stages:
-
-- Fetch (F): Retrieve the instruction from memory.
-
-- Decode (D): Interpret the instruction and prepare necessary data.
-
-- Execute (E): Perform the operation specified by the instruction.
-
-- Memory Access (M): Read from or write to memory if required.
-
-- Write-Back (WB): Write the result back to a register.
-
-### Cycle-by-Cycle Execution:
-
-| Cycle | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-
-|-----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-
-| Instruction 1 | Fetch (F) | Decode (D) | Execute (E) | Memory (M) | Write-Back (WB)| | |
-
-| Instruction 2 | | Fetch (F) | Decode (D) | Execute (E) | Memory (M) | Write-Back (WB)| |
-
-| Instruction 3 | | | Fetch (F) | Decode (D) | Execute (E) | Memory (M) | Write-Back (WB)|
-
-| Instruction 4 | | | | Fetch (F) | Decode (D) | Execute (E) | Memory (M) |
-
-| Instruction 5 | | | | | Fetch (F) | Decode (D) | Execute (E) |
-
-### Visual Representation:
-
-Below is an ASCII art depiction to visualize how instructions flow through the pipeline stages across different cycles:
-
-Cycle:    1       2        3        4        5        6        7
-
-Instr1:   F-------D--------E--------M--------WB
-
-Instr2:           F--------D--------E--------M--------WB
-
-Instr3:                   F--------D--------E--------M--------WB
-
-Instr4:                           F--------D--------E--------M
-
-Instr5:                                   F--------D--------E
-
-Legend:
-
-- F: Fetch
-
-- D: Decode
-
-- E: Execute
-
-- M: Memory Access
-
-- WB: Write-Back
-
-### How It Works:
-
-- Cycle 1:
-
-- Instr1 is fetched from memory.
-
-- Cycle 2:
-
-- Instr1 moves to the Decode stage.
-
-- Instr2 is fetched.
-
-- Cycle 3:
-
-- Instr1 moves to Execute.
-
-- Instr2 moves to Decode.
-
-- Instr3 is fetched.
-
-- Cycle 4:
-
-- Instr1 moves to Memory Access.
-
-- Instr2 moves to Execute.
-
-- Instr3 moves to Decode.
-
-- Instr4 is fetched.
-
-- Cycle 5:
-
-- Instr1 moves to Write-Back.
-
-- Instr2 moves to Memory Access.
-
-- Instr3 moves to Execute.
-
-- Instr4 moves to Decode.
-
-- Instr5 is fetched.
-
-- Cycle 6:
-
-- Instr2 moves to Write-Back.
-
-- Instr3 moves to Memory Access.
-
-- Instr4 moves to Execute.
-
-- Instr5 moves to Decode.
-
-- Cycle 7:
-
-- Instr3 moves to Write-Back.
-
-- Instr4 moves to Memory Access.
-
-- Instr5 moves to Execute.
-
-Note: This overlapping allows multiple instructions to be in different stages of execution simultaneously, significantly increasing the throughput of the processor.
+Understanding the 5-stage instruction pipeline is crucial for grasping how modern processors achieve high performance by executing multiple instructions concurrently. Below is a clearer and more detailed graphical representation to help you visualize the pipeline stages and their overlap across different clock cycles.
 
 ---
 
-## Detailed Breakdown
+## **Basic 5-Stage Pipeline Diagram**
 
-### 1. Fetch (F)
+### **Pipeline Stages:**
+1. **Fetch (F)**: Retrieve the instruction from memory.
+2. **Decode (D)**: Interpret the instruction and prepare necessary data.
+3. **Execute (E)**: Perform the operation specified by the instruction.
+4. **Memory Access (M)**: Read from or write to memory if required.
+5. **Write-Back (WB)**: Write the result back to a register.
 
-- Purpose: Retrieve the next instruction from memory.
+### **Cycle-by-Cycle Execution:**
 
-- Operation: The Program Counter (PC) points to the address of the instruction to be fetched. The instruction is then loaded into the Instruction Register (IR).
+| **Cycle**         | **1**     | **2**      | **3**       | **4**       | **5**           | **6**           | **7**           |
+| ----------------- | --------- | ---------- | ----------- | ----------- | --------------- | --------------- | --------------- |
+| **Instruction 1** | Fetch (F) | Decode (D) | Execute (E) | Memory (M)  | Write-Back (WB) |                 |                 |
+| **Instruction 2** |           | Fetch (F)  | Decode (D)  | Execute (E) | Memory (M)      | Write-Back (WB) |                 |
+| **Instruction 3** |           |            | Fetch (F)   | Decode (D)  | Execute (E)     | Memory (M)      | Write-Back (WB) |
+| **Instruction 4** |           |            |             | Fetch (F)   | Decode (D)      | Execute (E)     | Memory (M)      |
+| **Instruction 5** |           |            |             |             | Fetch (F)       | Decode (D)      | Execute (E)     |
 
-### 2. Decode (D)
+### **Visual Representation:**
 
-- Purpose: Interpret the fetched instruction.
+Below is an improved ASCII art depiction to visualize how instructions flow through the pipeline stages across different cycles:
 
-- Operation: The control unit deciphers the instruction, determines the required operations, and identifies the operands needed from registers.
+```
+Cycle:       1         2         3         4         5         6         7
+Instr1:      F -----> D -----> E -----> M -----> WB
+Instr2:                F -----> D -----> E -----> M -----> WB
+Instr3:                          F -----> D -----> E -----> M -----> WB
+Instr4:                                    F -----> D -----> E -----> M
+Instr5:                                              F -----> D -----> E
+```
 
-### 3. Execute (E)
+**Legend:**
+- **F**: Fetch
+- **D**: Decode
+- **E**: Execute
+- **M**: Memory Access
+- **WB**: Write-Back
 
-- Purpose: Perform the instruction's operation.
+### **How It Works:**
 
-- Operation: The Arithmetic Logic Unit (ALU) carries out the operation, such as addition, subtraction, or logical operations.
+- **Cycle 1:**
+  - **Instr1** is fetched from memory.
 
-### 4. Memory Access (M)
+- **Cycle 2:**
+  - **Instr1** moves to the Decode stage.
+  - **Instr2** is fetched.
 
-- Purpose: Read from or write to memory if the instruction requires data access.
+- **Cycle 3:**
+  - **Instr1** moves to Execute.
+  - **Instr2** moves to Decode.
+  - **Instr3** is fetched.
 
-- Operation: For load/store instructions, data is either fetched from memory into a register or written from a register to memory.
+- **Cycle 4:**
+  - **Instr1** moves to Memory Access.
+  - **Instr2** moves to Execute.
+  - **Instr3** moves to Decode.
+  - **Instr4** is fetched.
 
-### 5. Write-Back (WB)
+- **Cycle 5:**
+  - **Instr1** moves to Write-Back.
+  - **Instr2** moves to Memory Access.
+  - **Instr3** moves to Execute.
+  - **Instr4** moves to Decode.
+  - **Instr5** is fetched.
 
-- Purpose: Write the result of the execution back to a register.
+- **Cycle 6:**
+  - **Instr2** moves to Write-Back.
+  - **Instr3** moves to Memory Access.
+  - **Instr4** moves to Execute.
+  - **Instr5** moves to Decode.
 
-- Operation: The result produced by the ALU or fetched from memory is written into the designated register for future use.
+- **Cycle 7:**
+  - **Instr3** moves to Write-Back.
+  - **Instr4** moves to Memory Access.
+  - **Instr5** moves to Execute.
+
+**Note:** This overlapping allows multiple instructions to be in different stages of execution simultaneously, significantly increasing the throughput of the processor.
 
 ---
 
-## Benefits of Pipelining
+## **Improved Pipeline Diagram Explanation**
 
-- Increased Throughput: More instructions are processed in a given time compared to a non-pipelined processor.
+### **1. Fetch (F)**
+- **Purpose**: Retrieve the next instruction from memory.
+- **Operation**: The Program Counter (PC) points to the address of the instruction to be fetched. The instruction is then loaded into the Instruction Register (IR).
 
-- Better CPU Utilization: Each pipeline stage is kept busy, maximizing the use of CPU resources.
+### **2. Decode (D)**
+- **Purpose**: Interpret the fetched instruction.
+- **Operation**: The control unit deciphers the instruction, determines the required operations, and identifies the operands needed from registers.
 
-- Higher Performance: Achieves greater instruction execution rates by overlapping the execution phases.
+### **3. Execute (E)**
+- **Purpose**: Perform the instruction's operation.
+- **Operation**: The Arithmetic Logic Unit (ALU) carries out the operation, such as addition, subtraction, or logical operations.
 
-## Potential Hazards in Pipelining
+### **4. Memory Access (M)**
+- **Purpose**: Read from or write to memory if the instruction requires data access.
+- **Operation**: For load/store instructions, data is either fetched from memory into a register or written from a register to memory.
+
+### **5. Write-Back (WB)**
+- **Purpose**: Write the result of the execution back to a register.
+- **Operation**: The result produced by the ALU or fetched from memory is written into the designated register for future use.
+
+---
+
+## **Benefits of Pipelining**
+
+- **Increased Throughput**: More instructions are processed in a given time compared to a non-pipelined processor.
+- **Better CPU Utilization**: Each pipeline stage is kept busy, maximizing the use of CPU resources.
+- **Higher Performance**: Achieves greater instruction execution rates by overlapping the execution phases.
+
+## **Potential Hazards in Pipelining**
 
 - **Data Hazards**: Occur when instructions depend on the results of previous instructions still in the pipeline.
-
-- Example: An instruction that requires the result of a previous ADD instruction still being executed.
-
+  - *Example*: An instruction that requires the result of a previous `ADD` instruction still being executed.
+  
 - **Control Hazards**: Arise from branch instructions that alter the flow of instruction execution.
-
-- Example: A branch instruction can cause uncertainty about which instructions to fetch next.
-
+  - *Example*: A branch instruction can cause uncertainty about which instructions to fetch next.
+  
 - **Structural Hazards**: Happen when hardware resources are insufficient to support all pipeline stages simultaneously.
+  - *Example*: Multiple instructions fighting for the same memory access unit.
 
-- Example: Multiple instructions fighting for the same memory access unit.
-
-Mitigation Techniques:
-
+**Mitigation Techniques:**
 - **Stalling**: Temporarily halting certain stages until hazards are resolved.
-
 - **Forwarding**: Redirecting data between pipeline stages to reduce stalls.
-
 - **Branch Prediction**: Guessing the outcome of branch instructions to minimize delays.
 
 ---

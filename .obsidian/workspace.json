@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Research ( Exploration )/Random.md",
+                "file": "Syllabus/Sem 3/Computer Architecture/Module 2/o1-m M-2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "o1-m M-2"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "861c93809c930950",
+            "id": "0ea6abca618205e1",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,14 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
+    "Syllabus/Sem 3/Computer Architecture/Module 2/pipelining.md",
+    "Syllabus/Sem 3/Computer Architecture/Module 2/o1-m M-2.md",
+    "Syllabus/Sem 3/Computer Architecture/Module 2",
+    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
+    "Syllabus/Sem 3/Computer Architecture/o1-m M-3.md",
+    "Syllabus/Sem 3/Computer Architecture/o1-m M-1.md",
     "PARA/Research ( Exploration )/Random.md",
+    "PARA/Research ( Exploration )/ML AI Gen Ai NN.md",
     "PARA/Research ( Exploration )/Full stack dev.md",
     "PARA/Research ( Exploration )/Web 3.md",
     "PARA/Research ( Exploration )/Trading.md",
@@ -229,19 +235,13 @@
     "ebooks/Lists/Me/self/learnings/More the Accountability more are the chances of a bigger outcome.md",
     "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
     "Code Dumps/hyprland.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-2.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-1.md",
-    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-3.md",
     "Syllabus/Sem 3/Computer Architecture/o1-m M-6.md",
     "Syllabus/Sem 3/Computer Architecture/o1-m M-5.md",
-    "Syllabus/Sem 3/Computer Architecture/o1-m M-4.md",
     "PARA/Archives/Web3/Grow",
     "PARA/Archives/Web dev/General prompts",
     "ebooks/Research n learn/coding/Rust_Cheat_Sheet_2.0.pdf",
     "PARA/Archives/Web dev/Open source",
     "PARA/Research ( Exploration )/Rooting android",
-    "PARA/Archives/Web dev/Codebases/oppia",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
