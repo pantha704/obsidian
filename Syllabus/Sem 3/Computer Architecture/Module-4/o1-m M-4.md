@@ -1,4 +1,4 @@
-
+	
 # Module-IV: Instruction-Level Parallelism (ILP)
 
 Instruction-Level Parallelism (ILP) is a critical concept in modern computer architecture aimed at enhancing processor performance by executing multiple instructions simultaneously. This module covers the fundamental concepts of ILP, various techniques to increase ILP, and different architectural approaches that leverage ILP for improved computation efficiency.
