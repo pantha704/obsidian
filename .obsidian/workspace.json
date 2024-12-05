@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
+                "file": "Syllabus/Sem 3/OOP/Mod-6/o1-m.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -206,13 +206,15 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
-    "Syllabus/Sem 3/OOP/Mod-2/o1-m.md",
-    "Syllabus/Sem 3/OOP/Mod-6/o1-m.md",
     "Syllabus/Sem 3/OOP/Mod-5/o1-m.md",
+    "Syllabus/prompt.md",
     "Syllabus/Sem 3/OOP/Mod-4/o1-m.md",
+    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/Sem 3/OOP/Mod-3/o1-m.md",
+    "Syllabus/Sem 3/OOP/Mod-2/o1-m.md",
     "Syllabus/Sem 3/OOP/Mod-1/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
+    "Syllabus/Sem 3/OOP/Mod-6/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-4/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-5/o1-m.md",
@@ -222,7 +224,6 @@
     "Syllabus/Sem 3/OOP/Mod-3",
     "Syllabus/Sem 3/OOP/Mod-2",
     "Syllabus/Sem 3/OOP/Mod-1",
-    "Syllabus/prompt.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-3/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-5/Untitled",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-2/o1-m.md",
@@ -241,7 +242,6 @@
     "Syllabus/Sem 3/Computer Architecture/Assignment 1/ans.md",
     "Syllabus/Sem 3/Computer Architecture/Module-5/possible ques.md",
     "Syllabus/Sem 3/Computer Architecture/Module-6/possible ques.md",
-    "Syllabus/Sem 3/Computer Architecture/Module-4/o1-m M-4.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
