@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Web2/Chatgpt Extension.md",
+                "file": "PARA/Archives/Web dev/Open source/Open source.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chatgpt Extension"
+              "title": "Open source"
             }
           }
         ]
@@ -206,6 +206,11 @@
   },
   "active": "0538e01ebd74c768",
   "lastOpenFiles": [
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "Syllabus/Sem 3/OOP/Mod-1/o1-m.md",
+    "Syllabus/Sem 3/OOP/Syllabus.md",
+    "Syllabus/Sem 3/OOP/Modules 1-4.md",
+    "Syllabus/Sem 3/OOP/Mod-2/o1-m.md",
     "PARA/Projects/Web3/voting-dapp.md",
     "PARA/Projects/Web2/Chatgpt Extension.md",
     "PARA/Projects/Web3/Web3.md",
@@ -220,10 +225,7 @@
     "Syllabus/Sem 3/OOP/Mod-6/o1-m.md",
     "Syllabus/Sem 3/OOP/Mod-5/o1-m.md",
     "Syllabus/Sem 3/OOP/Mod-4/o1-m.md",
-    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/Sem 3/OOP/Mod-3/o1-m.md",
-    "Syllabus/Sem 3/OOP/Mod-2/o1-m.md",
-    "Syllabus/Sem 3/OOP/Mod-1/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-4/o1-m.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
@@ -240,8 +242,6 @@
     "Syllabus/Sem 3/Computer Architecture/Module-3/possible ques.md",
     "Syllabus/Sem 3/Computer Architecture/Assignment 1/ques.md",
     "Syllabus/Sem 3/Computer Architecture/Module-2/Q9.md",
-    "Syllabus/Sem 3/Computer Architecture/Module-2/forwarding vs not forwarding.md",
-    "Syllabus/Sem 3/Computer Architecture/Module-2/pyq.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"

@@ -38,7 +38,7 @@
 
 - ### [Repos from async api](https://github.com/orgs/asyncapi/repositories) 
 - ### [code100x](https://github.com/code100x/) 
-- ### []()
+- ### [Awesome for beginners](https://github.com/MunGell/awesome-for-beginners)
 - ### []()
 - ### []()
 
