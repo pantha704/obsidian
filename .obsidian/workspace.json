@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/hecking/Google Dorks/Dorks usecase.md",
+                "file": "PARA/Projects/ethereum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dorks usecase"
+              "title": "ethereum"
             }
           },
           {
@@ -233,8 +233,18 @@
   },
   "active": "f1c06ffdb399fe12",
   "lastOpenFiles": [
-    "PARA/Archives/hecking/Google Dorks/Google Dorks.md",
+    "PARA/Projects/solana.md",
+    "PARA/Projects/ethereum.md",
+    "PARA/Projects/React Native.md",
+    "PARA/Projects/Flutter.md",
+    "PARA/Projects/Python.md",
+    "PARA/Projects/Javascript.md",
+    "PARA/Research ( Exploration )/Python.md",
+    "PARA/Archives/hecking/bettercap/caplets.md",
+    "PARA/Archives/hecking/bettercap/usage.md",
     "PARA/Archives/hecking/Google Dorks/Dorks usecase.md",
+    "PARA/Archives/hecking/bettercap",
+    "PARA/Archives/hecking/Google Dorks/Google Dorks.md",
     "PARA/Archives/hecking/Google Dorks",
     "PARA/Research ( Exploration )/Kali.md",
     "Syllabus/20230811_142039.pdf",
@@ -258,17 +268,7 @@
     "Mangas/local",
     "Mangas/downloads",
     "Mangas/autobackup",
-    "Mangas",
     "PARA/Archives/Web dev/Open source/Open source.md",
-    "PARA/Projects/Web2/Chatgpt Extension.md",
-    "PARA/Projects/Python.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "Syllabus/Sem 3/OOP/Modules 1-4.md",
-    "Syllabus/Sem 3/OOP/Mod-2/o1-m.md",
-    "PARA/Projects/Web3/voting-dapp.md",
-    "PARA/Projects/Web3/Web3.md",
-    "Syllabus/prompt.md",
-    "Syllabus/Sem 3/Algorithm/Syllabus.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
