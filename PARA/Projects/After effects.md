@@ -1,2 +1,2 @@
-- ### Watch your fav edits and try to learn the transitions shakes and effects used in them, and make a new edit.
-- 
+
+### [its private ;D](obsidian://open?vault=Notes&file=ebooks%2FLists%2FMe%2FProjects%2FAfter%20effects) 
