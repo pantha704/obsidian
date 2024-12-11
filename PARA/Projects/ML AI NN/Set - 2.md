@@ -1,18 +1,18 @@
 
-	Here's a detailed progression of practical machine learning and AI projects, starting from basics to more advanced:
+Here's a detailed progression of practical machine learning and AI projects, starting from basics to more advanced:
 
 ### 1. Basic Classification Projects
 **Project: Image Classification with MNIST**
 - **Setup:**
-  1. Install required libraries:
-     ```python
-     pip install tensorflow numpy matplotlib pandas sklearn
-     ```
-  2. Load MNIST dataset:
-     ```python
-     from tensorflow.keras.datasets import mnist
-     (x_train, y_train), (x_test, y_test) = mnist.load_data()
-     ```
+1. Install required libraries:
+ ```python
+ pip install tensorflow numpy matplotlib pandas sklearn
+ ```
+2. Load MNIST dataset:
+ ```python
+ from tensorflow.keras.datasets import mnist
+ (x_train, y_train), (x_test, y_test) = mnist.load_data()
+ ```
 
 - **Implementation Steps:**
   1. Create a simple neural network:
