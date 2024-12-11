@@ -1,6 +1,4 @@
 
-
-
 Certainly! Let's explore Finite State Machines (FSM) in detail, focusing on the conversion of NFAs to DFAs, state minimization techniques, and the differences between Moore and Mealy machines.
 
 ### How to Convert an NFA to a DFA

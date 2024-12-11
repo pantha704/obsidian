@@ -1,6 +1,4 @@
 
-
-
 Certainly! Let's explore these topics in detail:
 
 ### Prove Language Properties Using the Pumping Lemma

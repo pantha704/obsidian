@@ -1,6 +1,4 @@
 
-
-
 Certainly! Let's explore these topics related to Context-Free Grammars (CFG) in detail:
 
 ### Remove Unit Productions from a Grammar

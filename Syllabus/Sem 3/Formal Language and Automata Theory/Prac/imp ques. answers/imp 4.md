@@ -1,6 +1,4 @@
 
-
-
 Certainly! Let's explore how to construct Pushdown Automata (PDA) for specific language patterns and how to convert between Context-Free Grammars (CFGs) and PDAs.
 
 ### Construct PDAs for Specific Language Patterns
