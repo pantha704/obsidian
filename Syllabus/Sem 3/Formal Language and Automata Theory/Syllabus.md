@@ -64,7 +64,4 @@ Certainly! Here’s a detailed explanation of the topics in your syllabus outlin
 5. **Languages and Automata**: The types of languages recognized by these machines.
 6. **Type 0 Grammars**: Unrestricted grammars equivalent to Turing machines.
 
-
-can you explain all these topics for my exam tomorrow so that i dont need to look anywhere else, make it crystal clear to anyone who reads it
-
 Focus on understanding these concepts and practicing related problems. Good luck with your exam!

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/ethereum.md",
+                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/imp topics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ethereum"
+              "title": "imp topics"
             }
           },
           {
@@ -233,8 +233,16 @@
   },
   "active": "f1c06ffdb399fe12",
   "lastOpenFiles": [
-    "PARA/Projects/solana.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/imp topics.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
+    "PARA/Projects/hecking/detailed.md",
+    "PARA/Projects/hecking/hecking.md",
+    "PARA/Projects/IOT.md",
+    "PARA/Projects/hecking",
     "PARA/Projects/ethereum.md",
+    "PARA/Projects/solana.md",
     "PARA/Projects/React Native.md",
     "PARA/Projects/Flutter.md",
     "PARA/Projects/Python.md",
@@ -251,24 +259,16 @@
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
     "ebooks/Lists/Me/self/Skincare/AFP 2.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-1/o1-m.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
     "Syllabus/Sem 3/sem3_endsem.pdf",
     "Syllabus/Sem 3/OOP/Prac/Mod 1-6.md",
     "Syllabus/Sem 3/OOP/Mod-1/o1-m.md",
     "Syllabus/Sem 3/OOP/Prac/pyq.md",
     "Syllabus/Sem 3/OOP/Mod-4/o1-m.md",
-    "Syllabus/Sem 3/OOP/Mod-3/o1-m.md",
-    "PARA/Archives/Web3/General roadmaps/General Solana dev Roadmap (by o1-mini).md",
-    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
-    "PARA/Archives/Web dev/Lets do this.md",
-    "Syllabus/Sem 3/OOP/Syllabus.md",
     "Syllabus/Sem 3/OOP/Prac",
     "ebooks/Non fiction/How Innovation Works - Matt_Ridley_2020.pdf",
     "ebooks/Non fiction/Feynman/Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
     "Mangas/local",
     "Mangas/downloads",
-    "Mangas/autobackup",
-    "PARA/Archives/Web dev/Open source/Open source.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
