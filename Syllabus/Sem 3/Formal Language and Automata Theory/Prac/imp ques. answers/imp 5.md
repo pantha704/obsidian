@@ -1,5 +1,6 @@
 
 
+
 Certainly! Let's explore how to design Turing Machines for specific problems and how to draw transition diagrams for them.
 
 ### Design Turing Machines for Specific Problems
