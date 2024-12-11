@@ -2,6 +2,7 @@
 
 
 Absolutely! Beginners can definitely start working on projects like these, and doing so is a great way to learn and improve your skills in Adobe After Effects. Here are some tips to help you get started:
+### [Projects](obsidian://open?vault=Notes&file=PARA%2FProjects%2FAfter%20effects) 
 
 ### Tips for Beginners
 
@@ -35,5 +36,3 @@ Absolutely! Beginners can definitely start working on projects like these, and d
 By starting with these beginner-friendly projects and gradually working your way up to more complex tasks, you'll build a solid foundation in After Effects and gain the confidence to tackle more ambitious projects.
 
 ---
-
-### [Projects](obsidian://open?vault=Notes&file=PARA%2FProjects%2FAfter%20effects)
