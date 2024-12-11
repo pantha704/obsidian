@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/After effects.md",
+                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "After effects"
+              "title": "imp 5"
             }
           },
           {
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "2fe915ac88f34e05",
+            "id": "c95a6277481296ea",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -233,16 +233,27 @@
   },
   "active": "f1c06ffdb399fe12",
   "lastOpenFiles": [
-    "ebooks/Lists/Me/Projects/After effects.md",
-    "PARA/Projects/After effects.md",
-    "ebooks/Lists/Me/Projects",
-    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/imp topics.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 1.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 2.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 3.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 4.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 5.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topics.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp 4.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/pyq.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Modules 1-3.md",
     "PARA/Projects/hecking/detailed.md",
     "PARA/Projects/hecking/hecking.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/pyq.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac",
+    "PARA/Projects/After effects.md",
+    "ebooks/Lists/Me/Projects/After effects.md",
+    "ebooks/Lists/Me/Projects",
+    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
     "PARA/Projects/IOT.md",
     "PARA/Projects/hecking",
     "PARA/Projects/ethereum.md",
@@ -252,23 +263,12 @@
     "PARA/Projects/Python.md",
     "PARA/Projects/Javascript.md",
     "PARA/Research ( Exploration )/Python.md",
-    "PARA/Archives/hecking/bettercap/caplets.md",
-    "PARA/Archives/hecking/bettercap/usage.md",
-    "PARA/Archives/hecking/Google Dorks/Dorks usecase.md",
     "PARA/Archives/hecking/bettercap",
-    "PARA/Archives/hecking/Google Dorks/Google Dorks.md",
     "PARA/Archives/hecking/Google Dorks",
-    "PARA/Research ( Exploration )/Kali.md",
     "Syllabus/20230811_142039.pdf",
-    "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
-    "ebooks/Lists/Me/self/Skincare/AFP 2.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-1/o1-m.md",
     "Syllabus/Sem 3/sem3_endsem.pdf",
-    "Syllabus/Sem 3/OOP/Prac/Mod 1-6.md",
     "Syllabus/Sem 3/OOP/Prac",
     "ebooks/Non fiction/How Innovation Works - Matt_Ridley_2020.pdf",
-    "ebooks/Non fiction/Feynman/Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
-    "Mangas/local",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
