@@ -1,6 +1,4 @@
 
-
-
 Here are practical machine learning and AI projects suitable for beginners, organized by increasing complexity:
 
 ### Beginner Level Projects
