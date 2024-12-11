@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 1.md",
+                "file": "ebooks/Lists/Me/self/Skincare/AFP 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "imp 1"
+              "title": "AFP 3"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -233,21 +233,25 @@
   },
   "active": "f1c06ffdb399fe12",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
+    "ebooks/Lists/Me/self/Skincare/AFP 2.md",
+    "ebooks/Lists/Me/self/Skincare/AFP 3.md",
+    "ebooks/Lists/Me/self/Skincare/Aloe + Honey.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 1.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 2.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 3.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 4.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 5.md",
+    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 1.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 5.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 4.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 3.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 2.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers/imp 1.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
     "Syllabus/Sem 3/sem3_endsem.pdf",
     "Untitled.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topics.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 5.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 1.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 2.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 3.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers/imp 4.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp 4.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers.md",
@@ -260,9 +264,6 @@
     "PARA/Projects/After effects.md",
     "ebooks/Lists/Me/Projects/After effects.md",
     "ebooks/Lists/Me/Projects",
-    "Syllabus/Sem 3/Computer Architecture/Syllabus.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Mod-6/o1-m.md",
-    "PARA/Projects/IOT.md",
     "PARA/Projects/hecking",
     "PARA/Archives/hecking/bettercap",
     "PARA/Archives/hecking/Google Dorks",
