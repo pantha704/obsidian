@@ -1,6 +1,4 @@
 
-
-
 Certainly! Let's delve into Turing Machines and related concepts in detail:
 
 ### Basic Concepts and Design
