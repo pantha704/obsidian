@@ -9,7 +9,7 @@ I'll provide a comprehensive breakdown of each module. Let's start with the firs
   * OR (+): Returns 1 if at least one input is 1
   * NOT ('): Inverts the input (0→1, 1→0)
 
-2. **Truth Tables**
+1. **Truth Tables**
 Example of basic operations:
 ```
 AND (•)    OR (+)    NOT (')
