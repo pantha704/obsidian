@@ -1,6 +1,4 @@
 
-
-
 Here's a comprehensive guide for Machine Learning projects, from beginner to advanced:
 
 ### Beginner Level Projects
