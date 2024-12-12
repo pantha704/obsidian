@@ -1,9 +1,4 @@
 
-- ### [Game with javascript](https://equinox.space/) 
-- ### 
-
----
-
 # Nextjs
 
 Next.js is a powerful React framework that enables you to build server-side rendered and statically generated web applications. Here are some interesting and cool projects you can create with Next.js:
