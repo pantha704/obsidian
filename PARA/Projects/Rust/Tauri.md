@@ -99,3 +99,6 @@ Creating projects with Tauri can be a great way to showcase your skills in build
 - **Technologies**: Tauri, React or Angular, Node.js file system APIs.
 
 These projects not only demonstrate your ability to build functional and user-friendly applications but also highlight your skills in using modern web technologies with Tauri. Be sure to include detailed documentation and a clean, intuitive user interface to make your projects stand out on your resume.
+
+
+### 11. **Text To Speech**
