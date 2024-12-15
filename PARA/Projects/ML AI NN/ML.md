@@ -299,3 +299,6 @@ Remember to:
 - Consider model interpretability
 
 These projects will help you build a strong portfolio in machine learning while learning essential concepts and techniques.
+
+
+3. Handwritten pdf doc to computer readable text pdf doc

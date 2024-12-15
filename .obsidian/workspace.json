@@ -11,15 +11,72 @@
             "id": "f1c06ffdb399fe12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Projects/Rust/Tauri.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Syllabus/Sem 3/sem3_endsem.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tauri"
+              "icon": "lucide-file-text",
+              "title": "sem3_endsem"
+            }
+          },
+          {
+            "id": "f35b14a96e898842",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Sem 1/Probability/module 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "module 2"
+            }
+          },
+          {
+            "id": "89afa80e57d2665a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Sem 1/Probability/module 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "module 3"
+            }
+          },
+          {
+            "id": "a6080de4f88d491c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Sem 1/Probability/module 4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "module 4"
+            }
+          },
+          {
+            "id": "8221ec877c383a90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Sem 1/Probability/module 5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "module 5"
+            }
+          },
+          {
+            "id": "e31b2e22f8e0c345",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Sem 1/Probability/module 6.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "module 6"
             }
           },
           {
@@ -179,7 +236,7 @@
             }
           },
           {
-            "id": "f050d2458129db3d",
+            "id": "786d676e93ebfefe",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -218,6 +275,27 @@
   },
   "active": "f1c06ffdb399fe12",
   "lastOpenFiles": [
+    "Syllabus/20230811_142039.pdf",
+    "Syllabus/Sem 3/sem3_endsem.pdf",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq based topics.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq topics 2.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq formulas.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq formulas simplified.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq more topics.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq answers.md",
+    "Syllabus/Sem 1/Probability/pyq gpt-4o",
+    "Syllabus/Sem 1/Probability/ASSIGNMENT 1.pdf",
+    "Syllabus/Sem 1/Probability/module 1.pdf",
+    "Syllabus/Sem 1/Probability/Notes of Module 1.pdf",
+    "PARA/Archives/Web3/Hackathons/Hackquest/Ethereum voting dapp.md",
+    "PARA/Projects/ML AI NN/ML.md",
+    "Syllabus/Sem 1/Probability/module 6.pdf",
+    "Syllabus/Sem 1/Probability/module 5.pdf",
+    "Syllabus/Sem 1/Probability/module 4.pdf",
+    "Syllabus/Sem 1/Probability/module 3.pdf",
+    "PARA/Archives/Web3/Approach Startups.md",
+    "PARA/Projects/Rust/Tauri.md",
+    "Syllabus/Sem 1/Discrete Mathematics/Syllabus.md",
     "Syllabus/Sem 3/Entrepreneurship Skill/ESD Answers.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/hecking/bettercap/usage.md",
@@ -226,34 +304,12 @@
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/hecking/OSINT.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "Syllabus/Sem 1/Discrete Mathematics/Syllabus.md",
-    "Syllabus/Sem 3/sem3_endsem.pdf",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
     "Syllabus/Sem 3/Entrepreneurship Skill/ESD Answers (detailed).md",
     "PARA/Projects/Web3/Social learning app/SLA Lite.md",
     "Syllabus/Sem 3/Entrepreneurship Skill/ESD answer.md",
-    "Syllabus/Sem 3/Entrepreneurship Skill/ESD Important Ques.pdf",
-    "Syllabus/Sem 3/Entrepreneurship Skill",
     "PARA/Projects/Web3/Social learning app/Social Learning app.md",
-    "PARA/Projects/Web3/Social learning app",
-    "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 3.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-m 1.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
-    "PARA/Archives/Intro.md",
-    "PARA/Archives/Web3/Approach Startups.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/Etc.md",
-    "PARA/Projects/Web3/Web3.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/yt.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/pyq gpt-4o.md",
-    "PARA/Projects/Rust",
-    "PARA/Projects/ML AI NN",
-    "PARA/Archives/VE",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp ques. answers",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Prac/imp topic answers",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
