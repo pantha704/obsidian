@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16c0ff5e73bd36ff",
+        "id": "bebc35e92bf37cab",
         "type": "tabs",
         "children": [
           {
-            "id": "4c5884f72b217bc7",
+            "id": "1858a1a79694489f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,8 +128,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -138,8 +138,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           },
           {
@@ -162,17 +162,7 @@
             }
           },
           {
-            "id": "0fb7be8450be034a",
-            "type": "leaf",
-            "state": {
-              "type": "inline-scripts-button-view",
-              "state": {},
-              "icon": "inline-scripts-button-view",
-              "title": "Inline Scripts - Buttons"
-            }
-          },
-          {
-            "id": "f836e01722e4d57d",
+            "id": "3a639b36acf08a29",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -191,6 +181,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -198,31 +191,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Timeline": false,
-      "janitor:Janitor: scan vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "1858a1a79694489f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "ebooks/Non fiction/The-Happiness-Advantage-by-shawn-achor-excerpt-pr_5bdc656ac95d8bf8fc3bbacecd3dd9f3.pdf",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
+    "ebooks/Non fiction/Designing your life how to build a well-lived, joyful life by Bill Burnett, Dave Evans (z-lib.org).epub.pdf",
+    "ebooks/Non fiction/Picking nuggets/Ebook - 43 NUGGETS (v4).pdf",
+    "ebooks/Non fiction/Matt Ridley/How Innovation Works - Matt_Ridley_2020.pdf",
+    "ebooks/Non fiction/Picking nuggets/EBOOK(picking nuggets) - 23 Nuggets.pdf",
     "ebooks/Non fiction/Picking nuggets/~tmp05_Ebook - 43 NUGGETS (v4).pdf",
     "ebooks/Non fiction/Picking nuggets/~tmp69_EBOOK(picking nuggets) - 23 Nuggets.pdf",
+    "ebooks/Non fiction/Picking nuggets",
     "ebooks/Non fiction/Simon Sinek/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Simon Sinek/Find-Your-Why-by-Simon-Sinek.pdf",
-    "ebooks/Non fiction/Simon Sinek",
-    "ebooks/Non fiction/Nassim Taleb/Fooled by Randomness - Nassim Taleb.pdf",
-    "ebooks/Non fiction/Nassim Taleb/The Black Swan - Nassim Nicholas Taleb.pdf",
-    "ebooks/Non fiction/Nassim Taleb/Antifragile__2012_Nassim_Taleb.pdf",
-    "ebooks/Non fiction/Simon Senek",
+    "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Robert Kiyosaki/Rich-Dad-Poor-Dad.pdf",
     "PARA/Projects/Random.md",
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
     "ebooks/Lists/Me/self/Skincare/AFP 2.md",
