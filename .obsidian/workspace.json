@@ -11,10 +11,15 @@
             "id": "d6ec5d193218c145",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ebooks/Science/Links.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Links"
             }
           }
         ]
@@ -199,8 +204,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d6ec5d193218c145",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "ebooks/Science/Richard Feynman",
     "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
     "ebooks/Research n learn/coding/Python/Python-Distilled.pdf",
     "ebooks/Research n learn/coding/Python/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf",
@@ -211,7 +217,6 @@
     "ebooks/Research n learn/coding/Python/Impractical Python Projects.pdf",
     "ebooks/Research n learn/coding/Python/Automate the Boring Stuff with Python.pdf",
     "ebooks/Research n learn/coding/Python",
-    "ebooks/Research n learn/coding/New folder",
     "conflict-files-obsidian-git.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "PARA/Projects/Random.md",
