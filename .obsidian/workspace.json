@@ -128,8 +128,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -138,8 +138,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "inline-scripts-button-view",
-              "title": "Inline Scripts - Buttons"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,8 +167,28 @@
             "state": {
               "type": "timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ea6af8a18b485a95",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
+            }
+          },
+          {
+            "id": "0fb7be8450be034a",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           }
         ],
@@ -181,9 +201,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
-      "janitor:Janitor: scan vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -191,12 +208,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Timeline": false,
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "32d0602b7e30fbfe",
