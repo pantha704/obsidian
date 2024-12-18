@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b03ff05861e96e7d",
+        "id": "16c0ff5e73bd36ff",
         "type": "tabs",
         "children": [
           {
-            "id": "2539a39fdcb9058f",
+            "id": "4c5884f72b217bc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,26 +162,6 @@
             }
           },
           {
-            "id": "61e551e702bb00da",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ea6af8a18b485a95",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "0fb7be8450be034a",
             "type": "leaf",
             "state": {
@@ -189,6 +169,16 @@
               "state": {},
               "icon": "inline-scripts-button-view",
               "title": "Inline Scripts - Buttons"
+            }
+          },
+          {
+            "id": "f836e01722e4d57d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -209,18 +199,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
       "obsidian-day-planner:Timeline": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2539a39fdcb9058f",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "ebooks/Non fiction/The-Happiness-Advantage-by-shawn-achor-excerpt-pr_5bdc656ac95d8bf8fc3bbacecd3dd9f3.pdf",
+    "PARA/Archives/AI ML/Gen AI Beginner.md",
     "ebooks/Non fiction/Picking nuggets/~tmp05_Ebook - 43 NUGGETS (v4).pdf",
     "ebooks/Non fiction/Picking nuggets/~tmp69_EBOOK(picking nuggets) - 23 Nuggets.pdf",
     "ebooks/Non fiction/Simon Sinek/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
@@ -230,8 +223,6 @@
     "ebooks/Non fiction/Nassim Taleb/The Black Swan - Nassim Nicholas Taleb.pdf",
     "ebooks/Non fiction/Nassim Taleb/Antifragile__2012_Nassim_Taleb.pdf",
     "ebooks/Non fiction/Simon Senek",
-    "ebooks/Non fiction/New folder",
-    "ebooks/Non fiction/Derek Sivers",
     "PARA/Projects/Random.md",
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
     "ebooks/Lists/Me/self/Skincare/AFP 2.md",
@@ -256,7 +247,6 @@
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/hecking/OSINT.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
