@@ -11,10 +11,12 @@
             "id": "1858a1a79694489f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive )"
             }
           }
         ]
@@ -201,6 +203,8 @@
   },
   "active": "1858a1a79694489f",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Ryan Holiday/The-Obstacle-Is-the-Way.pdf",
+    "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
     "conflict-files-obsidian-git.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "ebooks/Non fiction/Designing your life how to build a well-lived, joyful life by Bill Burnett, Dave Evans (z-lib.org).epub.pdf",
@@ -211,7 +215,6 @@
     "ebooks/Non fiction/Picking nuggets/~tmp69_EBOOK(picking nuggets) - 23 Nuggets.pdf",
     "ebooks/Non fiction/Picking nuggets",
     "ebooks/Non fiction/Simon Sinek/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
     "ebooks/Non fiction/Robert Kiyosaki/Rich-Dad-Poor-Dad.pdf",
     "PARA/Projects/Random.md",
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
@@ -236,7 +239,6 @@
     "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/hecking/OSINT.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
