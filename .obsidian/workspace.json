@@ -4,91 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a332f8debf62576a",
+        "id": "b03ff05861e96e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c06ffdb399fe12",
+            "id": "2539a39fdcb9058f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 3/sem3_endsem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sem3_endsem"
-            }
-          },
-          {
-            "id": "f35b14a96e898842",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 1/Probability/module 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "module 2"
-            }
-          },
-          {
-            "id": "89afa80e57d2665a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 1/Probability/module 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "module 3"
-            }
-          },
-          {
-            "id": "a6080de4f88d491c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 1/Probability/module 4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "module 4"
-            }
-          },
-          {
-            "id": "8221ec877c383a90",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 1/Probability/module 5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "module 5"
-            }
-          },
-          {
-            "id": "e31b2e22f8e0c345",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 1/Probability/module 6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "module 6"
-            }
-          },
-          {
-            "id": "e0fceff66443fdce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/Sem 3/sem3_endsem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "sem3_endsem"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -236,7 +162,7 @@
             }
           },
           {
-            "id": "786d676e93ebfefe",
+            "id": "61e551e702bb00da",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -273,26 +199,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1c06ffdb399fe12",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "Syllabus/20230811_142039.pdf",
-    "Syllabus/Sem 3/sem3_endsem.pdf",
+    "ebooks/Non fiction/Simon Sinek/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Simon Sinek/Find-Your-Why-by-Simon-Sinek.pdf",
+    "ebooks/Non fiction/Simon Sinek",
+    "ebooks/Non fiction/Nassim Taleb/Fooled by Randomness - Nassim Taleb.pdf",
+    "ebooks/Non fiction/Nassim Taleb/The Black Swan - Nassim Nicholas Taleb.pdf",
+    "ebooks/Non fiction/Nassim Taleb/Antifragile__2012_Nassim_Taleb.pdf",
+    "ebooks/Non fiction/Simon Senek",
+    "ebooks/Non fiction/New folder",
+    "ebooks/Non fiction/Derek Sivers",
+    "ebooks/Non fiction/Naval & Kamal/Love_Yourself_Like_Your_Life_Depends_on_It_-_Kamal_Ravikant.pdf",
+    "ebooks/Non fiction/Scott Adams/Win-Bigly.pdf",
+    "PARA/Projects/Random.md",
+    "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
+    "ebooks/Lists/Me/self/Skincare/AFP 2.md",
+    "ebooks/Lists/Me/self/Skincare/AFP 3.md",
+    "Syllabus/Sem 1/Probability/Rank correlation.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq based topics.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq topics 2.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq formulas.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq formulas simplified.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq more topics.md",
     "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq answers.md",
-    "Syllabus/Sem 1/Probability/pyq gpt-4o",
-    "Syllabus/Sem 1/Probability/ASSIGNMENT 1.pdf",
-    "Syllabus/Sem 1/Probability/module 1.pdf",
-    "Syllabus/Sem 1/Probability/Notes of Module 1.pdf",
     "PARA/Archives/Web3/Hackathons/Hackquest/Ethereum voting dapp.md",
     "PARA/Projects/ML AI NN/ML.md",
-    "Syllabus/Sem 1/Probability/module 6.pdf",
-    "Syllabus/Sem 1/Probability/module 5.pdf",
-    "Syllabus/Sem 1/Probability/module 4.pdf",
-    "Syllabus/Sem 1/Probability/module 3.pdf",
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Projects/Rust/Tauri.md",
     "Syllabus/Sem 1/Discrete Mathematics/Syllabus.md",
@@ -305,11 +237,6 @@
     "PARA/Archives/hecking/OSINT.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Syllabus/Sem 3/Formal Language and Automata Theory/Syllabus.md",
-    "Syllabus/Sem 3/Entrepreneurship Skill/ESD Answers (detailed).md",
-    "PARA/Projects/Web3/Social learning app/SLA Lite.md",
-    "Syllabus/Sem 3/Entrepreneurship Skill/ESD answer.md",
-    "PARA/Projects/Web3/Social learning app/Social Learning app.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 3.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
