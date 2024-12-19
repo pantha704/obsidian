@@ -9,7 +9,7 @@ As a beginner familiar with Solana and Rust, transitioning to Ethereum and Solid
 2. [Project Setup](#project-setup)
 3. [Smart Contract Development with Hardhat](#smart-contract-development-with-hardhat)
     - [1. Initialize Hardhat Project](#1-initialize-hardhat-project)
-    - [2. Develop the Voting Contract](#2-develop-the-voting-contract)
+	- [2. Develop the Voting Contract](#2-develop-the-voting-contract)
     - [3. Write Tests](#3-write-tests)
     - [4. Deploy the Contract](#4-deploy-the-contract)
 4. [Frontend Development with Next.js](#frontend-development-with-nextjs)
