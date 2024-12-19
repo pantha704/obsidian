@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Animations/Three js.md",
+                "file": "PARA/Archives/Web dev/Animations/React three fibre.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Three js"
+              "title": "React three fibre"
             }
           }
         ],
@@ -222,9 +222,12 @@
   },
   "active": "4ca9af4bf1b1f98b",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Animations/Prac/Applying mo-graph like background scroll.md",
+    "PARA/Archives/Web dev/Animations/React three fibre.md",
+    "PARA/Archives/Web dev/Animations/Three js.md",
+    "PARA/Archives/Web dev/Animations/Prac",
     "PARA/Archives/Web dev/Animations/React spring.md",
     "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
-    "PARA/Archives/Web dev/Animations/Three js.md",
     "PARA/Archives/Web dev/Animations/GSAP.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web dev/Animations/Lottie Animation.md",
@@ -249,15 +252,12 @@
     "ebooks/Non fiction/James Clear/Atomic habits ( PDFDrive ).pdf.crdownload",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.md",
     "ebooks/Science/Richard Feynman",
-    "ebooks/Non fiction/Ryan Holiday/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
     "conflict-files-obsidian-git.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "PARA/Projects/Random.md",
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
     "ebooks/Lists/Me/self/Skincare/AFP 2.md",
     "ebooks/Lists/Me/self/Skincare/AFP 3.md",
-    "Syllabus/Sem 1/Probability/Rank correlation.md",
-    "Syllabus/Sem 1/Probability/pyq gpt-4o/pyq based topics.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
