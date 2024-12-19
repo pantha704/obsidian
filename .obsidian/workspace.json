@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Animations/React three fibre.md",
+                "file": "PARA/Archives/Web dev/Animations/Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React three fibre"
+              "title": "Resources"
             }
           }
         ],
@@ -222,12 +222,13 @@
   },
   "active": "4ca9af4bf1b1f98b",
   "lastOpenFiles": [
-    "PARA/Archives/Web dev/Animations/Prac/Applying mo-graph like background scroll.md",
+    "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
+    "PARA/Archives/Web dev/Animations/Resources.md",
     "PARA/Archives/Web dev/Animations/React three fibre.md",
+    "PARA/Archives/Web dev/Animations/Prac/Applying mo-graph like background scroll.md",
     "PARA/Archives/Web dev/Animations/Three js.md",
     "PARA/Archives/Web dev/Animations/Prac",
     "PARA/Archives/Web dev/Animations/React spring.md",
-    "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
     "PARA/Archives/Web dev/Animations/GSAP.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web dev/Animations/Lottie Animation.md",
@@ -257,7 +258,6 @@
     "PARA/Projects/Random.md",
     "ebooks/Lists/Me/self/Skincare/Ancient face pack.md",
     "ebooks/Lists/Me/self/Skincare/AFP 2.md",
-    "ebooks/Lists/Me/self/Skincare/AFP 3.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
