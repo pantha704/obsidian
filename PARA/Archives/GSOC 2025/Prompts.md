@@ -1,4 +1,4 @@
-
+	
 # To find orgs
 - #### Identify beginner-friendly Google Summer of Code (GSoC) organizations for web development, specifically for someone proficient in React, Next.js, and intermediate web technologies (Web2). Aim to find organizations where these skills align well with ongoing projects or mentoring support is strong for front-end development.
 
