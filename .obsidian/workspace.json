@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/ZuGrama.md",
+                "file": "Syllabus/Sem 4/Artificial Intelligence/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZuGrama"
+              "title": "Syllabus"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
+                "file": "Syllabus/Sem 4/Operating Systems/Syllabus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Web Animations"
+              "title": "Syllabus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
             }
           },
           {
-            "id": "5051b1638474003e",
+            "id": "3d3f8383594fe1eb",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -219,12 +220,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fcdb8168f6f201c",
+  "active": "4ca9af4bf1b1f98b",
   "lastOpenFiles": [
-    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
-    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf.crdownload",
+    "Syllabus/Sem 4/Database Management System/Syllabus.md",
+    "Syllabus/Sem 4/Artificial Intelligence/Syllabus.md",
+    "Syllabus/Sem 4/Algorithm 2/Syllabus.md",
+    "Syllabus/20230811_142039.pdf",
+    "Syllabus/Sem 4/Operating Systems/Syllabus.md",
+    "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
+    "Syllabus/prompt.md",
     "PL.md",
     "Code Dumps/ZuGrama.md",
+    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
+    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf.crdownload",
     "Code Dumps/Parallax framer 3js.md",
     "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Linux/Arch/Typical arch guy.md",
@@ -235,14 +243,11 @@
     "ebooks/Non fiction/Feynman/Richard P. Feynman - What Do You Care What Other People Think__ Further Adventures of a Curious Character-W. W. Norton & Company (2001)(Z-Lib.io).pdf",
     "PARA/Archives/Linux/Arch",
     "ebooks/Non fiction/~tmpAF_Jordan B. Peterson - Beyond Order_ 12 More Rules for Life-Portfolio (2021)(Z-Lib.io).pdf",
-    "PARA/Archives/Linux",
-    "ebooks/Non fiction/Feynman/[Feynman _1] Surely You're Joking, Mr. Feynman!  - Feynman, Richard Phillips & Leighton, Ralph - (1985, Vintage) - libgen.li.pdf",
     "PARA/Archives/GSOC 2025/common less comp.md",
     "PARA/Archives/GSOC 2025/Issues.md",
     "PARA/Archives/GSOC 2025/Get Started.md",
     "PARA/Archives/GSOC 2025/less comp.md",
     "PARA/Archives/GSOC 2025/etc.md",
-    "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
     "PARA/Archives/Web dev/Animations/Resources.md",
     "PARA/Archives/Web dev/Animations/React three fibre.md",
     "PARA/Archives/Web dev/Animations/Prac/Applying mo-graph like background scroll.md",
@@ -252,11 +257,6 @@
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web dev/Animations/Lottie Animation.md",
     "PARA/Archives/Web dev/Animations/Parallax Scroll.md",
-    "PARA/Archives/Web dev/Animations/Framer Motion.md",
-    "PARA/Archives/GSOC 2025/Prompts.md",
-    "PARA/Archives/Web3/Hackathons/Hackquest/(Trashed) Ethereum voting dapp.md",
-    "PARA/Archives/VE/After Effects.md",
-    "PARA/Projects/After effects.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
