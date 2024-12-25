@@ -1,4 +1,17 @@
 
+
+# **Tier 1** 
+- ### GSOC 
+- ### Hackathons / https://earn.superteam.fun/all/
+- ### Book Read
+- ### Exe
+
+
+# **Tier 2**
+- 
+
+# **Tier 3**
+
 - Gsoc
 - Rust and solana
 - Cohort assignments
