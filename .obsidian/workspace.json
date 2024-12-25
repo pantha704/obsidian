@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitignore.md",
+                "file": "PL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitignore"
+              "title": "PL"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gitignore.md"
+                "file": "PL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of gitignore"
+              "title": "Outline of PL"
             }
           },
           {
@@ -234,8 +234,8 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
-    "PL.md",
     "gitignore.md",
+    "PL.md",
     "Syllabus/prompt.md",
     "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 4/Operating Systems/Syllabus.md",

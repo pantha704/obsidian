@@ -1,17 +1,27 @@
 
+# Priority List : 
 
-# **Tier 1** 
+## **Tier 1** ,
 - ### GSOC 
 - ### Hackathons / https://earn.superteam.fun/all/
 - ### Book Read
 - ### Exe
 
 
-# **Tier 2**
-- 
+## **Tier 2** ,
+- ### Cohort Lectures
+- ### Cohort Assignments
+- ### Learning Web3, Solidity, Solana , Rust
+- ### Academics
+- ### LNC
 
-# **Tier 3**
+## **Tier 3** ,
+ - 
 
+
+---
+
+Old
 - Gsoc
 - Rust and solana
 - Cohort assignments
