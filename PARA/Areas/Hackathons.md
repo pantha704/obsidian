@@ -23,3 +23,7 @@ Here are some popular platforms to find upcoming hackathons across various tech 
    - ### [challengerocket.com](https://www.challengerocket.com/)
 
 These platforms regularly update their listings, so you can find a variety of hackathons depending on your interests.
+
+---
+
+- ### [Dorahacks](https://dorahacks.io/) 

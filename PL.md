@@ -1,4 +1,3 @@
-
 # Priority List : 
 
 ## **Tier 1** ,
@@ -15,8 +14,9 @@
 - ### Academics
 - ### LNC
 
+
 ## **Tier 3** ,
- - 
+- ### Make a project on anything
 
 
 ---
