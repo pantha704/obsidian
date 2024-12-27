@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL.md",
+                "file": "Code Dumps/ZuGrama.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PL"
+              "title": "ZuGrama"
             }
           },
           {
@@ -218,13 +218,13 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
+    "PL.md",
     "PARA/Areas/Hackathons.md",
     "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Web3/Etc.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Sources.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "PL.md",
     "gitignore.md",
     "Syllabus/prompt.md",
     "Syllabus/20230811_142039.pdf",
