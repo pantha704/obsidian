@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/ZuGrama.md",
+                "file": "PARA/Areas/Jobs n Interns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZuGrama"
+              "title": "Jobs n Interns"
             }
           },
           {
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "5ca23a9a58a7536d",
+            "id": "864e028e397e715e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -218,6 +218,7 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
+    "Code Dumps/ZuGrama.md",
     "PL.md",
     "PARA/Areas/Hackathons.md",
     "PARA/Areas/Jobs n Interns.md",
@@ -233,7 +234,6 @@
     "Syllabus/Sem 4/Algorithm 2/Syllabus.md",
     "Syllabus/Sem 4/Artificial Intelligence/Syllabus.md",
     "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
-    "Code Dumps/ZuGrama.md",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf.crdownload",
     "Code Dumps/Parallax framer 3js.md",

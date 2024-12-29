@@ -12,6 +12,7 @@
 - ### [greenhouse](https://www.greenhouse.com/) 
 - ### [remote3](https://remote3.co/) 
 - ### [Contra](https://contra.com/home) 
+- ### [web3 career](https://web3.career)
 - ### []()
 - ### []()
 # Open Source :
