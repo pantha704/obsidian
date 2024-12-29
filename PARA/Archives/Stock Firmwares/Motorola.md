@@ -1,0 +1,2 @@
+
+- [Motorola G31](https://mirrors-obs-1.lolinet.com/firmware/lenomola/2021/coful/official/RETAPAC/XT2173-2_COFUL_RETAPAC_TH_12_S3RWBS32.125-29-2-4-3_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip)  
