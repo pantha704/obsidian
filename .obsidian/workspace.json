@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Designing/Explore.md",
+                "file": "PARA/Areas/Hackathons.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Explore"
+              "title": "Hackathons"
             }
           },
           {
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "a3a89334445ebbbc",
+            "id": "7d3b3b257a481773",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -218,8 +218,18 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
-    "PARA/Archives/Designing/Rules.md",
+    "ebooks/Non fiction/Miyamoto Musashi/The Book of Five Rings.pdf",
+    "ebooks/Non fiction/Miyamoto Musashi",
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
+    "PARA/Research ( Exploration )/Random.md",
+    "PARA/Areas/Hackathons.md",
+    "PARA/Archives/Intro.md",
+    "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Designing/Explore.md",
+    "Syllabus/20230811_142039.pdf",
+    "PARA/Archives/Designing/Rules.md",
     "PARA/Archives/Web3/General roadmaps/Thirdweb.md",
     "PARA/Archives/Untitled",
     "PARA/Archives/Web3/General roadmaps/Sol.md",
@@ -234,26 +244,16 @@
     "PARA/Archives/Stock Firmwares",
     "Code Dumps/ZuGrama.md",
     "PL.md",
-    "PARA/Areas/Hackathons.md",
     "PARA/Archives/Web3/Etc.md",
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "gitignore.md",
     "Syllabus/prompt.md",
-    "Syllabus/20230811_142039.pdf",
-    "Syllabus/Sem 4/Operating Systems/Syllabus.md",
-    "Syllabus/Sem 4/Database Management System/Syllabus.md",
-    "Syllabus/Sem 4/Algorithm 2/Syllabus.md",
-    "Syllabus/Sem 4/Artificial Intelligence/Syllabus.md",
-    "PARA/Archives/Web dev/Animations/Learning Web Animations.md",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf.crdownload",
-    "Code Dumps/Parallax framer 3js.md",
     "ebooks/Non fiction/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
     "ebooks/Non fiction/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
     "ebooks/Non fiction/~tmp86_Ryan Holiday - The Boy Who Would Be King_ A Fable About Marcus Aurelius(Z-Lib.io).epub",
-    "ebooks/Non fiction/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
