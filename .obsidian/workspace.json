@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas/Hackathons.md",
+                "file": "ebooks/Lists/Grow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackathons"
+              "title": "Grow"
             }
           },
           {
@@ -218,13 +218,16 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
+    "ebooks/Research n learn/coding/Python/Impractical Python Projects.pdf",
+    "ebooks/Lists/Grow.md",
+    "ebooks/Research n learn/coding/Solidity-CheatSheet.pdf",
+    "PARA/Areas/Hackathons.md",
     "ebooks/Non fiction/Miyamoto Musashi/The Book of Five Rings.pdf",
     "ebooks/Non fiction/Miyamoto Musashi",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Research ( Exploration )/Random.md",
-    "PARA/Areas/Hackathons.md",
     "PARA/Archives/Intro.md",
     "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Designing/Explore.md",
@@ -248,12 +251,9 @@
     "PARA/Archives/Web3/Approach Startups.md",
     "PARA/Archives/Web3/Sources.md",
     "gitignore.md",
-    "Syllabus/prompt.md",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf.crdownload",
     "ebooks/Non fiction/Start with Why_ How Great Leaders Inspire Everyone to Take Action ( PDFDrive ).pdf",
-    "ebooks/Non fiction/The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph ( PDFDrive ).pdf",
-    "ebooks/Non fiction/~tmp86_Ryan Holiday - The Boy Who Would Be King_ A Fable About Marcus Aurelius(Z-Lib.io).epub",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
