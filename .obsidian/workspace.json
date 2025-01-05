@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas/After effects.md",
+                "file": "PARA/Archives/AI ML/Path.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "After effects"
+              "title": "Path"
             }
           },
           {
@@ -218,8 +218,8 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
-    "PARA/Archives/AI ML/Path.md",
     "PARA/Areas/After effects.md",
+    "PARA/Archives/AI ML/Path.md",
     "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
     "ebooks/Lists/Grow.md",

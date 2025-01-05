@@ -8,3 +8,9 @@
 6. [Andrej Karpathy Nueral networkks](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=1eaCz_qOjgBp6SIF) 
  
 ---
+
+- PyTorch
+- Numpy
+- How Language models work
+- How ML system works, state of inference, state of caching, vllm 
+- 
