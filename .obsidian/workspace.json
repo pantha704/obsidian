@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Research ( Exploration )/Trading.md",
+                "file": "PL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading"
+              "title": "PL"
             }
           },
           {
@@ -218,8 +218,8 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
-    "PL.md",
     "PARA/Research ( Exploration )/Trading.md",
+    "PL.md",
     "PARA/Archives/AI ML/Path.md",
     "PARA/Areas/After effects.md",
     "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
