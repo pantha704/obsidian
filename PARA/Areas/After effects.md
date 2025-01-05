@@ -1,1 +1,2 @@
-### - Learn with oxime
+- ### [Learn with oxime](https://youtube.com/playlist?list=PL-5ylhEndEQaWdKMkvF2Ep2g5p4jki4yD&si=Y0L_d3Pu0lAMJGt-) 
+- ### 

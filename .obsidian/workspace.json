@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Nextjs/Crucials.md",
+                "file": "PARA/Areas/After effects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crucials"
+              "title": "After effects"
             }
           },
           {
@@ -218,14 +218,18 @@
   },
   "active": "3d68066fdd95d65c",
   "lastOpenFiles": [
+    "PARA/Archives/AI ML/Path.md",
+    "PARA/Areas/After effects.md",
+    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
+    "PARA/Archives/AI ML/Gen AI Beginner.md",
+    "ebooks/Lists/Grow.md",
+    "PARA/Archives/Web dev/Nextjs/Crucials.md",
     "PARA/Archives/Web dev/Nextjs/Example Repos.md",
     "PARA/Archives/Web dev/Nextjs/React hooks.md",
     "PARA/Archives/Web dev/Nextjs/Sources.md",
     "PARA/Archives/Web dev/Animations/Framer/Framer (by o1-mini).md",
     "PARA/Archives/Web dev/Animations/Framer",
     "PARA/Archives/Web dev/Nextjs/Cheatsheet ( from Claude.ai ).md",
-    "PARA/Archives/Web dev/Nextjs/Crucials.md",
-    "ebooks/Lists/Grow.md",
     "ebooks/Research n learn/coding/Python/Impractical Python Projects.pdf",
     "ebooks/Research n learn/coding/Solidity-CheatSheet.pdf",
     "PARA/Areas/Hackathons.md",
@@ -248,11 +252,7 @@
     "PARA/Research ( Exploration )/Android Root/Manually installing modules.md",
     "Code Dumps/Projects",
     "PARA/Research ( Exploration )/Android Root/Root.md",
-    "PARA/Research ( Exploration )/Android Root/Port kernel.md",
-    "PARA/Archives/Stock Firmwares/Motorola.md",
-    "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Stock Firmwares",
-    "Code Dumps/ZuGrama.md",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
