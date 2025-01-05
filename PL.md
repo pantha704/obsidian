@@ -1,7 +1,6 @@
-# Priority List : 
 
 ## **Tier 1** ,
-- ### GSOC 
+- ### GSOC / Outreachy
 - ### Hackathons / https://earn.superteam.fun/all/
 - ### Book Read
 - ### Exe
@@ -12,11 +11,16 @@
 - ### Cohort Assignments
 - ### Learning Web3, Solidity, Solana , Rust
 - ### Academics
+- ### Book / Movie recommendation system or scrapper 
 - ### LNC
 
 
 ## **Tier 3** ,
-- ### Make a project on anything
+- ### After effects / Blender
+- ### AI ML 
+- ### Learn SSH connections
+- ### Linux core
+- ### Trading
 
 
 ---

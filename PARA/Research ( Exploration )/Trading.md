@@ -1,3 +1,3 @@
 
-- ### Algo trading
+- ### Algo trading (idk someone said this)
 - ### 
