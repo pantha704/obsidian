@@ -64,7 +64,7 @@ Based on your expertise in full-stack development with **React**, **Next.js**, *
 ### 5. **Gnome**
 
 - **Projects**: Desktop applications and tools
-- **GitHub Repository**: [GNOME](https://github.com/GNOME)
+- **GitHub Repository**: [GNOME](https://github.com/GNOME) 
 - **Why Contribute?**
   - **Open Source Desktop Applications**: Contribute to widely-used desktop tools and applications.
   - **Community Engagement**: Join a large community of developers and users.
