@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both (o1 m) my pref.md",
+                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m, optimized.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best of both (o1 m) my pref"
+              "title": "o1 m, optimized"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both (gpt 4o).md",
+                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best of both (gpt 4o)"
+              "title": "o1 m"
             }
           }
         ]
@@ -136,10 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both (o1 m) my pref.md"
+                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m, optimized.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Best of both (o1 m) my pref"
+              "title": "Outline of o1 m, optimized"
             }
           },
           {
@@ -221,10 +221,15 @@
   },
   "active": "4b7a2c442f23e4c3",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
+    "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m, optimized.md",
+    "ebooks/Research n learn/coding/PyTorch深度学习（GPT双语） - (it-ebooks-extra) it-ebooks - iBooker it-ebooks(Z-Lib.io).pdf",
+    "ebooks/Research n learn/coding/Pattern-Recognition-and-Machine-Learning-2006-Bishop-pdf.pdf",
+    "ebooks/Research n learn/coding/solana-handbook.pdf",
+    "ebooks/Research n learn/coding/REAL-PROJECTS.pdf",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both (gpt 4o).md",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both (o1 m) my pref.md",
     "Syllabus/20230811_142039.pdf",
-    "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/Best of both.md",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/gpt 4o.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
@@ -250,12 +255,7 @@
     "ebooks/Research n learn/coding/Python/Impractical Python Projects.pdf",
     "ebooks/Research n learn/coding/Solidity-CheatSheet.pdf",
     "PARA/Areas/Hackathons.md",
-    "ebooks/Non fiction/Miyamoto Musashi/The Book of Five Rings.pdf",
-    "ebooks/Non fiction/Miyamoto Musashi",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Untitled",
-    "Code Dumps/Projects",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
