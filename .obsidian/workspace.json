@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebooks/Research n learn/coding/Rust/Open Source Books.md",
+                "file": "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Source Books"
+              "title": "Enjoyment over Expectations"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
             }
           },
           {
-            "id": "71ee68d9cfbf77f8",
+            "id": "88ab4092db888bdd",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -221,6 +221,20 @@
   },
   "active": "4b7a2c442f23e4c3",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/Notes/Engage/Connect.md",
+    "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
+    "ebooks/Lists/Me/Notes/Engage/Move Out, Explore, Share and Gain Experience!.md",
+    "ebooks/Lists/Me/Notes/Engage",
+    "ebooks/Lists/Me/Art of S.md",
+    "ebooks/Lists/Me/Notes.md",
+    "ebooks/Lists/Me/fobw.md",
+    "ebooks/Lists/Me/Lessons by Prathams.md",
+    "ebooks/Lists/Me/More the Accountability more are the chances of a bigger outcome.md",
+    "ebooks/Research n learn/coding/Rust/Open Source Books.md",
+    "Attachments/Pasted image 20241124204859.png",
+    "Attachments/Pasted image 20241204134245.png",
+    "PARA/Archives/Web dev/Animations/Framer Motion.md",
+    "PARA/Archives/Web3/Hackathons/Superteams/Grow.md",
     "PARA/Archives/Web dev/Nextjs/Framer (by o1-mini).md",
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Graph.md",
     "PARA/Archives/Web dev/Nextjs/Framer motion roadmap.md",
@@ -236,29 +250,15 @@
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 4.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 1.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 3.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/3rd prompt.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-m 1.md",
-    "PARA/Archives/Web3/Hackathons/Hackquest/(Trashed) Ethereum voting dapp.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Roadmap.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Defi app (o1-preview).md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/2nd prompt.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/sumuped map.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/1st prompt.md",
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis",
     "PARA/Archives/Web3/Hackathons/Hackquest",
     "PARA/Archives/Web3/Hackathons/Superteams",
     "PARA/Archives/Web3/Hackathons",
-    "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m, optimized.md",
-    "ebooks/Research n learn/coding/Rust/Open Source Books.md",
     "ebooks/Research n learn/coding/PyTorch深度学习（GPT双语） - (it-ebooks-extra) it-ebooks - iBooker it-ebooks(Z-Lib.io).pdf",
     "ebooks/Research n learn/coding/Pattern-Recognition-and-Machine-Learning-2006-Bishop-pdf.pdf",
     "ebooks/Research n learn/coding/solana-handbook.pdf",
-    "ebooks/Research n learn/coding/REAL-PROJECTS.pdf",
-    "Attachments/Pasted image 20241204134245.png",
-    "Attachments/Pasted image 20241124204859.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
