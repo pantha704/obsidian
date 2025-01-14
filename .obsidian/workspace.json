@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "v0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
             }
           },
           {
-            "id": "616e70e615daa5a6",
+            "id": "ddc59cdc2bc06457",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -222,6 +221,8 @@
   },
   "active": "4b7a2c442f23e4c3",
   "lastOpenFiles": [
+    "PL.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/Grit-Angela-Duckworth.pdf",
     "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
     "ebooks/Non fiction/Friedrich Nietzsche/Thus Spoke Zarathustra (Penguin) - [Penguin Classics] Friedrich Nietzsche libgen.li.pdf",
@@ -235,7 +236,6 @@
     "ebooks/Non fiction/Friedrich Nietzsche",
     "ebooks/Lists/Me/Notes/Engage/Connect.md",
     "ebooks/Lists/Me/Notes/Engage/Move Out, Explore, Share and Gain Experience!.md",
-    "ebooks/Lists/Me/Notes/Engage",
     "ebooks/Lists/Me/Art of S.md",
     "ebooks/Lists/Me/Notes.md",
     "ebooks/Lists/Me/fobw.md",
@@ -259,7 +259,6 @@
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 4.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/o1-p 2.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }

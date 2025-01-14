@@ -18,6 +18,8 @@
 - ### [OnChainUni (Rust)](https://www.onchainuniversity.xyz/) 
 - ### [speedsheet (for quick search)](https://speedsheet.io/)
 - ### [OSINT Prac n Rsources](https://t.me/BlackHatFrozenX/14432) 
+- ### [Merlin AI](https://www.getmerlin.in/) ( Academics )
+- ### [NotebooksLM](https://notebooklm.google.com/) ( Pdfs, yt vids, academics, etc )
 - ### []()
 - ### []()
 
