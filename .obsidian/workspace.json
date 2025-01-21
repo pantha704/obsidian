@@ -148,8 +148,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -158,8 +158,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "inline-scripts-button-view",
-              "title": "Inline Scripts - Buttons"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -187,8 +187,28 @@
             "state": {
               "type": "timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b094c27133a23a75",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
+            }
+          },
+          {
+            "id": "99084b1ba0dd15bf",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           }
         ],
@@ -201,9 +221,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Timeline": false,
-      "janitor:Janitor: scan vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,15 +228,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Timeline": false,
+      "janitor:Janitor: scan vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "4b7a2c442f23e4c3",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "PARA/Archives/Linux/Arch/Tools.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
