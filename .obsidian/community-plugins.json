@@ -21,7 +21,6 @@
   "customjs",
   "excalibrain",
   "obsidian-excalidraw-plugin",
-  "obsidian-gist",
   "obsidian-text-expander-js",
   "mermaid-themes",
   "mermaid-tools",
@@ -31,5 +30,6 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-style-settings",
-  "better-inline-fields"
+  "better-inline-fields",
+  "github-sync"
 ]
