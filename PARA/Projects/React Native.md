@@ -1,8 +1,4 @@
 
-
-
-
-
 React Native is a popular framework for building mobile applications using JavaScript and React. Here are some interesting and cool projects you can create with React Native:
 
 ### 1. To-Do List App
