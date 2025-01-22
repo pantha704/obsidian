@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Languages/Rusting up.md",
+                "file": "gitignore.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rusting up"
+              "title": "gitignore"
             }
           },
           {
@@ -221,6 +221,7 @@
   },
   "active": "4b7a2c442f23e4c3",
   "lastOpenFiles": [
+    "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Linux/Arch/Tools.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PL.md",
@@ -258,7 +259,6 @@
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/Roadmap.md",
     "PARA/Archives/Web3/Hackathons/Superteams/SOON Genesis/sumuped map.md",
     "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) stable.fun/Overview.md",
-    "PARA/Archives/Web3/Hackathons/Superteams/(Trashed) SOON Genesis/Graph.md",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
