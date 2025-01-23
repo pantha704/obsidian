@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
+                "file": "PARA/Projects/Random/Personal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Summary"
+              "title": "Personal"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "05bce91e3ea2e580",
+            "id": "0d724925a1714278",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,9 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "PARA/Archives/Obsidian/Git plugin.md",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
+    "PARA/Projects/Random/Personal.md",
+    "PARA/Archives/Obsidian/Git plugin.md",
     "PARA/Projects/Random/GO EARN 2 !!!.md",
     "PARA/Archives/Books/Crush it on Linkdin",
     "PARA/Archives/Books",
@@ -241,7 +242,6 @@
     "ebooks/Lists/Me/Notes/Engage/Move Out, Explore, Share and Gain Experience!.md",
     "ebooks/Lists/Me/Art of S.md",
     "ebooks/Lists/Me/Notes.md",
-    "ebooks/Lists/Me/fobw.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
