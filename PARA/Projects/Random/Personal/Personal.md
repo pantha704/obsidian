@@ -62,7 +62,7 @@ watch -n 1 nvidia-smi
 **Your Stack:** Python + Linux = Perfect for CLI Tools  
 
 **Sell on Gumroad/GitHub:**  
-1. **Job Application Bot** ($20-50)  
+	1. **Job Application Bot** ($20-50)  
    - Auto-fill LinkedIn/EasyApply forms with Playwright  
    ```python
    from playwright.sync_api import sync_playwright
