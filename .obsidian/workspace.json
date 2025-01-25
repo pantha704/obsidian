@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Resources n Ideas/Project ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Project ideas"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "ac25655289447fb0",
+            "id": "174fc53883dd9802",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,6 +206,7 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Random/Personal/Personal.md",
     "PARA/Projects/Random/GO EARN 2 !!!.md",
     "PARA/Projects/Random/GO EARN 1 !!!.md",
@@ -237,7 +238,6 @@
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
     "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Linux/Arch/Tools.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/Grit-Angela-Duckworth.pdf",
     "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
     "ebooks/Lists/Me/Notes/Engage/Connect.md",
