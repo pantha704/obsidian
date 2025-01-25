@@ -20,6 +20,7 @@
 - ### [OSINT Prac n Rsources](https://t.me/BlackHatFrozenX/14432) 
 - ### [Merlin AI](https://www.getmerlin.in/) ( Academics )
 - ### [NotebooksLM](https://notebooklm.google.com/) ( Pdfs, yt vids, academics, etc )
+- ### [Deepseek](https://chat.deepseek.com) (o1 rival)
 - ### []()
 - ### []()
 
