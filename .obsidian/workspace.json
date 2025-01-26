@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Project ideas.md",
+                "file": "PARA/Archives/Languages/Rust/Smart Pointers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project ideas"
+              "title": "Smart Pointers"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "6364667d3b426492",
+            "id": "51cce7c0dbc2b7ce",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,12 +206,16 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
+    "PARA/Archives/Languages/Rust/Rusting up (Resources).md",
+    "PARA/Archives/Languages/Rust/Smart Pointers.md",
+    "ebooks/Research n learn/coding/Rust/The.Rust.Programming.Language.www.EBooksWorld.ir.pdf",
+    "PARA/Archives/Languages/Rust",
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
     "ebooks/Non fiction/Nassim Taleb/Skin-in-the-game-nassim-nicholas-taleb.pdf",
     "ebooks/Non fiction/Japanese Concepts to live life/Wabi Sabi Kemoton.pdf",
     "ebooks/Non fiction/Japanese Concepts to live life/Ikigai.pdf",
     "ebooks/Non fiction/Japanese Concepts to live life",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Projects/Random/Personal/Personal.md",
     "PARA/Projects/Random/GO EARN 2 !!!.md",
     "PARA/Projects/Random/GO EARN 1 !!!.md",
@@ -231,15 +235,11 @@
     "PARA/Projects/React Native.md",
     "PARA/Archives/Networking/SSH/Stuffs to do.md",
     "PARA/Projects/Web3.md",
-    "PARA/Projects/Random",
     "PARA/Archives/Networking/SSH/About ssh.md",
     "PL.md",
-    "PARA/Archives/Networking/SSH",
-    "PARA/Archives/Networking",
     "gitignore.md",
     "PARA/Areas/After effects.md",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
-    "PARA/Archives/Languages/Rusting up.md",
     "PARA/Archives/Linux/Arch/Tools.md",
     "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
     "Attachments/Pasted image 20241124204859.png",
