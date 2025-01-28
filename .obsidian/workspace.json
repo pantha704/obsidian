@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Languages/Rust/Smart Pointers.md",
+                "file": "PARA/Archives/Languages/Rust/21. Macros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smart Pointers"
+              "title": "21. Macros"
             }
           }
         ]
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "51cce7c0dbc2b7ce",
+            "id": "083fed57d991afe2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,8 +206,10 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
+    "PARA/Archives/Languages/Rust/20.  Threads.md",
+    "PARA/Archives/Languages/Rust/21. Macros.md",
+    "PARA/Archives/Languages/Rust/19. Smart Pointers.md",
     "PARA/Archives/Languages/Rust/Rusting up (Resources).md",
-    "PARA/Archives/Languages/Rust/Smart Pointers.md",
     "ebooks/Research n learn/coding/Rust/The.Rust.Programming.Language.www.EBooksWorld.ir.pdf",
     "PARA/Archives/Languages/Rust",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
@@ -240,8 +242,6 @@
     "gitignore.md",
     "PARA/Areas/After effects.md",
     "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m.md",
-    "PARA/Archives/Linux/Arch/Tools.md",
-    "ebooks/Lists/Me/Notes/Enjoyment over Expectations.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
