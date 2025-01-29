@@ -7,11 +7,10 @@
 
 
 ## **Tier 2** ,
+- ### Academics ( SSD Resume, DBMS assignments )
 - ### Cohort Lectures
 - ### Cohort Assignments
 - ### Learning Web3, Solidity, Solana , Rust
-- ### Academics
-- ### Book / Movie recommendation system or scrapper 
 - ### LNC
 
 

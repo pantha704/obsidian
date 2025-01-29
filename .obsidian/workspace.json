@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Rust/Rust Basic Projects.md",
+                "file": "PL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Basic Projects"
+              "title": "PL"
             }
           }
         ]
@@ -206,8 +206,8 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
+    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Web dev/Open source.md",
     "PARA/Archives/Rust",
