@@ -15,8 +15,8 @@
               "state": {
                 "file": "PL.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "PL"
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -167,7 +168,7 @@
             }
           },
           {
-            "id": "25e737b61f87408f",
+            "id": "d3b8a2aa34e3cdf2",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -206,6 +207,9 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
+    "gitignore.md",
+    "PL.md",
+    "Things i wanna have",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Archives/Web dev/Open source/Open source.md",
@@ -234,14 +238,11 @@
     "PARA/Projects/Random/Personal",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "PARA/Archives/Obsidian/Git plugin.md",
-    "PARA/Archives/Books/Crush it on Linkdin",
     "PARA/Projects/Random/L E A.md",
     "PARA/Projects/Random/L E A 2.md",
     "PARA/Projects/Random/Random.md",
     "PARA/Projects/Python.md",
     "PARA/Projects/Javascript.md",
-    "PARA/Projects/React Native.md",
-    "PARA/Archives/Networking/SSH/Stuffs to do.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"

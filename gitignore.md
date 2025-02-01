@@ -1,6 +1,0 @@
-/.obsidian/graph.json
-/To read/Lists
-/To read/Fiction
-/ebooks/Lists
-/ebooks/Research n learn/coding/Decentralized Exchanges.pdf
-PL.md
