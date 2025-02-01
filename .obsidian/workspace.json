@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL.md",
+                "file": "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PL"
+              "title": "Learn CSS before Tailwind"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "d3b8a2aa34e3cdf2",
+            "id": "e2a2bca810fef787",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,8 +207,10 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "gitignore.md",
     "PL.md",
+    "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
+    "PARA/Archives/Web dev/Frontend",
+    "gitignore.md",
     "Things i wanna have",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
@@ -235,14 +237,12 @@
     "PARA/Projects/Random/GO EARN !!!.md",
     "PARA/Projects/Random/Personal/Starting up.md",
     "ebooks/Science/The_Fabric_of_Reality - David_Deutsch.pdf",
-    "PARA/Projects/Random/Personal",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "PARA/Archives/Obsidian/Git plugin.md",
     "PARA/Projects/Random/L E A.md",
     "PARA/Projects/Random/L E A 2.md",
     "PARA/Projects/Random/Random.md",
     "PARA/Projects/Python.md",
-    "PARA/Projects/Javascript.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
