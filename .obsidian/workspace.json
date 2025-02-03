@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
+                "file": "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Learn CSS before Tailwind"
+              "title": "Framer Motion"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "e2a2bca810fef787",
+            "id": "651d1f2b778ac504",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,8 +207,9 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "PL.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
+    "ebooks/Lists/Me/Lessons by Prathams.md",
+    "PL.md",
     "PARA/Archives/Web dev/Frontend",
     "gitignore.md",
     "Things i wanna have",
@@ -242,7 +243,6 @@
     "PARA/Projects/Random/L E A.md",
     "PARA/Projects/Random/L E A 2.md",
     "PARA/Projects/Random/Random.md",
-    "PARA/Projects/Python.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
