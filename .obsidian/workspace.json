@@ -11,15 +11,12 @@
             "id": "5ede009f21df52f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Non fiction/building-a-second-brain-Summary.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Framer Motion"
+              "icon": "lucide-file-text",
+              "title": "building-a-second-brain-Summary"
             }
           }
         ]
@@ -168,7 +165,7 @@
             }
           },
           {
-            "id": "651d1f2b778ac504",
+            "id": "5b109e3dd6367ba9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,34 +202,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "ebooks/Non fiction/The_Subtle_Art_of_Not_Giving_a_Fuck.pdf",
+    "ebooks/Non fiction/Building a Second Brain - Tiago Forte.pdf",
+    "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
+    "ebooks/Non fiction/Reality transurfing. Steps I-V ( PDFDrive ).pdf",
+    "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf",
+    "ebooks/Non fiction/The Diary of a CEO_ The 33 Laws of Business and Life - PDF Room.pdf",
+    "ebooks/Non fiction/How_to_Change_Your_Mind_-_Michael_Pollan.pdf",
+    "ebooks/Non fiction/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
+    "ebooks/Non fiction/How-to-Fail-at-Almost-Everything-and-Still-Win-Big.pdf",
+    "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
+    "ebooks/Non fiction/How_to_Live-Derek-Sivers-8na1u.pdf",
+    "ebooks/Non fiction/Getting_Things_Done.pdf",
     "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
-    "ebooks/Non fiction/Feel-Good Productivity_ How to Do More of What Matters to You (Z-lib.io).pdf",
-    "ebooks/Non fiction/Anything-You-Want_-40-Lessons-f---Derek-Sivers-dkask.pdf",
-    "ebooks/Non fiction/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
-    "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
-    "ebooks/Fiction/Notes from the\nUnderground\nBy Fyodor Dostoevs.pdf",
-    "ebooks/Fiction/notes-from-the-underground.pdf",
     "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
     "PL.md",
-    "PARA/Archives/Web dev/Frontend",
     "gitignore.md",
-    "Things i wanna have",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "PARA/Archives/Web dev/Open source/Open source.md",
     "PARA/Archives/Web dev/Open source.md",
-    "PARA/Archives/Rust",
     "PARA/Areas/Jobs n Interns.md",
     "PARA/Areas/Repos to commit.md",
     "PARA/Archives/Languages/Rust/19. Smart Pointers.md",
     "PARA/Archives/Languages/Rust/20.  Threads.md",
     "PARA/Archives/Languages/Rust/21. Macros.md",
     "PARA/Archives/Languages/Rust/Rusting up (Resources).md",
-    "ebooks/Research n learn/coding/Rust/The.Rust.Programming.Language.www.EBooksWorld.ir.pdf",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Random/Personal/Personal.md",
