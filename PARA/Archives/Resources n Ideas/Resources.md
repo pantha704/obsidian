@@ -1,7 +1,7 @@
 
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
-- ### [Resources for web3, mern, nextjs, react, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
-- ### [CS knowledge MIT ](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
+- ### [Resources for web3, mern, nextjs, react, rust, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
+- ### [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum) ( EE & CS )
 - ### [Quick Ref](https://quickref.me/) 
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 

@@ -11,12 +11,15 @@
             "id": "5ede009f21df52f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Non fiction/building-a-second-brain-Summary.pdf"
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "building-a-second-brain-Summary"
+              "icon": "lucide-file",
+              "title": "Resources"
             }
           }
         ]
@@ -204,8 +207,8 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
-    "ebooks/Non fiction/Building a Second Brain - Tiago Forte.pdf",
     "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
+    "ebooks/Non fiction/Building a Second Brain - Tiago Forte.pdf",
     "ebooks/Non fiction/Reality transurfing. Steps I-V ( PDFDrive ).pdf",
     "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf",
     "ebooks/Non fiction/The Diary of a CEO_ The 33 Laws of Business and Life - PDF Room.pdf",
