@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Resources n Ideas/Project ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Project ideas"
             }
           }
         ]
@@ -207,6 +207,10 @@
   },
   "active": "5ede009f21df52f6",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
     "ebooks/Non fiction/Building a Second Brain - Tiago Forte.pdf",
     "ebooks/Non fiction/Reality transurfing. Steps I-V ( PDFDrive ).pdf",
@@ -217,7 +221,6 @@
     "ebooks/Non fiction/How-to-Fail-at-Almost-Everything-and-Still-Win-Big.pdf",
     "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
     "ebooks/Non fiction/How_to_Live-Derek-Sivers-8na1u.pdf",
-    "ebooks/Non fiction/Getting_Things_Done.pdf",
     "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
@@ -233,8 +236,6 @@
     "PARA/Archives/Languages/Rust/20.  Threads.md",
     "PARA/Archives/Languages/Rust/21. Macros.md",
     "PARA/Archives/Languages/Rust/Rusting up (Resources).md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Random/Personal/Personal.md",
     "PARA/Projects/Random/GO EARN 2 !!!.md",
     "PARA/Projects/Random/GO EARN 1 !!!.md",
@@ -242,7 +243,6 @@
     "PARA/Projects/Random/Personal/Starting up.md",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "PARA/Archives/Obsidian/Git plugin.md",
-    "PARA/Projects/Random/L E A.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
