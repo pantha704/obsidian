@@ -38,7 +38,3 @@
 
 
 ---
-
-# Learn
-
-- ### [V3CN](https://v3cn.me/) 
