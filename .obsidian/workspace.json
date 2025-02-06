@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6b75ea49899dfc",
+        "id": "b2231b76574fa57c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ede009f21df52f6",
+            "id": "70d1a4cb914c6b56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Resources n Ideas/Project ideas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Project ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -168,7 +163,7 @@
             }
           },
           {
-            "id": "5d67cbf538618c17",
+            "id": "e8f54ea5eda352b8",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,11 +200,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "70d1a4cb914c6b56",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
     "Attachments/anya",
     "PARA/Archives/Resources n Ideas/Books sites.md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
@@ -221,7 +216,6 @@
     "ebooks/Non fiction/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
     "ebooks/Non fiction/How-to-Fail-at-Almost-Everything-and-Still-Win-Big.pdf",
     "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
-    "ebooks/Non fiction/How_to_Live-Derek-Sivers-8na1u.pdf",
     "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
