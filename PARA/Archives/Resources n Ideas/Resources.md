@@ -4,6 +4,7 @@
 - ### [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum) ( EE & CS )
 - ### [Quick Ref](https://quickref.me/) ( CheatSheets )
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
+- ### [roadmap.sh](https://roadmap.sh) (visual roadmaps for many fields)
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) 
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
@@ -21,6 +22,9 @@
 - ### [Merlin AI](https://www.getmerlin.in/) ( Academics )
 - ### [NotebooksLM](https://notebooklm.google.com/) ( Pdfs, yt vids, academics, etc )
 - ### [Deepseek](https://chat.deepseek.com) (o1 rival)
+- ### [Frog Forge](https://rarepepes.net/forge) (create your own frog meme)
+- ### [dingboard](https://dingboard.com/) (alternate for Frog Forge)
+- ### []()
 - ### []()
 - ### []()
 
