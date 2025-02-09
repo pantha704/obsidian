@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b2231b76574fa57c",
+        "id": "af1123e5feee68eb",
         "type": "tabs",
         "children": [
           {
-            "id": "70d1a4cb914c6b56",
+            "id": "8bd20d95e097e191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "icon": "lucide-file-text",
+              "title": "The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io)"
             }
           }
         ]
@@ -168,7 +165,7 @@
             }
           },
           {
-            "id": "163ffb32d6055d79",
+            "id": "bc54f8641a86f778",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,23 +202,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "70d1a4cb914c6b56",
+  "active": "8bd20d95e097e191",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Never-Split-the-Difference.pdf",
+    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
+    "ebooks/Non fiction/How-to-Be-Yourself.pdf",
+    "ebooks/Non fiction/How_to_Change_Your_Mind_-_Michael_Pollan.pdf",
+    "ebooks/Non fiction/Grit-Angela-Duckworth.pdf",
+    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
+    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
+    "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
+    "ebooks/Non fiction/Mindset _ The New Psychology of Success ( PDFDrive ).pdf",
+    "PARA/Areas/Guide/Keep in mind.md",
+    "PARA/Areas/Guide/Resume.md",
+    "PARA/Areas/Guide/Freelance.md",
+    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
+    "PARA/Archives/AI ML/Gen AI Beginner.md",
+    "Code Dumps/MHSC/Maths 12/Linear Programming.md",
+    "Code Dumps/MHSC/Maths 12/Line and plane.md",
+    "Code Dumps/MHSC/Maths 12/Vectors.md",
+    "Code Dumps/MHSC/Maths 12/St. lines.md",
+    "Code Dumps/MHSC/Maths 12/Trigo.md",
+    "Code Dumps/MHSC/Maths 12/Matrices.md",
+    "Code Dumps/MHSC/Maths 12/Mathematical Logic.md",
+    "PARA/Archives/hecking/OSINT/useful sites.md",
+    "Code Dumps/MHSC/Maths 12",
+    "Code Dumps/MHSC",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/hecking/HTB/Ctfs n bounties.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "Attachments/anya",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
-    "ebooks/Non fiction/Building a Second Brain - Tiago Forte.pdf",
-    "ebooks/Non fiction/Reality transurfing. Steps I-V ( PDFDrive ).pdf",
-    "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf",
-    "ebooks/Non fiction/The Diary of a CEO_ The 33 Laws of Business and Life - PDF Room.pdf",
-    "ebooks/Non fiction/How_to_Change_Your_Mind_-_Michael_Pollan.pdf",
-    "ebooks/Non fiction/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
-    "ebooks/Non fiction/How-to-Fail-at-Almost-Everything-and-Still-Win-Big.pdf",
-    "ebooks/Non fiction/How-to-Win-Friends-and-Influence-People.pdf",
     "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
     "ebooks/Lists/Me/Lessons by Prathams.md",
@@ -229,20 +240,6 @@
     "gitignore.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
-    "PARA/Archives/Web dev/Open source/Open source.md",
-    "PARA/Archives/Web dev/Open source.md",
-    "PARA/Areas/Jobs n Interns.md",
-    "PARA/Areas/Repos to commit.md",
-    "PARA/Archives/Languages/Rust/19. Smart Pointers.md",
-    "PARA/Archives/Languages/Rust/20.  Threads.md",
-    "PARA/Archives/Languages/Rust/21. Macros.md",
-    "PARA/Archives/Languages/Rust/Rusting up (Resources).md",
-    "PARA/Projects/Random/Personal/Personal.md",
-    "PARA/Projects/Random/GO EARN 2 !!!.md",
-    "PARA/Projects/Random/GO EARN 1 !!!.md",
-    "PARA/Projects/Random/GO EARN !!!.md",
-    "PARA/Projects/Random/Personal/Starting up.md",
-    "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
