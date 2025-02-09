@@ -11,12 +11,15 @@
             "id": "8bd20d95e097e191",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf"
+                "file": "PARA/Archives/Web dev/Frontend/Learn CSS first/CSS before everything.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io)"
+              "icon": "lucide-file",
+              "title": "CSS before everything"
             }
           }
         ]
@@ -204,6 +207,19 @@
   },
   "active": "8bd20d95e097e191",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Frontend/Learn CSS first/Learn CSS before Tailwind.md",
+    "PARA/Archives/Web dev/Frontend/Learn CSS first/CSS before everything.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Resources.md",
+    "PARA/Archives/Web dev/Frontend/Learn CSS first",
+    "PARA/Archives/Web dev/Frontend/Animations/Three js.md",
+    "PARA/Archives/Web dev/Frontend/Animations/React spring.md",
+    "PARA/Archives/Web dev/Frontend/Animations/React three fibre.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Parallax Scroll.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Lottie Animation.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Learning Web Animations.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
+    "PARA/Archives/Web dev/Frontend/Animations/Framer Motion.md",
+    "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf",
     "ebooks/Non fiction/Never-Split-the-Difference.pdf",
     "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
     "ebooks/Non fiction/How-to-Be-Yourself.pdf",
@@ -212,7 +228,6 @@
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
     "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
-    "ebooks/Non fiction/Mindset _ The New Psychology of Success ( PDFDrive ).pdf",
     "PARA/Areas/Guide/Keep in mind.md",
     "PARA/Areas/Guide/Resume.md",
     "PARA/Areas/Guide/Freelance.md",
@@ -226,20 +241,8 @@
     "Code Dumps/MHSC/Maths 12/Matrices.md",
     "Code Dumps/MHSC/Maths 12/Mathematical Logic.md",
     "PARA/Archives/hecking/OSINT/useful sites.md",
-    "Code Dumps/MHSC/Maths 12",
-    "Code Dumps/MHSC",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/hecking/HTB/Ctfs n bounties.md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
-    "PARA/Archives/Resources n Ideas/Src for Project ideas.md",
-    "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer Motion.md",
-    "PARA/Archives/Web dev/Frontend/Learn CSS before Tailwind.md",
-    "ebooks/Lists/Me/Lessons by Prathams.md",
-    "PL.md",
-    "gitignore.md",
-    "PARA/Projects/Rust/Rust Basic Projects.md",
-    "PARA/Archives/Web dev/General Roadmap (by o1-mini).md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
