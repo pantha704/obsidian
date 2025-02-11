@@ -42,3 +42,23 @@
 
 
 ---
+
+# Mathematics & Machine Learning stuffs (cred: [meow](https://x.com/poliloveslogic))
+
+- ### [Linear Algebra (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 
+- ### [Probability for CS (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) 
+- ### [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) 
+- ### [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) 
+- ### [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) 
+- ### [Intro to CS and Programming (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) 
+- ### [Machine Learning Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) 
+- ### [Deep Learning Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 
+- ### [Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) 
+- ### [Numerical Analysis](https://www.youtube.com/playlist?list=PLOzRYVm0a65d0WWST6wvOP6m7VRQyRgSa) 
+- ### [Convex Optimization (Stephen Boyd)](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) 
+- ### [NLP with Deep Learning (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) 
+- ### [Modern Computer Vision (UC Berkeley, 2022)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) 
+- ### [Databases](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq) 
+- ### []() 
+- ### []() 
+- ### []() 
