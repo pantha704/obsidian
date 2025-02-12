@@ -40,7 +40,6 @@
 - ### [bolt](https://botl.new) - same as v0 but can also deploy those websites and provides a whole editor for custom changes 
 - ### [Rollout AI](https://rollout.site/) better than v0 atm
 
-
 ---
 
 # Mathematics & Machine Learning stuffs (cred: [meow](https://x.com/poliloveslogic))
