@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources (Free ig).md",
+                "file": "PARA/Archives/AI ML/QAs/About mimicking big llms o3, gpt-5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources (Free ig)"
+              "title": "About mimicking big llms o3, gpt-5"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "9af2c3330d058de4",
+            "id": "aece0d62fd69d330",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +207,9 @@
   },
   "active": "8bd20d95e097e191",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources (Free ig).md",
+    "PARA/Archives/AI ML/QAs/About mimicking big llms o3, gpt-5.md",
+    "PARA/Archives/AI ML/QAs",
     "PARA/Archives/Web dev/Frontend/Learn CSS first/CSS before everything.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS first/Learn CSS before Tailwind.md",
     "PARA/Archives/Web dev/Frontend/Animations/Resources.md",
@@ -227,7 +230,6 @@
     "ebooks/Non fiction/Grit-Angela-Duckworth.pdf",
     "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
     "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
-    "ebooks/Non fiction/building-a-second-brain-Summary.pdf",
     "PARA/Areas/Guide/Keep in mind.md",
     "PARA/Areas/Guide/Resume.md",
     "PARA/Areas/Guide/Freelance.md",
@@ -241,8 +243,6 @@
     "Code Dumps/MHSC/Maths 12/Matrices.md",
     "Code Dumps/MHSC/Maths 12/Mathematical Logic.md",
     "PARA/Archives/hecking/OSINT/useful sites.md",
-    "PARA/Archives/Resources n Ideas/Resources (Free ig).md",
-    "PARA/Archives/hecking/HTB/Ctfs n bounties.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
