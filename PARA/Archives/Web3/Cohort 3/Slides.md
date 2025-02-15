@@ -7,3 +7,6 @@
 ### Week 16 Solidity : https://www.canva.com/design/DAGWfh7FkYs/atPF0eKRrFcVvxIWs1R3Sw/edit
 
 ### Owner : [Harkirat Singh](https://github.com/hkirat) 
+
+### Week 26 Rust : https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a
+
