@@ -41,6 +41,15 @@ They're all free ig
 - ### [bolt](https://botl.new) - same as v0 but can also deploy those websites and provides a whole editor for custom changes 
 - ### [Rollout AI](https://rollout.site/) better than v0 atm
 
+# UI libs/components
+- ### [Bento Grids](https://bentogrids.com/shots/cm05fsgsd000312h2ql3qtvho) 
+- ### [Once UI](https://once-ui.com/) 
+- ### [Aceternity UI](https://ui.aceternity.com/components) 
+- ### [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) 
+- ### [Radix UI](https://www.radix-ui.com) 
+- ### []() 
+- ### []() 
+
 ---
 
 # Mathematics & Machine Learning stuffs (cred: [meow](https://x.com/poliloveslogic))
