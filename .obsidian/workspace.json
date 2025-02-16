@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Web dev/Raw truths/by deepseek.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "by deepseek"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "10794ff846334a9a",
+            "id": "d8ff9843572ccb65",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +207,25 @@
   },
   "active": "17b15e64e97c8628",
   "lastOpenFiles": [
+    "PARA/Archives/Jailbreak/Deepseek/What should you do.md",
+    "PARA/Archives/Web dev/Raw truths/by deepseek.md",
+    "PARA/Archives/Web dev/Raw truths",
+    "PARA/Archives/Jailbreak/Deepseek/Raw truths of life.md",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+    "PARA/Archives/Jailbreak/Deepseek",
+    "PARA/Archives/hecking/Random/Hecking uni db.md",
+    "PARA/Archives/hecking/Random",
+    "PARA/Archives/hecking/FUD/Permanent Windows (deepseek r1).md",
+    "PARA/Archives/Jailbreak",
+    "PARA/Archives/AI ML/Untitled",
+    "PARA/Archives/hecking/FUD/Windows (by deepseek r1).md",
+    "PARA/Archives/hecking/bettercap/usage.md",
+    "PARA/Archives/hecking/bettercap/caplets.md",
+    "PARA/Archives/hecking/msfconsole.md",
+    "PARA/Archives/hecking/FUD",
+    "PARA/Archives/Linux/Arch/Editing/Image editing tools.md",
+    "PARA/Archives/Linux/Arch/Editing",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Web dev/Frontend/Animations/Prac/Applying mo-graph like background scroll.md",
     "PARA/Archives/Web dev/Frontend/Animations/Framer/Framer (by o1-mini).md",
@@ -215,7 +234,6 @@
     "PARA/Archives/Web dev/Frontend/Learn CSS first/CSS before everything.md",
     "PARA/Archives/Web dev/Frontend/Learn CSS first/Learn CSS before Tailwind.md",
     "README.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/AI ML/QAs/About mimicking big llms o3, gpt-5.md",
     "PARA/Archives/AI ML/QAs",
     "PARA/Archives/Web dev/Frontend/Animations/Resources.md",
@@ -224,25 +242,7 @@
     "PARA/Archives/Web dev/Frontend/Animations/React spring.md",
     "PARA/Archives/Web dev/Frontend/Animations/React three fibre.md",
     "PARA/Archives/Web dev/Frontend/Animations/Parallax Scroll.md",
-    "PARA/Archives/Web dev/Frontend/Animations/Lottie Animation.md",
-    "PARA/Archives/Web dev/Frontend/Animations/Learning Web Animations.md",
-    "PARA/Archives/Web dev/Frontend/Animations/Framer Motion.md",
     "ebooks/Non fiction/The Happiness Advantage_ The Seven Principles of Positive Psychology That Fuel Success and Performan (Z-lib.io).pdf",
-    "ebooks/Non fiction/Never-Split-the-Difference.pdf",
-    "ebooks/Non fiction/Man's-search-for-meaning_Victor-E-Frankl.pdf",
-    "ebooks/Non fiction/How-to-Be-Yourself.pdf",
-    "ebooks/Non fiction/How_to_Change_Your_Mind_-_Michael_Pollan.pdf",
-    "ebooks/Non fiction/Grit-Angela-Duckworth.pdf",
-    "ebooks/Non fiction/Discourses and Selected Writings of Epictetus (tr Robert Dobbin) ( PDFDrive ).pdf",
-    "ebooks/Non fiction/Creative Selection by Ken Kocienda.pdf",
-    "PARA/Areas/Guide/Keep in mind.md",
-    "PARA/Areas/Guide/Resume.md",
-    "PARA/Areas/Guide/Freelance.md",
-    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
-    "PARA/Archives/AI ML/Gen AI Beginner.md",
-    "Code Dumps/MHSC/Maths 12/Linear Programming.md",
-    "Code Dumps/MHSC/Maths 12/Line and plane.md",
-    "Code Dumps/MHSC/Maths 12/Vectors.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
