@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebooks/Lists/Me/Projects/AI Influencer/Perplex DR.md",
+                "file": "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Perplex DR"
+              "title": "Prompt"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "d8ff9843572ccb65",
+            "id": "a0ffa0a904794c89",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,10 +207,10 @@
   },
   "active": "790c1fd13018f3da",
   "lastOpenFiles": [
-    "ebooks/Lists/Me/Projects/AI Influencer/Perplexity Deep research.md",
-    "ebooks/Lists/Me/Projects/AI Influencer/Perplex DR.md",
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Projects/AI Influencer/Deepseek.md",
+    "ebooks/Lists/Me/Projects/AI Influencer/Perplex DR.md",
+    "ebooks/Lists/Me/Projects/AI Influencer/Perplexity Deep research.md",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Randoms/fcous.md",
     "ebooks/Lists/Me/Randoms/Art of S.md",
     "ebooks/Lists/Me/Randoms/fobw.md",
