@@ -52,7 +52,14 @@ They're all free ig
 
 ---
 
-# Mathematics & Machine Learning stuffs (cred: [meow](https://x.com/poliloveslogic))
+# Mathematics & Machine Learning stuffs
+- ### [Fast AI](https://www.fast.ai/) (Practical Deep Learning for coders)
+- ### []() 
+- ### []() 
+- ### []() 
+
+
+# (thread : [meow](https://x.com/poliloveslogic))
 
 - ### [Linear Algebra (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 
 - ### [Probability for CS (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) 

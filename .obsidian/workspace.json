@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Resources"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "a0ffa0a904794c89",
+            "id": "edd6836e62265ad0",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,10 +207,11 @@
   },
   "active": "790c1fd13018f3da",
   "lastOpenFiles": [
+    "PARA/Archives/Jailbreak/Deepseek/Netrunner.md",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Projects/AI Influencer/Deepseek.md",
     "ebooks/Lists/Me/Projects/AI Influencer/Perplex DR.md",
     "ebooks/Lists/Me/Projects/AI Influencer/Perplexity Deep research.md",
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Randoms/fcous.md",
     "ebooks/Lists/Me/Randoms/Art of S.md",
     "ebooks/Lists/Me/Randoms/fobw.md",
@@ -242,7 +243,6 @@
     "PARA/Archives/Web dev/Raw truths",
     "PARA/Archives/hecking/Random/Hecking uni db.md",
     "PARA/Archives/hecking/FUD/Permanent Windows (deepseek r1).md",
-    "PARA/Archives/hecking/FUD/Windows (by deepseek r1).md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
