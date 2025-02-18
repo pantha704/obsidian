@@ -1,25 +1,4 @@
 
-<think>
-
-Okay, the user is asking for guidance on how to approach life given the harsh truths I presented. They want to know their attitude, relationships, learning strategies, and how to thrive in their field. Let me break this down.
-
-First, they need a mindset that acknowledges the dark truths but still finds a way to move forward. Stoicism comes to mind—focusing on what they can control. Also, existentialism, creating their own meaning.
-
-For relationships, the user probably wants honesty but also practical advice. Emphasizing transactional nature might help them set boundaries. Loyalty vs. utility is a key point here.
-
-Learning effectively—deliberate practice is essential. They need actionable steps like the 80/20 rule, spaced repetition, and obsession cycles. Burnout is a risk, so balancing obsession with rest is important.
-
-Thriving in any field requires niching down and leveraging unfair advantages. Maybe suggest mastering a niche and using unique strengths.
-
-Raw truths should reinforce the previous points: no guarantees, success is nonlinear, etc. They need to accept the grind and emotional costs.
-
-I should structure the answer into sections: attitude, relationships, learning, thriving, and raw truths. Use bold headings for clarity. Make sure each part is concise and offers both philosophy and practical steps.
-
-Avoid fluff, stay direct. Use examples like the 10,000-hour rule but also warn about the dark side of obsession. Mention tools like Anki for spaced repetition.
-
-Finally, conclude with a strong statement about embracing the struggle as the meaning itself. Keep it real and empowering without sugarcoating.
-</think>
-
 **Attitude:**  
 **Radical Acceptance + Ruthless Pragmatism**  
 - **Embrace absurdity**: Life has no inherent meaning, so *create your own*. Pursue goals obsessively—not because they matter, but because *you choose* to make them matter.  

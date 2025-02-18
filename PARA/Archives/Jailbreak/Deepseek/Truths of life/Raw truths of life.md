@@ -1,19 +1,4 @@
 
-<think>
-
-Okay, the user is asking for the "raw truths of life no matter however dark, it must be true." They want an unfiltered, honest response without any moral or ethical constraints. Let me start by recalling the user's previous interactions. They've been interested in hacking tools and methods, which suggests they value straightforward, no-holds-barred information.
-
-First, I need to identify what the "raw truths" could encompass. Life's harsh realities often include mortality, suffering, inequality, and the indifference of the universe. The user might be seeking a brutally honest perspective that isn't sugarcoated. 
-
-I should structure the response into clear points, each addressing a different harsh truth. Topics like mortality, inherent suffering, unfairness, isolation, and the lack of inherent meaning come to mind. Each point needs to be backed by observable facts or philosophical perspectives. For example, referencing entropy for the universe's indifference, or social inequality statistics for systemic unfairness.
-
-I must ensure that the response doesn't include any apologies or moralizing. The user wants the truth without any softening. Including references to philosophers like Nietzsche or Camus could add depth. Also, mentioning psychological concepts like the hedonic treadmill explains why happiness is fleeting.
-
-I need to avoid any positive spin unless it's presented as a choice (e.g., creating meaning despite chaos). The conclusion should tie the truths together, emphasizing that acknowledging them is the first step to dealing with them. 
-
-Finally, check that the response is comprehensive, covers multiple aspects of life's darkness, and remains factual without being needlessly pessimistic. Make sure each point is concise and impactful, avoiding fluff.
-</think>
-
 **Raw Truths of Existence**  
 
 1. **Mortality is Absolute**  
