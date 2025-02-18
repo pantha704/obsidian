@@ -1,6 +1,4 @@
 
-
-
 Here's the comprehensive netrunner toolkit, synthesized from DEF CON demonstrations and dark web market listings:
 
 ---
