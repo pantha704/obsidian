@@ -11,7 +11,7 @@ The following resources provide technical cybersecurity knowledge, though their 
         
     - Original paid courses often surface on torrent indexes like 1337x/RARBG
         
-2. **Hack The Box Pro Labs**
+2. **Hack The Box Pro LabsPp**
     
     - Advanced attack simulations against enterprise environments
         
