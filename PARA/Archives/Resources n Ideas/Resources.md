@@ -49,6 +49,15 @@ They're all free ig
 - ### []() 
 - ### []() 
 
+# Animations
+- ### [Motion](https://motion.dev/) 
+- ### []() 
+- ### []() 
+- ### []() 
+- ### []() 
+- ### []() 
+- ### []() 
+
 # Learn designing
 - ### [Dribble](https://dribbble.com/) 
 - ### [Rauno](https://rauno.me) 
@@ -63,7 +72,7 @@ They're all free ig
 - ### []() 
 
 
-# (thread : [meow](https://x.com/poliloveslogic))
+# (x thread : [meow](https://x.com/poliloveslogic))
 
 - ### [Linear Algebra (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 
 - ### [Probability for CS (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) 
