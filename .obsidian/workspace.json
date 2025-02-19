@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53262f475f12066d",
+        "id": "62cbb53c84fa4872",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4f327b92e9bb96",
+            "id": "04f448ed5745a8f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Projects/Web2/Nextjs/AI Career Path Explorer with Skills Gap Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "AI Career Path Explorer with Skills Gap Analysis"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "d1d1bf2d51a174bc",
+            "id": "fe331eeebc1b8dbf",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,12 +205,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef4f327b92e9bb96",
+  "active": "04f448ed5745a8f4",
   "lastOpenFiles": [
+    "PARA/Projects/Web2/Nextjs/Nextjs.md",
+    "PARA/Projects/Web2/Nextjs/AI Career Path Explorer with Skills Gap Analysis.md",
+    "PARA/Projects/Web2/Nextjs",
+    "ebooks/Lists/Me/Get ur ass up/do it today.md",
+    "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Web dev/Frontend/Sources.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/skills/github analysis.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/skills/your flaws.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/earn.md",
@@ -234,15 +238,11 @@
     "PARA/Archives/Jailbreak/Deepseek/Netrunner/Netrunner.md",
     "PARA/Archives/Jailbreak/Deepseek/Netrunner/Netrunner 2.md",
     "ebooks/Lists/Me/Get ur ass up/grind.md",
-    "ebooks/Lists/Me/Get ur ass up/move it.md",
-    "README.md",
-    "PARA/Archives/Jailbreak/Deepseek/Truths of life/What should you do.md",
     "PARA/Archives/Jailbreak/Deepseek/Truths of life",
     "PARA/Archives/Jailbreak/Deepseek/Netrunner",
     "PARA/Archives/AI ML/ML",
     "ebooks/Lists/Me/Randoms",
     "ebooks/Lists/Me/Projects/AI Influencer",
-    "ebooks/Non fiction/Ali Abdaal/Feel-Good Productivity_ How to Do More of What Matters to You (Z-lib.io).pdf",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
