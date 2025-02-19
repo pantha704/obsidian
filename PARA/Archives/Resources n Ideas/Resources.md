@@ -40,6 +40,13 @@ They're all free ig
 - ### [bolt](https://botl.new) - same as v0 but can also deploy those websites and provides a whole editor for custom changes 
 - ### [Rollout AI](https://rollout.site/) better than v0 atm
 
+# Learn CSS before Tailwind
+- ### [CSS-Tricks: A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/) 
+- ### [CSS Gradient](https://cssgradient.io/) 
+- ### [MDN CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
+- ### []() 
+- ### []() 
+
 # UI libs/components
 - ### [Bento Grids](https://bentogrids.com/shots/cm05fsgsd000312h2ql3qtvho) 
 - ### [Once UI](https://once-ui.com/) 
@@ -62,6 +69,9 @@ They're all free ig
 - ### [Dribble](https://dribbble.com/) 
 - ### [Rauno](https://rauno.me) 
 - ### [Hyperplexed yt](https://www.youtube.com/c/Hyperplexed) 
+- ### []() 
+- ### []() 
+
 
 ---
 
