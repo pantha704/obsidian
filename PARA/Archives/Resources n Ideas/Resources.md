@@ -23,9 +23,9 @@ They're all free ig
 - ### [Merlin AI](https://www.getmerlin.in/) ( Academics )
 - ### [NotebooksLM](https://notebooklm.google.com/) ( Pdfs, yt vids, academics, etc )
 - ### [Deepseek](https://chat.deepseek.com) (o1 rival)
-- ### [Frog Forge](https://rarepepes.net/forge) (create your own frog meme)
+- ### [Frog Forge](https://rarepepes.net/forge) (create your own pepe frog meme)
 - ### [dingboard](https://dingboard.com/) (alternate for Frog Forge)
-- ### []()
+- ### [Rare pepes](https://rarepepes.net/search) (Pepe memes)
 - ### []()
 - ### []()
 
@@ -33,7 +33,6 @@ They're all free ig
 ---
 
 # Web Dev
-
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
 - ### [Resources for web3, mern, nextjs, react, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
 - ### [Next Radar](https://nextradar.vercel.app/docs/latest) 
@@ -49,6 +48,11 @@ They're all free ig
 - ### [Radix UI](https://www.radix-ui.com) 
 - ### []() 
 - ### []() 
+
+# Learn designing
+- ### [Dribble](https://dribbble.com/) 
+- ### [Rauno](https://rauno.me) 
+- ### [Hyperplexed yt](https://www.youtube.com/c/Hyperplexed) 
 
 ---
 
