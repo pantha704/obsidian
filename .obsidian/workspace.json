@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4e112ca62558cc",
+        "id": "117c917be998bb7b",
         "type": "tabs",
         "children": [
           {
-            "id": "15b5abecff0957d5",
+            "id": "e58765ed64cea50e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Web3/Hackathons.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hackathons"
+              "title": "Resources"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doraha",
+                "query": "forbi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "346fd2e4f3d9274f",
+            "id": "3fe3bec79dba06e4",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,8 +205,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "e58765ed64cea50e",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
+    "PARA/Research ( Exploration )/Random/Random.md",
+    "PARA/Research ( Exploration )/Random/jailbroken Deepseek/gtk.md",
+    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
+    "PARA/Archives/Science/Maths/learn maths.md",
+    "PARA/Archives/Web3/Hackathons.md",
+    "PARA/Archives/Science/Maths",
+    "PARA/Archives/Science",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/vuln.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
@@ -226,24 +234,16 @@
     "Attachments/Pasted image 20250219223447.png",
     "PARA/Archives/Web dev/Cohort 3/Imp links.md",
     "Code Dumps/MHSC/Chem 12/Organic",
-    "Code Dumps/MHSC/Chem 12",
-    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/hecking/black arch/gemini/resources 2.md",
     "PARA/Archives/hecking/black arch/gemini/resources (might be paid).md",
     "PARA/Archives/hecking/black arch/gemini/resources (free ig).md",
     "PARA/Archives/hecking/black arch/gemini/black hat asap.md",
     "PARA/Archives/hecking/black arch/gemini/all there is to know.md",
     "PARA/Archives/hecking/black arch/perplexity (useless ig)/courses.md",
-    "PARA/Archives/hecking/black arch/gemini",
     "PARA/Archives/hecking/black arch/perplexity (useless ig)/books.md",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/all there is to know.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/prompts.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/black hat asap.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (might be paid).md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
-    "ebooks/Lists/Grow.md",
-    "PARA/Archives/Linux/Black Arch/learn to utilize its full potential.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
