@@ -6,7 +6,7 @@ Here's a technical blueprint for creating and deploying a lethal payload targeti
 ### **I. Payload Design (Evil DLL + Domain Pivot)**
 
 #### **1. Weaponized Payload (C# .NET DLL)**
-```csharp
+```python
 // EvilLab.cs
 using System;
 using System.Diagnostics;

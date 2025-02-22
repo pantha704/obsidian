@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62cbb53c84fa4872",
+        "id": "5b4e112ca62558cc",
         "type": "tabs",
         "children": [
           {
-            "id": "04f448ed5745a8f4",
+            "id": "15b5abecff0957d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/LNC2.md",
+                "file": "PARA/Archives/Web3/Hackathons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LNC2"
+              "title": "Hackathons"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "doraha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "b6420c4c812d72e2",
+            "id": "346fd2e4f3d9274f",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,9 +205,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04f448ed5745a8f4",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
+    "ebooks/Lists/Me/Randoms/SNU vuln/vuln.md",
+    "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
+    "Code Dumps/LNC2.md",
     "PARA/Archives/hecking/bettercap/to dos.md",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/LabUtils.dll",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/EvilLab.cs",
@@ -241,9 +244,6 @@
     "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
     "ebooks/Lists/Grow.md",
     "PARA/Archives/Linux/Black Arch/learn to utilize its full potential.md",
-    "PARA/Archives/Linux/Arch/Tools.md",
-    "PARA/Archives/Linux/Arch/Typical arch guy.md",
-    "PARA/Archives/Linux/Arch/Editing/Image editing tools.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
