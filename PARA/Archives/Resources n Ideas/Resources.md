@@ -5,7 +5,7 @@ They're all free ig
 - ### [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum) ( EE & CS )
 - ### [Quick Ref](https://quickref.me/) ( Cheat Sheets )
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
-- ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields) 
+- ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields)
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build literally ANY thing)
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
