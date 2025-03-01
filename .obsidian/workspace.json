@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "117c917be998bb7b",
+        "id": "9f7f31f57f2eb237",
         "type": "tabs",
         "children": [
           {
-            "id": "e58765ed64cea50e",
+            "id": "876372ebf41f7986",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forbi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "ac19af5be41a9910",
+            "id": "d2c774604f487e6e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,14 +205,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e58765ed64cea50e",
+  "active": "876372ebf41f7986",
   "lastOpenFiles": [
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+    "PARA/Projects/Random/Personal/Personal.md",
+    "PARA/Projects/Random/Personal/Starting up.md",
+    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
+    "PARA/Archives/AI ML/ML/ML by o3-mini.md",
+    "PARA/Archives/AI ML/ML/Machine learning (by o1-mini).md",
+    "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
+    "PARA/Archives/AI ML/Gen AI Beginner.md",
+    "PARA/Archives/hecking/black arch/gemini/all there is to know.md",
+    "PARA/Projects/Random/L E A.md",
+    "PARA/Projects/Random/L E A 2.md",
+    "PARA/Projects/IOT.md",
+    "PARA/Research ( Exploration )/C and C++.md",
+    "PARA/Projects/Web2/Chatgpt Extension.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Resources n Ideas/Randoms/Deepseek (jailbroke)/4000 weeks by Oliver Burkeman.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web dev/Frontend/Sources.md",
+    "ebooks/Fiction/the_hitchhiker_s_guide_to_the_galaxy.pdf",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Research ( Exploration )/Random/Random.md",
     "PARA/Research ( Exploration )/Random/jailbroken Deepseek/gtk.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
     "PARA/Archives/Science/Maths/learn maths.md",
     "PARA/Archives/Web3/Hackathons.md",
     "PARA/Archives/Science/Maths",
@@ -220,8 +236,6 @@
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/vuln.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
-    "Code Dumps/LNC2.md",
-    "PARA/Archives/hecking/bettercap/to dos.md",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/LabUtils.dll",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/EvilLab.cs",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab",
@@ -229,21 +243,7 @@
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/LabUtils.dll",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/LabUtils.dll",
-    "PARA/Archives/hecking/bettercap/usage.md",
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/harsh tools.md",
-    "Code Dumps/MHSC/Chem 12/Organic/reaction 1.md",
     "Attachments/Pasted image 20250219223447.png",
-    "PARA/Archives/Web dev/Cohort 3/Imp links.md",
-    "Code Dumps/MHSC/Chem 12/Organic",
-    "PARA/Archives/hecking/black arch/gemini/resources 2.md",
-    "PARA/Archives/hecking/black arch/gemini/resources (might be paid).md",
-    "PARA/Archives/hecking/black arch/gemini/resources (free ig).md",
-    "PARA/Archives/hecking/black arch/gemini/black hat asap.md",
-    "PARA/Archives/hecking/black arch/gemini/all there is to know.md",
-    "PARA/Archives/hecking/black arch/perplexity (useless ig)/courses.md",
-    "PARA/Archives/hecking/black arch/perplexity (useless ig)/books.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/all there is to know.md",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"

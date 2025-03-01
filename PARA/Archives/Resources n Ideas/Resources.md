@@ -1,11 +1,12 @@
-They're all free ig
+They're all free ig,
+Follow one and stick to it !!
 
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
 - ### [Resources for web3, mern, nextjs, react, rust, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
 - ### [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum) ( EE & CS )
 - ### [Quick Ref](https://quickref.me/) ( Cheat Sheets )
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
-- ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields)
+- ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields) 
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build literally ANY thing)
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
@@ -40,14 +41,14 @@ They're all free ig
 - ### [bolt](https://botl.new) - same as v0 but can also deploy those websites and provides a whole editor for custom changes 
 - ### [Rollout AI](https://rollout.site/) better than v0 atm
 
-# Learn CSS before Tailwind
+## Learn CSS before Tailwind
 - ### [CSS-Tricks: A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/) 
 - ### [CSS Gradient](https://cssgradient.io/) 
 - ### [MDN CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
 - ### []() 
 - ### []() 
 
-# UI libs/components
+## UI libs/components
 - ### [Bento Grids](https://bentogrids.com/shots/cm05fsgsd000312h2ql3qtvho) 
 - ### [Once UI](https://once-ui.com/) 
 - ### [Aceternity UI](https://ui.aceternity.com/components) 
@@ -56,7 +57,7 @@ They're all free ig
 - ### []() 
 - ### []() 
 
-# Animations
+## Animations
 - ### [Motion](https://motion.dev/) 
 - ### []() 
 - ### []() 
@@ -65,13 +66,56 @@ They're all free ig
 - ### []() 
 - ### []() 
 
-# Learn designing
+## Learn designing
 - ### [Dribble](https://dribbble.com/) 
 - ### [Rauno](https://rauno.me) 
-- ### [Behance](https://www.behance.net) 
 - ### [Hyperplexed yt](https://www.youtube.com/c/Hyperplexed) 
 - ### []() 
 - ### []() 
+
+
+---
+# Web3
+
+- ### [Cyfrin Updraft](https://updraft.cyfrin.io/) (Solidity)
+- ### []() 
+- ### []() 
+
+## Solidity
+- ### [Solidity](https://soliditylang.org/) 
+- ### [Cyfrin Updraft](https://updraft.cyfrin.io/) 
+- ### [Alchemy](https://university.alchemy.com/home) 
+- ### [buildspace](https://github.com/buildspace/buildspace-projects) 
+- ### []()
+
+
+---
+
+## Solana 
+- ### [Solana](https://solana.com/)  
+- ### [Rise In](https://www.risein.com/) 
+- ### [Sol Dev ( Switched to Solana's course on main site )](https://www.soldev.app/course) 
+- ### [Ground Zero by Superteams](https://groundzero.superteam.fun/)  
+- ### [buildspace](https://github.com/buildspace/buildspace-projects) 
+- ### [Solana Developer Bootcamp 2024](https://github.com/solana-developers/developer-bootcamp-2024) 
+
+
+---
+
+## Rust
+- ### [Rust for solana](https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a) 
+- ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
+
+
+---
+
+## Crypto and Blockchain
+- ### [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp#toc-what-is-a-blockchain) 
+- ### [Cryptocurrency ETF](https://www.investopedia.com/investing/understanding-cryptocurrency-etfs/) 
+- ### [Bitcoin Mining](https://www.investopedia.com/terms/b/bitcoin-mining.asp) 
+- ### [Decentralized Finance (DeFi)](https://www.investopedia.com/decentralized-finance-defi-5113835) 
+- ### [Hot wallet](https://www.investopedia.com/terms/h/hot-wallet.asp) 
+- ### 
 
 
 ---
@@ -79,12 +123,10 @@ They're all free ig
 # Mathematics & Machine Learning stuffs
 - ### [Fast AI](https://www.fast.ai/) (Practical Deep Learning for coders)
 - ### []() 
+- ### [Quant Research Roadmap](https://justpaste.it/ab205) 
 - ### []() 
-- ### []() 
 
-
-# (X thread by : [meow](https://x.com/poliloveslogic))
-
+## (X thread by : [meow](https://x.com/poliloveslogic))
 - ### [Linear Algebra (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) 
 - ### [Probability for CS (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) 
 - ### [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5) 
