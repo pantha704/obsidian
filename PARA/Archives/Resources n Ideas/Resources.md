@@ -103,7 +103,7 @@ Follow one and stick to it !!
 ---
 
 ## Rust
-- ### [Rust for solana](https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a) 
+- ### [Rust for solana](https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a) (Harkirat)
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
 
 
