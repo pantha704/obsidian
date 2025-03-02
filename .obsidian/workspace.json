@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Web3/Social learning app/Social Learning app.md",
+                "file": "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Social Learning app"
+              "title": "Prompt"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "7612890cf9c77656",
+            "id": "3398363e20fb3e28",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +207,7 @@
   },
   "active": "876372ebf41f7986",
   "lastOpenFiles": [
+    "PARA/Projects/Web3/Social learning app/Social Learning app.md",
     "PARA/Projects/Web3/voting-dapp.md",
     "PARA/Projects/Web3/Web3.md",
     "PARA/Projects/hecking/Wifi/Evil Twin.md",
@@ -235,7 +236,6 @@
     "PARA/Research ( Exploration )/Random/Random.md",
     "PARA/Research ( Exploration )/Random/jailbroken Deepseek/gtk.md",
     "PARA/Archives/Science/Maths/learn maths.md",
-    "PARA/Archives/Web3/Hackathons.md",
     "PARA/Archives/Science/Maths",
     "PARA/Archives/Science",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/LabUtils.dll",
