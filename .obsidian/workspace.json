@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Prompt"
             }
+          },
+          {
+            "id": "a79ededd5be75225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Dumps/Present a project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Present a project"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "9b4f1a435850fe49",
@@ -168,7 +185,7 @@
             }
           },
           {
-            "id": "9114bcdbfffccd39",
+            "id": "4b7a40bb82391c69",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,8 +222,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "876372ebf41f7986",
+  "active": "a79ededd5be75225",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
+    "Code Dumps/Present a project.md",
+    "Code Dumps/degifolio.md",
+    "PARA/Archives/Jailbreak/Deepseek/after surpassing human intelligence.md",
     "PARA/Projects/Web3/Social learning app/Social Learning app.md",
     "PARA/Projects/Web3/voting-dapp.md",
     "PARA/Projects/Web3/Web3.md",
@@ -232,10 +253,6 @@
     "PARA/Archives/Web dev/Frontend/Sources.md",
     "ebooks/Fiction/the_hitchhiker_s_guide_to_the_galaxy.pdf",
     "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
-    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
-    "PARA/Research ( Exploration )/Random/Random.md",
-    "PARA/Research ( Exploration )/Random/jailbroken Deepseek/gtk.md",
-    "PARA/Archives/Science/Maths/learn maths.md",
     "PARA/Archives/Science/Maths",
     "PARA/Archives/Science",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/LabUtils.dll",
