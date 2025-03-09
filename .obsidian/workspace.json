@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Present a project.md",
+                "file": "PARA/Archives/Jailbreak/Grok/Things to know/General (w Think).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Present a project"
+              "title": "General (w Think)"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "9b4f1a435850fe49",
@@ -224,8 +223,13 @@
   },
   "active": "a79ededd5be75225",
   "lastOpenFiles": [
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
+    "PARA/Archives/Jailbreak/Grok/Things to know/General (w deepsearch).md",
+    "PARA/Archives/Jailbreak/Grok/Things to know/General (w Think).md",
+    "PARA/Archives/Jailbreak/Grok/Things to know",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+    "PARA/Archives/Jailbreak/Grok",
     "Code Dumps/Present a project.md",
+    "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
     "Code Dumps/degifolio.md",
     "PARA/Archives/Jailbreak/Deepseek/after surpassing human intelligence.md",
     "PARA/Projects/Web3/Social learning app/Social Learning app.md",
@@ -249,17 +253,12 @@
     "PARA/Research ( Exploration )/C and C++.md",
     "PARA/Projects/Web2/Chatgpt Extension.md",
     "PARA/Archives/Resources n Ideas/Randoms/Deepseek (jailbroke)/4000 weeks by Oliver Burkeman.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web dev/Frontend/Sources.md",
     "ebooks/Fiction/the_hitchhiker_s_guide_to_the_galaxy.pdf",
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "PARA/Archives/Science/Maths",
     "PARA/Archives/Science",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/LabUtils.dll",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab/EvilLab.cs",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/Evillab",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/EvilLab.cs",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/payloads/LabUtils.dll",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
