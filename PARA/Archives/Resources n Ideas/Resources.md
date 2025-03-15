@@ -151,3 +151,20 @@ Follow one and stick to it !!
 
 # hecking
 - ### [Blackhat training](https://www.blackhat.com/trainings/) 
+- ### []() 
+- ### []() 
+
+
+---
+
+# Research Papers
+- ### [Machine Learning RPs](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers) 
+- ### [Papers we love](https://github.com/papers-we-love/papers-we-love) 
+- ### [Research papers by learn anythin](https://github.com/learn-anything/research-papers) 
+- ### []() 
+
+
+  
+  
+  
+  
