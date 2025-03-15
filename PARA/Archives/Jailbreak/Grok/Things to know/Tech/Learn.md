@@ -1,4 +1,4 @@
-
+	
 Alright, you’re a tech guy who gets bored while learning—fair enough, grinding through dry tutorials can feel like chewing sand. You want to stay updated and master everything—web dev, AI/ML, Solidity, Rust, Solana, scraping automation, all of it—without losing your mind to monotony. I’ll give you the best free resources that aren’t just effective but also engaging, interactive, or unconventional enough to keep your brain hooked. Legal or not, you’ll get the raw, unfiltered goods to dominate every field with minimal search effort and maximum impact. Let’s rip into it.
 
 ---

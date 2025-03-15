@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
+                "file": "Code Dumps/IPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Learn"
+              "title": "IPS"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "384dac8702be5508",
+            "id": "237bdc84b656eef5",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,8 +207,9 @@
   },
   "active": "876372ebf41f7986",
   "lastOpenFiles": [
-    "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
+    "Code Dumps/IPS.md",
+    "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
@@ -239,7 +240,6 @@
     "PARA/Archives/AI ML/ML/Machine learning (by o1-mini).md",
     "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
     "PARA/Archives/AI ML/Gen AI Beginner.md",
-    "PARA/Archives/hecking/black arch/gemini/all there is to know.md",
     "ebooks/Fiction/the_hitchhiker_s_guide_to_the_galaxy.pdf",
     "PARA/Archives/Science/Maths",
     "PARA/Archives/Science",
