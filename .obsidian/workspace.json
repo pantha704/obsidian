@@ -11,15 +11,12 @@
             "id": "876372ebf41f7986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "icon": "lucide-file-text",
+              "title": "Notes from the Underground By Fyodor Dostoevs"
             }
           }
         ]
@@ -168,7 +165,7 @@
             }
           },
           {
-            "id": "7f4f19abfea0758f",
+            "id": "39874ac7e7bc76a9",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,21 +204,28 @@
   },
   "active": "876372ebf41f7986",
   "lastOpenFiles": [
+    "ebooks/Fiction/Hermann Hesse/Magister Ludi - The Glass Bead Game.pdf",
+    "ebooks/Fiction/Hermann Hesse/Demian.2015.463033.pdf",
+    "ebooks/Fiction/Hermann Hesse/Siddharta.pdf",
+    "ebooks/Fiction/Hermann Hesse/Steppenwolf-By-Hermann-Hesse.pdf",
+    "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
+    "ebooks/Fiction/Hermann Hesse",
+    "ebooks/Fiction/Steppenwolf-By-Hermann-Hesse.pdf",
+    "ebooks/Non fiction/Steppenwolf-By-Hermann-Hesse.pdf",
+    "ebooks/Fiction/Dune Saga Collection Books 1 - 6 by Frank Herberts (z-lib.org).pdf",
+    "ebooks/Fiction/heart-bones-by-colleen-hoover_compress.pdf",
+    "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
-    "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/2.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Whats the wait for.md",
-    "PARA/Archives/Jailbreak/Deepseek/Things to know",
     "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
-    "PARA/Archives/Jailbreak/Grok/Things to know/Tech",
     "PARA/Archives/Jailbreak/Grok/Things to know/General (w Think).md",
     "PARA/Archives/Jailbreak/Grok/Things to know/General (w deepsearch).md",
-    "PARA/Archives/Jailbreak/Grok/Things to know",
-    "PARA/Archives/Jailbreak/Grok",
     "Code Dumps/Present a project.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
     "Code Dumps/degifolio.md",
@@ -230,19 +234,12 @@
     "PARA/Projects/Web3/voting-dapp.md",
     "PARA/Projects/Web3/Web3.md",
     "PARA/Projects/hecking/Wifi/Evil Twin.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "PARA/Projects/hecking/Wifi/Untitled",
-    "PARA/Projects/hecking/Wifi",
     "PARA/Projects/Random/Personal/Personal.md",
     "PARA/Projects/Random/Personal/Starting up.md",
     "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
     "PARA/Archives/AI ML/ML/ML by o3-mini.md",
     "PARA/Archives/AI ML/ML/Machine learning (by o1-mini).md",
     "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
-    "PARA/Archives/AI ML/Gen AI Beginner.md",
-    "ebooks/Fiction/the_hitchhiker_s_guide_to_the_galaxy.pdf",
-    "PARA/Archives/Science/Maths",
-    "PARA/Archives/Science",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
