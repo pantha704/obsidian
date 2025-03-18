@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebooks/Lists/Me/Randoms/deepseek jailbreak/Prompts.md",
+                "file": "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Prompt"
             }
           }
         ]
@@ -207,7 +207,19 @@
   },
   "active": "9b0308f76bf2d2ce",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
+    "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
+    "ebooks/Lists/Me/Randoms/SNU vuln/liability.md",
+    "ebooks/Lists/Me/Randoms/suggestions/grok.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/Prompts.md",
+    "ebooks/Lists/Me/Randoms/Art of S.md",
+    "ebooks/Lists/Me/Randoms/suggestions/cursor default.md",
+    "ebooks/Lists/Me/Randoms/suggestions/gemini.md",
+    "ebooks/Lists/Me/Randoms/suggestions/deepseek.md",
+    "ebooks/Lists/Me/Randoms/suggestions/claude.md",
+    "ebooks/Lists/Me/Randoms/suggestions",
+    "ebooks/Lists/Me/Randoms/Untitled.md",
+    "Code Dumps/suggestions",
     "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
     "ebooks/Fiction/Hermann Hesse/Magister Ludi - The Glass Bead Game.pdf",
     "ebooks/Fiction/Hermann Hesse/Demian.2015.463033.pdf",
@@ -216,8 +228,6 @@
     "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
     "ebooks/Fiction/Hermann Hesse",
     "ebooks/Fiction/Steppenwolf-By-Hermann-Hesse.pdf",
-    "ebooks/Non fiction/Steppenwolf-By-Hermann-Hesse.pdf",
-    "ebooks/Fiction/Dune Saga Collection Books 1 - 6 by Frank Herberts (z-lib.org).pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
@@ -233,16 +243,6 @@
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
     "Code Dumps/degifolio.md",
     "PARA/Archives/Jailbreak/Deepseek/after surpassing human intelligence.md",
-    "PARA/Projects/Web3/Social learning app/Social Learning app.md",
-    "PARA/Projects/Web3/voting-dapp.md",
-    "PARA/Projects/Web3/Web3.md",
-    "PARA/Projects/hecking/Wifi/Evil Twin.md",
-    "PARA/Projects/Random/Personal/Personal.md",
-    "PARA/Projects/Random/Personal/Starting up.md",
-    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
-    "PARA/Archives/AI ML/ML/ML by o3-mini.md",
-    "PARA/Archives/AI ML/ML/Machine learning (by o1-mini).md",
-    "ebooks/Lists/Me/self/learnings/Lessons by Prathams.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
