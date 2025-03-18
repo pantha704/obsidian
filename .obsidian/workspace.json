@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7f31f57f2eb237",
+        "id": "aa53fe25849d4c12",
         "type": "tabs",
         "children": [
           {
-            "id": "876372ebf41f7986",
+            "id": "9b0308f76bf2d2ce",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf"
+                "file": "ebooks/Lists/Me/Randoms/deepseek jailbreak/Prompts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notes from the Underground By Fyodor Dostoevs"
+              "icon": "lucide-file",
+              "title": "Prompts"
             }
           }
         ]
@@ -165,7 +168,7 @@
             }
           },
           {
-            "id": "22dc4bb4b6e6bc85",
+            "id": "7dd207ec3f210f9f",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -202,8 +205,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "876372ebf41f7986",
+  "active": "9b0308f76bf2d2ce",
   "lastOpenFiles": [
+    "ebooks/Lists/Me/Randoms/deepseek jailbreak/Prompts.md",
+    "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
     "ebooks/Fiction/Hermann Hesse/Magister Ludi - The Glass Bead Game.pdf",
     "ebooks/Fiction/Hermann Hesse/Demian.2015.463033.pdf",
     "ebooks/Fiction/Hermann Hesse/Siddharta.pdf",
@@ -213,8 +218,6 @@
     "ebooks/Fiction/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Non fiction/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Fiction/Dune Saga Collection Books 1 - 6 by Frank Herberts (z-lib.org).pdf",
-    "ebooks/Fiction/heart-bones-by-colleen-hoover_compress.pdf",
-    "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
