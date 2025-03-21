@@ -8,6 +8,7 @@ Follow one and stick to it !!
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
 - ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields) 
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
+- ### [Code Crafters](https://app.codecrafters.io/concepts/rust) 
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build literally ANY thing)
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [js interview prep (harkirat)](https://github.com/code100x/js-interview-prep.git) 
@@ -105,6 +106,7 @@ Follow one and stick to it !!
 ## Rust
 - ### [Rust for solana](https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a) (Harkirat)
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
+- ### [Code crafters](https://app.codecrafters.io/concepts/rust) 
 
 
 ---
