@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa53fe25849d4c12",
+        "id": "b7d7d22eea8e6833",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0308f76bf2d2ce",
+            "id": "fd71326b2f5aae4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+                "file": "PARA/Projects/Rust/Few more.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Few more"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "7dd207ec3f210f9f",
+            "id": "c6001ea280a5f81d",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,8 +205,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9b0308f76bf2d2ce",
+  "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Projects/Rust/Rust Basic Projects.md",
+    "PARA/Projects/Rust/Few more.md",
+    "Code Dumps/rust keylogger.md",
+    "Code Dumps/Parallax framer 3js.md",
+    "Code Dumps/Present a project.md",
+    "ebooks/Non fiction/James Clear/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
+    "PARA/Areas/Jobs n Interns.md",
+    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/liability.md",
@@ -227,7 +235,6 @@
     "ebooks/Fiction/Hermann Hesse/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
     "ebooks/Fiction/Hermann Hesse",
-    "ebooks/Fiction/Steppenwolf-By-Hermann-Hesse.pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
@@ -236,13 +243,6 @@
     "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/2.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Whats the wait for.md",
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
-    "PARA/Archives/Jailbreak/Grok/Things to know/General (w Think).md",
-    "PARA/Archives/Jailbreak/Grok/Things to know/General (w deepsearch).md",
-    "Code Dumps/Present a project.md",
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/hecking/snu lab.md",
-    "Code Dumps/degifolio.md",
-    "PARA/Archives/Jailbreak/Deepseek/after surpassing human intelligence.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
