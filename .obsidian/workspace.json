@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Intro"
             }
           }
         ]
@@ -207,6 +207,8 @@
   },
   "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Archives/Prompts.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Rust/Few more.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "Code Dumps/rust keylogger.md",
@@ -235,14 +237,12 @@
     "ebooks/Fiction/Hermann Hesse/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
     "ebooks/Fiction/Hermann Hesse",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/2.md",
-    "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Whats the wait for.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
