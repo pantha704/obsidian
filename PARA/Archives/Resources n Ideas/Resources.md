@@ -1,5 +1,4 @@
-They're all free ig,
-Follow one and stick to it !!
+They're all free ig
 
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
 - ### [Resources for web3, mern, nextjs, react, rust, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
@@ -8,7 +7,6 @@ Follow one and stick to it !!
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
 - ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields) 
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
-- ### [Code Crafters](https://app.codecrafters.io/concepts/rust) 
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build literally ANY thing)
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [js interview prep (harkirat)](https://github.com/code100x/js-interview-prep.git) 
@@ -42,23 +40,23 @@ Follow one and stick to it !!
 - ### [bolt](https://botl.new) - same as v0 but can also deploy those websites and provides a whole editor for custom changes 
 - ### [Rollout AI](https://rollout.site/) better than v0 atm
 
-## Learn CSS before Tailwind
+# Learn CSS before Tailwind
 - ### [CSS-Tricks: A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/) 
 - ### [CSS Gradient](https://cssgradient.io/) 
 - ### [MDN CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
 - ### []() 
 - ### []() 
 
-## UI libs/components
+# UI libs/components
 - ### [Bento Grids](https://bentogrids.com/shots/cm05fsgsd000312h2ql3qtvho) 
 - ### [Once UI](https://once-ui.com/) 
 - ### [Aceternity UI](https://ui.aceternity.com/components) 
 - ### [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) 
 - ### [Radix UI](https://www.radix-ui.com) 
-- ### []() 
+- ### [Magic UI](https://magicui.design/) 
 - ### []() 
 
-## Animations
+# Animations
 - ### [Motion](https://motion.dev/) 
 - ### []() 
 - ### []() 
@@ -67,7 +65,7 @@ Follow one and stick to it !!
 - ### []() 
 - ### []() 
 
-## Learn designing
+# Learn designing
 - ### [Dribble](https://dribbble.com/) 
 - ### [Rauno](https://rauno.me) 
 - ### [Hyperplexed yt](https://www.youtube.com/c/Hyperplexed) 
@@ -96,17 +94,11 @@ Follow one and stick to it !!
 - ### [Solana](https://solana.com/)  
 - ### [Rise In](https://www.risein.com/) 
 - ### [Sol Dev ( Switched to Solana's course on main site )](https://www.soldev.app/course) 
+- ### [Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) 
 - ### [Ground Zero by Superteams](https://groundzero.superteam.fun/)  
 - ### [buildspace](https://github.com/buildspace/buildspace-projects) 
 - ### [Solana Developer Bootcamp 2024](https://github.com/solana-developers/developer-bootcamp-2024) 
-
-
----
-
-## Rust
-- ### [Rust for solana](https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a) (Harkirat)
-- ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) 
-- ### [Code crafters](https://app.codecrafters.io/concepts/rust) 
+- ### 
 
 
 ---
@@ -153,20 +145,3 @@ Follow one and stick to it !!
 
 # hecking
 - ### [Blackhat training](https://www.blackhat.com/trainings/) 
-- ### []() 
-- ### []() 
-
-
----
-
-# Research Papers
-- ### [Machine Learning RPs](https://github.com/anubhavshrimal/Machine-Learning-Research-Papers) 
-- ### [Papers we love](https://github.com/papers-we-love/papers-we-love) 
-- ### [Research papers by learn anythin](https://github.com/learn-anything/research-papers) 
-- ### []() 
-
-
-  
-  
-  
-  
