@@ -11,6 +11,7 @@ They're all free ig
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [js interview prep (harkirat)](https://github.com/code100x/js-interview-prep.git) 
 - ### [Project based learning](https://github.com/practical-tutorials/project-based-learning)  
+- ### [Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) 
 - ### [Its Foss](https://itsfoss.com) 
 - ### [Framer Motion](https://egghead.io/lessons/react-install-framer-motion-and-create-a-motion-component) 
 - ### [Rust Book](https://doc.rust-lang.org/book/) 
