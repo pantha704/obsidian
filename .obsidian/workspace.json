@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Intro.md",
+                "file": "Code Dumps/DeGiFolioG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "DeGiFolioG"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "694d07039683a10e",
+            "id": "dbe19b8847463f18",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +207,11 @@
   },
   "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Areas/Jobs n Interns.md",
+    "Code Dumps/DeGiFolioG.md",
+    "PARA/Areas/Repos to commit.md",
+    "PARA/Archives/Intro.md",
+    "ebooks/Non fiction/Four Thousand Weeks - PDF Room.pdf",
     "PARA/Archives/Prompts.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Rust/Few more.md",
@@ -215,7 +220,6 @@
     "Code Dumps/Parallax framer 3js.md",
     "Code Dumps/Present a project.md",
     "ebooks/Non fiction/James Clear/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
-    "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
@@ -236,13 +240,9 @@
     "ebooks/Fiction/Hermann Hesse/Siddharta.pdf",
     "ebooks/Fiction/Hermann Hesse/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
-    "ebooks/Fiction/Hermann Hesse",
     "Code Dumps/IPS.md",
     "PARA/Archives/Jailbreak/Grok/Things to know/Tech/Learn.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
-    "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
-    "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
-    "PARA/Archives/Jailbreak/Deepseek/Things to know/2.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
