@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Jailbreak/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Prompt"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "b3e9d9e33fa498f4",
+            "id": "d33acf8a10d41626",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +207,7 @@
   },
   "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Obsidian/Git plugin.md",
     "Code Dumps/DeGiFolioG.md",
     "PARA/Areas/Jobs n Interns.md",
@@ -214,14 +215,13 @@
     "PARA/Archives/Intro.md",
     "ebooks/Non fiction/Four Thousand Weeks - PDF Room.pdf",
     "PARA/Archives/Prompts.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Projects/Rust/Few more.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "Code Dumps/rust keylogger.md",
     "Code Dumps/Parallax framer 3js.md",
     "Code Dumps/Present a project.md",
     "ebooks/Non fiction/James Clear/Ultralearning_ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career - PDF Room.pdf",
-    "PARA/Archives/Jailbreak/Deepseek/Prompt.md",
+    "PARA/Archives/Jailbreak/Prompt.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
     "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
     "ebooks/Lists/Me/Randoms/SNU vuln/liability.md",
