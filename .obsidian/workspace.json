@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas/Jobs n Interns.md",
+                "file": "PARA/Archives/Jailbreak/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jobs n Interns"
+              "title": "Prompt"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "98b546b639cbf04c",
+            "id": "d38f631429b3721e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,12 +207,12 @@
   },
   "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Jailbreak/Prompt.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Obsidian/Git plugin.md",
     "Code Dumps/DeGiFolioG.md",
-    "PARA/Areas/Jobs n Interns.md",
     "PARA/Areas/Repos to commit.md",
     "PARA/Archives/Intro.md",
     "ebooks/Non fiction/Four Thousand Weeks - PDF Room.pdf",
