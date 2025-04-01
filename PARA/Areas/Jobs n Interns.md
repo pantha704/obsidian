@@ -13,6 +13,8 @@
 - ### [remote3](https://remote3.co/) 
 - ### [Contra](https://contra.com/home) 
 - ### [web3 career](https://web3.career) 
+- ### [Crypto Job list](https://cryptojobslist.com/) 
+- ### [Solana Jobs](https://jobs.solana.com/jobs) 
 - ### []()
 - ### []()
 # Open Source :
