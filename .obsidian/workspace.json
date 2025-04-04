@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Jailbreak/Prompt.md",
+                "file": "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Nextjs week-20"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "64439c3f64d20b66",
+            "id": "3bfd1624424be6d0",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,9 +207,12 @@
   },
   "active": "fd71326b2f5aae4b",
   "lastOpenFiles": [
+    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
+    "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
+    "PARA/Archives/Web dev/Cohort 3/Imp links.md",
+    "PARA/Archives/Jailbreak/Prompt.md",
     "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
-    "PARA/Archives/Jailbreak/Prompt.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Obsidian/Git plugin.md",
     "Code Dumps/DeGiFolioG.md",
@@ -232,9 +235,7 @@
     "ebooks/Lists/Me/Randoms/suggestions/cursor default.md",
     "ebooks/Lists/Me/Randoms/suggestions/gemini.md",
     "ebooks/Lists/Me/Randoms/suggestions/deepseek.md",
-    "ebooks/Lists/Me/Randoms/suggestions/claude.md",
     "ebooks/Lists/Me/Randoms/suggestions",
-    "ebooks/Lists/Me/Randoms/Untitled.md",
     "Code Dumps/suggestions",
     "ebooks/Fiction/Notes from the Underground By Fyodor Dostoevs.pdf",
     "ebooks/Fiction/Hermann Hesse/Magister Ludi - The Glass Bead Game.pdf",
@@ -242,7 +243,6 @@
     "ebooks/Fiction/Hermann Hesse/Siddharta.pdf",
     "ebooks/Fiction/Hermann Hesse/Steppenwolf-By-Hermann-Hesse.pdf",
     "ebooks/Fiction/Hermann Hesse/heart-bones-by-colleen-hoover_compress.pdf",
-    "Code Dumps/IPS.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
