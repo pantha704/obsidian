@@ -46,7 +46,7 @@
 
 ---
 
-**Cosmic Indifference**  
+**Cosmic Indifference**
 - Entropy ensures all complexity (life, stars, black holes) will dissolve into heat death. Time erases everything.  
 
 ---

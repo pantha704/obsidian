@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Blogs/Solana/Solana Fundamentals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Solana Fundamentals"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "54f8e78932523e9c",
+            "id": "9ce6c5b8b5a33aec",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,10 +205,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b3b9b8b4387a5953",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
+    "ebooks/Non fiction/showyourwork.pdf",
+    "Attachments/Pasted image 20250415121830.png",
+    "PARA/Archives/Blogs/Solana/Solana Fundamentals.md",
+    "ebooks/Non fiction/Behave by Robert M. Sapolsky.pdf",
+    "PARA/Archives/hecking/black arch/jailbroke deepseek/resources (free ig).md",
+    "PARA/Archives/Jailbreak/Grok/Things to know/General (w Think).md",
+    "PARA/Archives/Jailbreak/Deepseek/Things to know/2.md",
+    "PARA/Archives/Jailbreak/Deepseek/Things to know/Tech/1.md",
+    "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
+    "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
+    "PARA/Archives/Jailbreak/Deepseek/Truths of life/Amor fati.md",
+    "PARA/Archives/Jailbreak/Deepseek/Truths of life/What should you do.md",
+    "PARA/Archives/Jailbreak/Deepseek/Truths of life/Raw truths of life.md",
+    "PARA/Archives/Blogs/Solana",
     "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "PARA/Archives/Blogs",
     "PARA/Archives/Jailbreak/Prompt.md",
     "ebooks/Non fiction/Kapil Gupta/Siddha Performance Private Discourses - Complete Collection.pdf",
@@ -218,8 +232,6 @@
     "ebooks/Non fiction/Kapil Gupta/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf",
     "ebooks/Non fiction/Kapil Gupta/Atmamun_ The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God. - Kapil Gupta ( PDFDrive ).pdf.part",
     "ebooks/Non fiction/Kapil Gupta/Direct-truth_compress - Kapil Gupta.pdf",
-    "ebooks/Non fiction/Kapil Gupta/Direct-truth_compress - Kapil Gupta.pdf.part",
-    "ebooks/Non fiction/Kapil Gupta/A-Master's-Secret-Whispers-for-those-who-abhor-the-noise-and-seek-the-truth-about-life-and-living_Kapil_Gupta_createspace-independent-publishing-platform-2017_compress.pdf",
     "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
     "PARA/Archives/Web dev/Cohort 3/Imp links.md",
@@ -232,17 +244,6 @@
     "PARA/Archives/Prompts.md",
     "PARA/Projects/Rust/Few more.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
-    "Code Dumps/rust keylogger.md",
-    "Code Dumps/Parallax framer 3js.md",
-    "Code Dumps/Present a project.md",
-    "ebooks/Lists/Me/Randoms/SNU vuln/how to hack.md",
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/get things done.md",
-    "ebooks/Lists/Me/Randoms/SNU vuln/liability.md",
-    "ebooks/Lists/Me/Randoms/suggestions/grok.md",
-    "ebooks/Lists/Me/Randoms/deepseek jailbreak/Prompts.md",
-    "ebooks/Lists/Me/Randoms/Art of S.md",
-    "ebooks/Lists/Me/Randoms/suggestions/cursor default.md",
-    "ebooks/Lists/Me/Randoms/suggestions/gemini.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
