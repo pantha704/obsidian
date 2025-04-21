@@ -7,6 +7,7 @@ They're all free ig
 - ### [Code parrot](https://codeparrot.ai/) (AI for creating UIs)
 - ### [roadmap.sh](https://roadmap.sh) (Visual roadmaps in many fields) 
 - ### [Learn X in Y minutes](https://learnxinyminutes.com) 
+- ### [Learn Anything XYZ](https://learn-anything.xyz/)
 - ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build literally ANY thing)
 - ### [Coding Interview](https://github.com/jwasham/coding-interview-university) 
 - ### [js interview prep (harkirat)](https://github.com/code100x/js-interview-prep.git) 

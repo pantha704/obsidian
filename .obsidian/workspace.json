@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0340bc83a5a241cb",
+        "id": "595c27061ea1cdf6",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b9b8b4387a5953",
+            "id": "6209f7ea8a357c5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/AI  LAB.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI  LAB"
+              "title": "Resources"
             }
           }
         ]
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "2c6c54c8b5ee7c8d",
+            "id": "f963edb26c363f7e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -205,8 +205,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b3b9b8b4387a5953",
+  "active": "6209f7ea8a357c5a",
   "lastOpenFiles": [
+    "Code Dumps/degifolio.md",
+    "Code Dumps/AI LAB.md",
+    "Code Dumps/DeGiFolioG.md",
+    "Code Dumps/Present a project.md",
+    "Code Dumps/ZuGrama.md",
     "PARA/Archives/Resources n Ideas/Randoms/Triggers/a few lyrics.md",
     "ebooks/Non fiction/Adam Smith/Wealth-Nations.pdf",
     "ebooks/Non fiction/Adam Smith",
@@ -239,10 +244,6 @@
     "PARA/Areas/Jobs n Interns.md",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Obsidian/Git plugin.md",
-    "Code Dumps/DeGiFolioG.md",
-    "PARA/Areas/Repos to commit.md",
-    "PARA/Archives/Intro.md",
-    "PARA/Archives/Prompts.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
