@@ -11,15 +11,12 @@
             "id": "6209f7ea8a357c5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Non fiction/The-Sovereign-Child.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "icon": "lucide-file-text",
+              "title": "The-Sovereign-Child"
             }
           }
         ]
@@ -122,10 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/Archives/Web dev/Projects/Books n movies recommendation systum/o1 m, optimized.md"
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of o1 m, optimized"
+              "title": "Outline of Resources"
             }
           },
           {
@@ -168,7 +168,17 @@
             }
           },
           {
-            "id": "f963edb26c363f7e",
+            "id": "45ff928291f1b78e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "7eae68abeb5c6938",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -207,6 +217,10 @@
   },
   "active": "6209f7ea8a357c5a",
   "lastOpenFiles": [
+    "PARA/Archives/Web3/Cohort 3/Slides.md",
+    "PARA/Archives/Web dev/Cohort 3/Imp links.md",
+    "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/degifolio.md",
     "Code Dumps/AI LAB.md",
     "Code Dumps/DeGiFolioG.md",
@@ -234,15 +248,11 @@
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/What should you do.md",
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/Raw truths of life.md",
     "PARA/Archives/Blogs/Solana",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
     "PARA/Archives/Blogs",
     "PARA/Archives/Jailbreak/Prompt.md",
-    "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
     "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
-    "PARA/Archives/Web dev/Cohort 3/Imp links.md",
     "PARA/Areas/Jobs n Interns.md",
-    "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Obsidian/Git plugin.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
