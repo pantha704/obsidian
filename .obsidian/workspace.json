@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "595c27061ea1cdf6",
+        "id": "c070109edf4edaa8",
         "type": "tabs",
         "children": [
           {
-            "id": "6209f7ea8a357c5a",
+            "id": "48c41132ba22641b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Non fiction/The-Sovereign-Child.pdf"
+                "file": "PARA/Archives/Resources n Ideas/Project ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "The-Sovereign-Child"
+              "icon": "lucide-file",
+              "title": "Project ideas"
             }
           }
         ]
@@ -178,7 +181,7 @@
             }
           },
           {
-            "id": "7eae68abeb5c6938",
+            "id": "8a06bbcab07e5690",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -215,12 +218,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6209f7ea8a357c5a",
+  "active": "48c41132ba22641b",
   "lastOpenFiles": [
+    "PARA/Projects/Rust/Few more.md",
+    "PARA/Projects/Rust/solana.md",
+    "PARA/Projects/Rust/Tauri.md",
+    "PARA/Projects/Rust/Rust Basic Projects.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "ebooks/Non fiction/Naval & Kamal/Love_Yourself_Like_Your_Life_Depends_on_It_-_Kamal_Ravikant.pdf",
+    "ebooks/Non fiction/The-Sovereign-Child.pdf",
     "PARA/Archives/Web3/Cohort 3/Slides.md",
     "PARA/Archives/Web dev/Cohort 3/Imp links.md",
     "PARA/Archives/Web dev/Cohort 3/Nextjs week-20.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/degifolio.md",
     "Code Dumps/AI LAB.md",
     "Code Dumps/DeGiFolioG.md",
@@ -247,13 +256,7 @@
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/Amor fati.md",
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/What should you do.md",
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/Raw truths of life.md",
-    "PARA/Archives/Blogs/Solana",
     "PARA/Archives/Books/Crush it on Linkdin/Quick Summary.md",
-    "PARA/Archives/Blogs",
-    "PARA/Archives/Jailbreak/Prompt.md",
-    "PARA/Archives/Web dev/Cohort 3/Week 12, UI UX.md",
-    "PARA/Areas/Jobs n Interns.md",
-    "PARA/Archives/Obsidian/Git plugin.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
