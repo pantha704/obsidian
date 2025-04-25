@@ -80,7 +80,7 @@ They're all free ig
 # Web3
 
 - ### [Cyfrin Updraft](https://updraft.cyfrin.io/) (Solidity)
-- ### []() 
+- ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) (Rust)
 - ### []() 
 
 ## Solidity
