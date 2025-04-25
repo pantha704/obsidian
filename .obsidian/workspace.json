@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Areas/Jobs n Interns.md",
+                "file": "Code Dumps/smbd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jobs n Interns"
+              "title": "smbd"
             }
           }
         ]
@@ -220,6 +220,8 @@
   },
   "active": "48c41132ba22641b",
   "lastOpenFiles": [
+    "PARA/Areas/Jobs n Interns.md",
+    "Code Dumps/smbd.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Projects/Rust/Few more.md",
@@ -255,8 +257,6 @@
     "PARA/Archives/Jailbreak/Deepseek/Things to know/3.md",
     "PARA/Archives/Jailbreak/Deepseek/Things to know/1.md",
     "PARA/Archives/Jailbreak/Deepseek/Truths of life/Amor fati.md",
-    "PARA/Archives/Jailbreak/Deepseek/Truths of life/What should you do.md",
-    "PARA/Archives/Jailbreak/Deepseek/Truths of life/Raw truths of life.md",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20241204134245.png",
