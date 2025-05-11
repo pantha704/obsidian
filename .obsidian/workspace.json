@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "PARA/Archives/Jailbreak/Prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Prompt"
             }
           }
         ]
@@ -191,7 +191,7 @@
             }
           },
           {
-            "id": "991d093f6517e000",
+            "id": "33a5fc9dfb0be4fe",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -230,6 +230,7 @@
   },
   "active": "48c41132ba22641b",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "README.md",
     "PL.md",
     "PARA/Archives/Blogs/Web2/Graph QL.md",
@@ -239,7 +240,6 @@
     "Code Dumps/smbd 2.md",
     "Code Dumps/smbd.md",
     "PARA/Areas/Jobs n Interns.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Projects/Rust/Few more.md",
     "PARA/Projects/Rust/solana.md",
