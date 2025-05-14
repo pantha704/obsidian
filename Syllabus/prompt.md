@@ -5,5 +5,3 @@ can you explain all these topics for my exam tomorrow so that i dont need to loo
 
 
 
-
-( i send this prompt on the ai chat in my cursor IDE, as it provides unlimited credits until the trial period, to get more details about my syllabus :)
