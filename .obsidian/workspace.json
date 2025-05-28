@@ -191,26 +191,6 @@
             }
           },
           {
-            "id": "08c534fee7ef30f7",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "183380454afe3d8c",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "72824425019ce30b",
             "type": "leaf",
             "state": {
@@ -218,6 +198,16 @@
               "state": {},
               "icon": "inline-scripts-button-view",
               "title": "Inline Scripts - Buttons"
+            }
+          },
+          {
+            "id": "e8cf01d9b5948252",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -238,14 +228,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
       "obsidian-day-planner:Timeline": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "48c41132ba22641b",
