@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Jailbreak/Prompt.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Resources"
             }
           }
         ]
@@ -240,11 +240,11 @@
   },
   "active": "48c41132ba22641b",
   "lastOpenFiles": [
+    "PARA/Archives/Jailbreak/Prompt.md",
     "Syllabus/prompt.md",
     "Syllabus/Sem 4/Operating Systems/Syllabus.md",
     "Syllabus/Sem 4/Operating Systems/NotebookLM/Study guide.md",
     "Syllabus/Sem 4/Operating Systems/NotebookLM/Theories.md",
-    "PARA/Archives/Jailbreak/Prompt.md",
     "Syllabus/Sem 4/Operating Systems/NotebookLM",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "README.md",
