@@ -61,7 +61,6 @@ They're all free ig
 - ### [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) 
 - ### [Radix UI](https://www.radix-ui.com) 
 - ### [Magic UI](https://magicui.design/) 
-- ### [250 Modern UI components by Open Course (dk what is this found randomly)](https://www.open-course.net/course-landing/250-modern-nextjs-ui-comp-collections-ft-aceternity-shadcn-magicui-originui-and-more-cqCyn) 
 - ### []() 
 
 # Animations
