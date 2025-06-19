@@ -1,11 +1,11 @@
-#  !!! Always use VM to operate and avoid malwares !!!
+#  !!! Always use VM to install crack softwares to avoid malwares !!!
 
 ## Some Links
 - ### [Unofficial Red-Team tools](https://github.com/Ixve/Red-Team-Tools) 
 - ### [Burpsuite pro 2025](https://github.com/xiv3r/Burpsuite-Professional) 
 - ### [Acunetix Pro 2024](https://github.com/xiv3r/Acunetix-Professional-v24.1) 
-- ### []()
-- ### []()
+- ### []() 
+- ### []() 
 
 ---
 
