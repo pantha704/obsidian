@@ -3,7 +3,7 @@
 ## Some Links
 - ### [Unofficial Red-Team tools](https://github.com/Ixve/Red-Team-Tools) 
 - ### [Burpsuite pro 2025](https://github.com/xiv3r/Burpsuite-Professional) 
-- ### [Acunetix 2024](https://github.com/xiv3r/Acunetix-v24.10.241106172) 
+- ### [Acunetix Pro 2024](https://github.com/xiv3r/Acunetix-Professional-v24.1) 
 - ### []()
 - ### []()
 
