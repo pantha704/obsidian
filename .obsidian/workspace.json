@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "List"
             }
-          },
-          {
-            "id": "e119c8886a4bdfc5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +201,7 @@
             }
           },
           {
-            "id": "7b204443df84ae38",
+            "id": "6acb4a41a623ecd1",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -249,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e119c8886a4bdfc5",
+  "active": "48c41132ba22641b",
   "lastOpenFiles": [
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Projects/List.md",
