@@ -85,6 +85,7 @@ They're all free ig
 
 - ### [Cyfrin Updraft](https://updraft.cyfrin.io/) (Solidity)
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) (Rust)
+- ### [Rust in half an hour ](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) 
 - ### []() 
 
 ## Solidity

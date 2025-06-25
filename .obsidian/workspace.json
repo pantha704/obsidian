@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/hecking/Cracks/Cracked Softwares.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cracked Softwares"
+              "title": "Resources"
             }
           }
         ]
@@ -201,7 +201,7 @@
             }
           },
           {
-            "id": "144a6dc846416d5d",
+            "id": "15a1d7db205262a7",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -240,15 +240,24 @@
   },
   "active": "48c41132ba22641b",
   "lastOpenFiles": [
-    "PARA/Archives/hecking/Cracks/Cracking hashes without GPUs.md",
+    "PARA/Projects/Web3.md",
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Areas/After effects.md",
+    "PARA/Areas/Hackathons.md",
+    "PARA/Archives/Web3/Sources.md",
+    "PARA/Archives/Web3/General roadmaps/Sol in chart.md",
+    "PARA/Archives/Web3/General roadmaps/Sol.md",
+    "PARA/Archives/Web3/General roadmaps/Thirdweb.md",
     "PARA/Archives/hecking/Cracks/Cracked Softwares.md",
+    "PARA/Archives/hecking/Cracks/Cracking hashes without GPUs.md",
     "PARA/Archives/hecking/Cracks",
     "PARA/Archives/hecking/OSINT/OSINT.md",
     "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/APIs.md",
     "Code Dumps/AI LAB.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Non fiction/The Psychology of Persuasion.pdf",
     "PARA/Archives/Jailbreak/Prompt.md",
     "Syllabus/prompt.md",
@@ -261,15 +270,6 @@
     "PARA/Archives/Blogs/Web2/Graph QL.md",
     "PARA/Archives/Blogs/Web2",
     "Code Dumps/so 2.md",
-    "Code Dumps/so.md",
-    "Code Dumps/smbd 2.md",
-    "Code Dumps/smbd.md",
-    "PARA/Areas/Jobs n Interns.md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Projects/Rust/Few more.md",
-    "PARA/Projects/Rust/solana.md",
-    "PARA/Projects/Rust/Tauri.md",
-    "PARA/Projects/Rust/Rust Basic Projects.md",
     "ebooks/Non fiction/Naval & Kamal/Love_Yourself_Like_Your_Life_Depends_on_It_-_Kamal_Ravikant.pdf",
     "ebooks/Non fiction/The-Sovereign-Child.pdf",
     "ebooks/Non fiction/Adam Smith/Wealth-Nations.pdf",
