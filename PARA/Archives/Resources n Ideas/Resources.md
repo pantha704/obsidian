@@ -86,6 +86,7 @@ They're all free ig
 - ### [Cyfrin Updraft](https://updraft.cyfrin.io/) (Solidity)
 - ### [LearnRust](https://github.com/ImplFerris/LearnRust.git) (Rust)
 - ### [Rust in half an hour ](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) 
+- ### [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) 
 - ### []() 
 
 ## Solidity
@@ -99,7 +100,8 @@ They're all free ig
 ---
 
 ## Solana 
-- ### [Solana](https://solana.com/)  
+- ### [Solana](https://solana.com/) 
+- ### [Solana architecture - Helius](https://www.helius.dev/blog/solana-executive-overview) 
 - ### [Rise In](https://www.risein.com/) 
 - ### [Sol Dev ( Switched to Solana's course on main site )](https://www.soldev.app/course) 
 - ### [Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) 
