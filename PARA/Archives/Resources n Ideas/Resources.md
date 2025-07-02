@@ -1,4 +1,4 @@
-teThey're all free ig
+They're all free ig
 
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
 - ### [Resources for web3, mern, nextjs, react, rust, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
