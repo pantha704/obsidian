@@ -38,7 +38,16 @@ They're all free ig
 - ### []()
 
 ---
+# Project Ideas
+- ### [Alliance - Startup Ideas](https://alliance.xyz/ideas) 
+- ### [Superteam Ideas](https://build.superteam.fun/ideas)
+- ### [Build this now](https://www.buildthisnow.com/idea-database)
+- ### [Build your own X](https://github.com/rohitpaulk/build-your-own-x) (Build almost ANY thing)
+- ### []()
+- ### []()
 
+
+---
 # Web Dev
 - ### [WEBDEV Resources](https://web-dev-resources.com/#/) 
 - ### [Resources for web3, mern, nextjs, react, etc](https://linkcollect.io/askwhyharsh/c/647c3dac129194f5ff6deefd) 
