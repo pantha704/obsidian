@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Project Ideas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 273.5026054382324
   },
   "right": {
     "id": "9b4f1a435850fe49",
@@ -202,7 +201,7 @@
             }
           },
           {
-            "id": "b9b4685e032d03fd",
+            "id": "ec4df53ae0f4b3ad",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -239,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9715214fedade482",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "PARA/Projects/Web3.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
