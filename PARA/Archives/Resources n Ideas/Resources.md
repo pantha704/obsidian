@@ -74,7 +74,7 @@ They're all free ig
 
 # Animations
 - ### [Motion](https://motion.dev/) 
-- ### []() 
+- ### [Anime js](https://animejs.com/) 
 - ### []() 
 - ### []() 
 - ### []() 
