@@ -11,18 +11,31 @@
             "id": "48c41132ba22641b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/20230811_142039.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "20230811_142039"
+            }
+          },
+          {
+            "id": "86a81297140d91d7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
+                "file": "Syllabus/Sem 5/Machine Learning/Syllabus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Syllabus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
             }
           },
           {
-            "id": "455e02446c0a3e3c",
+            "id": "a886f85bd36d5cfd",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -238,14 +251,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "86a81297140d91d7",
   "lastOpenFiles": [
+    "Syllabus/20230811_142039.pdf",
+    "Syllabus/Sem 5/Machine Learning/Syllabus.md",
+    "Syllabus/Sem 5/Software Engineering/Syllabus.md",
+    "Syllabus/Sem 5/Computer Networks/Syllabus.md",
+    "Syllabus/prompt.md",
+    "Syllabus/Sem 5/Current Programming Techniques",
+    "Syllabus/Sem 5/NM Elective-I",
+    "Syllabus/Sem 5/Machine Learning",
+    "Syllabus/Sem 5/Software Engineering",
+    "Syllabus/Sem 5/Computer Networks",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "Syllabus/Sem 5",
     "ebooks/Non fiction/Mel Robbins/The-Let-Them-Theory_-A-Life-Changing-Tool-That-Millions-of-People-Cant-Stop-Talking-About-by-Mel-Robbins.pdf",
     "ebooks/Non fiction/Mel Robbins",
     "PARA/Projects/Web3.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Resources n Ideas/Books sites.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "PARA/Areas/After effects.md",
     "PARA/Areas/Hackathons.md",
     "PARA/Archives/Web3/Sources.md",
@@ -260,22 +284,10 @@
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/APIs.md",
     "Code Dumps/AI LAB.md",
-    "ebooks/Non fiction/The Psychology of Persuasion.pdf",
     "PARA/Archives/Jailbreak/Prompt.md",
-    "Syllabus/prompt.md",
     "Syllabus/Sem 4/Operating Systems/Syllabus.md",
     "Syllabus/Sem 4/Operating Systems/NotebookLM/Study guide.md",
     "Syllabus/Sem 4/Operating Systems/NotebookLM/Theories.md",
-    "Syllabus/Sem 4/Operating Systems/NotebookLM",
-    "README.md",
-    "PL.md",
-    "PARA/Archives/Blogs/Web2/Graph QL.md",
-    "PARA/Archives/Blogs/Web2",
-    "ebooks/Non fiction/Naval & Kamal/Love_Yourself_Like_Your_Life_Depends_on_It_-_Kamal_Ravikant.pdf",
-    "ebooks/Non fiction/The-Sovereign-Child.pdf",
-    "ebooks/Non fiction/Adam Smith/Wealth-Nations.pdf",
-    "ebooks/Non fiction/Adam Smith",
-    "ebooks/Non fiction/~tmp66_showyourwork.pdf",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
