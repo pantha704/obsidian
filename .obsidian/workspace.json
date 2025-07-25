@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "PARA/Archives/Prompts/Learn X by doing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Learn X by doing"
             }
           }
         ],
@@ -214,7 +214,7 @@
             }
           },
           {
-            "id": "344b67f24dfbfaa7",
+            "id": "67bd0bfdf3790387",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -253,11 +253,18 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
+    "PARA/Archives/Prompts/Prompts.md",
+    "PARA/Archives/Prompts/Learn X by doing.md",
+    "PARA/Archives/Prompts",
+    "PARA/Archives/Resources n Ideas/Books sites.md",
+    "PARA/Archives/Resources n Ideas/Project ideas.md",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "Code Dumps/Projects/List.md",
+    "PARA/Archives/Resources n Ideas/Randoms/Triggers/a few lyrics.md",
     "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
     "Code Dumps/DT pyq.md",
     "Code Dumps/DT.md",
     "PARA/Archives/Web3/Projects/Hackquest/(Trashed) Ethereum voting dapp.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Syllabus/Sem 5/Machine Learning/Syllabus.md",
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
     "Syllabus/20230811_142039.pdf",
@@ -270,11 +277,7 @@
     "Syllabus/Sem 5/Software Engineering",
     "Syllabus/Sem 5/Computer Networks",
     "Syllabus/Sem 5",
-    "ebooks/Non fiction/Mel Robbins/The-Let-Them-Theory_-A-Life-Changing-Tool-That-Millions-of-People-Cant-Stop-Talking-About-by-Mel-Robbins.pdf",
-    "ebooks/Non fiction/Mel Robbins",
     "PARA/Projects/Web3.md",
-    "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Areas/After effects.md",
     "PARA/Areas/Hackathons.md",
     "PARA/Archives/Web3/Sources.md",
@@ -284,11 +287,8 @@
     "PARA/Archives/hecking/Cracks/Cracked Softwares.md",
     "PARA/Archives/hecking/Cracks/Cracking hashes without GPUs.md",
     "PARA/Archives/hecking/OSINT/OSINT.md",
-    "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/APIs.md",
-    "Code Dumps/AI LAB.md",
-    "PARA/Archives/Jailbreak/Prompt.md",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
