@@ -14,8 +14,8 @@ you may tell me where to look for what im trying to do or where can i find it
 but not the exact code
 
 ---
-### Original
 
+### Original s:
 
 how does a pro frontend engineer copy or create websites using tailwind or shadcn 
 teach it to someone who hasnt build any good frontend sites or designs using tailwind by himself 
