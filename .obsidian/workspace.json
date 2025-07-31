@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48c41132ba22641b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Syllabus/20230811_142039.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "20230811_142039"
-            }
-          },
-          {
             "id": "86a81297140d91d7",
             "type": "leaf",
             "state": {
@@ -34,8 +22,7 @@
               "title": "Learn X by doing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +201,7 @@
             }
           },
           {
-            "id": "fe83261477080f13",
+            "id": "30f4b1b6f87a7929",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -253,8 +240,9 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
-    "PARA/Archives/Prompts/Prompts.md",
+    "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Prompts/Learn X by doing.md",
+    "PARA/Archives/Prompts/Prompts.md",
     "PARA/Archives/Prompts",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
@@ -267,7 +255,6 @@
     "PARA/Archives/Web3/Projects/Hackquest/(Trashed) Ethereum voting dapp.md",
     "Syllabus/Sem 5/Machine Learning/Syllabus.md",
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
-    "Syllabus/20230811_142039.pdf",
     "Syllabus/Sem 5/Software Engineering/Syllabus.md",
     "Syllabus/Sem 5/Computer Networks/Syllabus.md",
     "Syllabus/prompt.md",
@@ -288,7 +275,6 @@
     "PARA/Archives/hecking/Cracks/Cracking hashes without GPUs.md",
     "PARA/Archives/hecking/OSINT/OSINT.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
-    "Code Dumps/APIs.md",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",

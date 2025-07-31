@@ -15,7 +15,7 @@ but not the exact code
 
 ---
 
-### Original s:
+### Original :
 
 how does a pro frontend engineer copy or create websites using tailwind or shadcn 
 teach it to someone who hasnt build any good frontend sites or designs using tailwind by himself 
