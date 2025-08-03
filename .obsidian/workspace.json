@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Prompts/Learn X by doing.md",
+                "file": "ebooks/Lists/Grow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Learn X by doing"
+              "title": "Grow"
             }
           }
         ]
@@ -201,7 +201,7 @@
             }
           },
           {
-            "id": "6f200c3cbd123180",
+            "id": "d955c85cc632bccd",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -240,8 +240,9 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
-    "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Prompts/Learn X by doing.md",
+    "ebooks/Lists/Watch n Read list.md",
+    "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Prompts/Prompts.md",
     "PARA/Archives/Prompts",
     "PARA/Archives/Resources n Ideas/Books sites.md",
