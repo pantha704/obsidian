@@ -164,7 +164,8 @@ They're all free ig
 
 # hecking
 - ### [Blackhat training](https://www.blackhat.com/trainings/) 
-- ### [HackerOne](https://hackerone.com) 
+- ### [HackerOne Opportunities](https://hackerone.com) 
+- ### [Hacker101 Learn hacking](https://www.hacker101.com/start-here) 
 
 
 
