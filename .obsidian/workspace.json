@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/1. GSOC 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "1. GSOC 2026"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gsoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "25d54e271b0d9d37",
+            "id": "518fd0a375d34b34",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -260,10 +260,18 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
+    "PARA/Archives/GSOC 2025/common less comp.md",
+    "Code Dumps/1. GSOC 2026.md",
+    "PARA/Archives/GSOC 2025/Get Started.md",
+    "PARA/Archives/GSOC 2025/etc.md",
+    "PARA/Archives/GSOC 2025/less comp.md",
+    "PARA/Archives/GSOC 2025/less comp 2.md",
+    "PARA/Archives/GSOC 2025/Prompts.md",
+    "ebooks/Lists/Me/Randoms/suggestions/claude.md",
+    "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Win Recovery.md",
     "PARA/Research ( Exploration )/Disk Recovery/Tools.md",
-    "Code Dumps/Projects/List.md",
     "PARA/Research ( Exploration )/Disk Recovery",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "ebooks/Lists/Grow.md",
@@ -283,19 +291,11 @@
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
     "Syllabus/Sem 5/Software Engineering/Syllabus.md",
     "Syllabus/Sem 5/Computer Networks/Syllabus.md",
-    "Syllabus/prompt.md",
     "Syllabus/Sem 5/Current Programming Techniques",
     "Syllabus/Sem 5/NM Elective-I",
     "Syllabus/Sem 5/Machine Learning",
     "Syllabus/Sem 5/Software Engineering",
     "Syllabus/Sem 5/Computer Networks",
-    "PARA/Projects/Web3.md",
-    "PARA/Areas/After effects.md",
-    "PARA/Areas/Hackathons.md",
-    "PARA/Archives/Web3/Sources.md",
-    "PARA/Archives/Web3/General roadmaps/Sol in chart.md",
-    "PARA/Archives/Web3/General roadmaps/Sol.md",
-    "PARA/Archives/Web3/General roadmaps/Thirdweb.md",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
