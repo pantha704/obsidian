@@ -9,3 +9,4 @@
 - ### [MotionSync - Real-Time Collaborative Animation Studio](https://chat.qwen.ai/c/7fa30b2a-8304-4956-9daa-d4ac306bad62) 
 - ### [Real-Time Collaborative Code Editor with AI Pair Programming](https://chat.qwen.ai/c/3dcda405-7381-45bc-b5d7-d1296e36d615) 
 - ### Make apps for various social media sites which download contents from their links.. and later connect them all to make a universal content extractor app.. and also make an app that provides a side service over this universal app..
+- ### Github repos organizer or scraper for complex searches or repository lookups with filters (e.g. [GSOC Spy](https://gsoc-spy.vercel.app/)).
