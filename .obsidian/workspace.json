@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/1. GSOC 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "1. GSOC 2026"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "b1cefb00e5e1329f",
+            "id": "d37e28df258e4f1b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -260,6 +260,7 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
+    "Code Dumps/Projects/List.md",
     "Code Dumps/1. GSOC 2026.md",
     "PARA/Archives/Jailbreak/Prompt.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
@@ -269,7 +270,6 @@
     "PARA/Archives/GSOC 2025/less comp 2.md",
     "PARA/Archives/GSOC 2025/Prompts.md",
     "ebooks/Lists/Me/Randoms/suggestions/claude.md",
-    "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Win Recovery.md",
     "PARA/Research ( Exploration )/Disk Recovery/Tools.md",
