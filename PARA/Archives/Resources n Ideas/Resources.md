@@ -109,15 +109,14 @@ They're all free ig
 ---
 
 ## Solana 
-- ### [Solana](https://solana.com/) 
+- ### [Solana](https://solana.com/developers/courses) 
 - ### [Solana architecture - Helius](https://www.helius.dev/blog/solana-executive-overview) 
 - ### [Rise In](https://www.risein.com/) 
-- ### [Sol Dev ( Switched to Solana's course on main site )](https://www.soldev.app/course) 
 - ### [Solana Bytes](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) 
 - ### [Ground Zero by Superteams](https://groundzero.superteam.fun/)  
 - ### [buildspace](https://github.com/buildspace/buildspace-projects) 
 - ### [Solana Developer Bootcamp 2024](https://github.com/solana-developers/developer-bootcamp-2024) 
-- ### 
+- ### [Turbin3 yt](https://www.youtube.com/@Turbin3) 
 
 
 ---
