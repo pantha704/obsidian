@@ -166,8 +166,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "backlink"
             }
           },
           {
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "6aa078702c9ee470",
+            "id": "43e35d7b5f227c5b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -240,6 +240,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
