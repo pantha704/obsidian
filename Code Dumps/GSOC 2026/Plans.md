@@ -3,6 +3,7 @@ chatgpt: https://chatgpt.com/c/689adacd-3260-832f-828d-ea3594496dff
  1. OWASP 
  2. Python Software Foundation
  3. Circuitverse
+ 4. Nuetralinojs (Optional: not sure if it will come into gsoc or not)
 
 perplexity: https://www.perplexity.ai/search/i-said-to-contribute-in-google-H6nN45RDSvOP9arbvUeh4Q
 
