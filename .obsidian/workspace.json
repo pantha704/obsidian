@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/GSOC 2026/Plans.md",
+                "file": "Code Dumps/GSOC 2026/Decision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plans"
+              "title": "Decision"
             }
           }
         ]
@@ -261,8 +261,8 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
-    "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026/Plans.md",
+    "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026",
     "Code Dumps/AI LAB.md",
     "Code Dumps/Projects/List.md",
