@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/GSOC 2026/Decision.md",
+                "file": "PARA/Archives/Resources n Ideas/Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Decision"
+              "title": "Resources"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "598bd2b44e4daf37",
+            "id": "a9c8a3d91608e787",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,8 +261,8 @@
   },
   "active": "86a81297140d91d7",
   "lastOpenFiles": [
-    "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026/Decision.md",
+    "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026",
     "Code Dumps/AI LAB.md",
     "Code Dumps/Projects/List.md",
