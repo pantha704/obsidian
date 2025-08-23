@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gsoc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,7 +222,7 @@
             }
           },
           {
-            "id": "a9c8a3d91608e787",
+            "id": "4ed096d60ee13029",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -259,7 +260,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "86a81297140d91d7",
+  "active": "9715214fedade482",
   "lastOpenFiles": [
     "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026/Plans.md",
