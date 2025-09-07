@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c070109edf4edaa8",
+        "id": "6f2b49d36553e878",
         "type": "tabs",
         "children": [
           {
-            "id": "86a81297140d91d7",
+            "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/Archives/Resources n Ideas/Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "New tab"
             }
           }
         ]
@@ -221,7 +216,7 @@
             }
           },
           {
-            "id": "d99fe57cfd4e78e9",
+            "id": "6c2c37bd479ca469",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -259,8 +254,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "925a545ec6b40e83",
   "lastOpenFiles": [
+    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026",
@@ -268,7 +264,6 @@
     "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Posts/Solana Roadmap.md",
-    "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/Posts",
     "PARA/Archives/Jailbreak/Prompt.md",
     "PARA/Archives/GSOC 2025/common less comp.md",
