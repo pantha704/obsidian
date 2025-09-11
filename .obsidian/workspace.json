@@ -11,10 +11,15 @@
             "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Code Dumps/Projects/List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "List"
             }
           }
         ]
@@ -216,7 +221,7 @@
             }
           },
           {
-            "id": "34a880f380613a6a",
+            "id": "2124675c1460b3ec",
             "type": "leaf",
             "state": {
               "type": "timeline",
