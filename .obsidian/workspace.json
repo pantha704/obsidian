@@ -11,15 +11,12 @@
             "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf"
               },
-              "icon": "lucide-file",
-              "title": "List"
+              "icon": "lucide-file-text",
+              "title": "little, big: or the fairies parliament - john crowley"
             }
           }
         ]
@@ -221,7 +218,7 @@
             }
           },
           {
-            "id": "2124675c1460b3ec",
+            "id": "5d5513c25c783391",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,12 +258,12 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
+    "Code Dumps/Projects/List.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026",
     "Code Dumps/AI LAB.md",
-    "Code Dumps/Projects/List.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Posts/Solana Roadmap.md",
     "Code Dumps/Posts",
