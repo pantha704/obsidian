@@ -11,12 +11,15 @@
             "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf"
+                "file": "Code Dumps/Projects/List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "little, big: or the fairies parliament - john crowley"
+              "icon": "lucide-file",
+              "title": "List"
             }
           }
         ]
@@ -218,7 +221,7 @@
             }
           },
           {
-            "id": "5d5513c25c783391",
+            "id": "9113d95a36d6c6ef",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -258,6 +261,7 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
+    "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "Code Dumps/Projects/List.md",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/GSOC 2026/Decision.md",
@@ -289,7 +293,6 @@
     "PARA/Archives/Resources n Ideas/Randoms/Triggers/a few lyrics.md",
     "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
     "Code Dumps/DT pyq.md",
-    "Code Dumps/DT.md",
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
     "Syllabus/Sem 5/Current Programming Techniques",
     "Syllabus/Sem 5/NM Elective-I",

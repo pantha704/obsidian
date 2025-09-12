@@ -1,7 +1,7 @@
 
 - ### [Unreal Twitter](https://chatgpt.com/c/684edfcd-d558-800c-9005-2b04ed5a92aa) 
 
-- ### [Organized notes](https://chatgpt.com/c/68772e30-f914-800c-9ad9-963558477045) ( This can also be used as storing events like we provide links details or date & time which the ai will classify into deadlines, duration, priority, amount of effort needed and append that into a global list of events, priority tasks , or tasks by effort.. or better it can have a single list of everything (each element may have the option to be added in the list or not) and that cn be sorted by its categories: deadline, duration, priority, amount of effort.  The categories should be dynamic and could be of any number, defined by the user, which the AI will do the job for its notes. )
+- ### [Organized notes](https://chatgpt.com/c/68772e30-f914-800c-9ad9-963558477045) [v2](https://chatgpt.com/c/68772e30-f914-800c-9ad9-963558477045) ( This can also be used as storing events like we provide links details or date & time which the ai will classify into deadlines, duration, priority, amount of effort needed and append that into a global list of events, priority tasks , or tasks by effort.. or better it can have a single list of everything (each element may have the option to be added in the list or not) and that cn be sorted by its categories: deadline, duration, priority, amount of effort.  The categories should be dynamic and could be of any number, defined by the user, which the AI will do the job for its notes. )
 
 - ### [Lock-in app](https://chatgpt.com/c/68997735-0c00-8331-b7ca-ed20790f08eb) ([public link](https://chatgpt.com/c/68997735-0c00-8331-b7ca-ed20790f08eb))
 
