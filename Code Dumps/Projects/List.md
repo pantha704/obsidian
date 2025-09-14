@@ -24,3 +24,5 @@
 - ### An AI app that can have single/multiple context windows, each have selected number of llm models chosen by the user, and all debate on a topic provided by the user and keep responding to the responses by other llms, also questioning them until they reach a final conclusion. The main goal would be providing the user the best response to their question which covers every possible cases and would leave no unsought angles or unturned stones. (use openrouter for multiple llm models)
   
 - ### Create an app on spaced-repetition learning technique called [Leitner System](https://en.wikipedia.org/wiki/Leitner_system) inspired by [learning to learn](https://kevin.the.li/posts/learning-to-learn/) and [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) 
+
+- ### A violence detection project which can detect violence from cctv cams and immediateely proceed to perform the chain of tasks to alert nearby police

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Archives/Blogs/gud blogs.md",
+                "file": "Code Dumps/Projects/List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "gud blogs"
+              "title": "List"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "6a9e5ca94aa4c3b4",
+            "id": "03a8e77c37098615",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,8 +261,8 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
-    "Code Dumps/Projects/List.md",
     "PARA/Archives/Blogs/gud blogs.md",
+    "Code Dumps/Projects/List.md",
     "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/GSOC 2026/Decision.md",
