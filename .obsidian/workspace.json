@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/GSOC 2026/Plans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Plans"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "03a8e77c37098615",
+            "id": "f7229fc753579e60",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,11 +261,11 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
-    "PARA/Archives/Blogs/gud blogs.md",
+    "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/Projects/List.md",
+    "PARA/Archives/Blogs/gud blogs.md",
     "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
-    "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026",
     "Code Dumps/AI LAB.md",
