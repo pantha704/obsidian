@@ -11,12 +11,15 @@
             "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/Non fiction/Dale Carnegie/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf"
+                "file": "Code Dumps/Projects/List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "How-to-Stop-Worrying-and-Start-Living-PDFdrive"
+              "icon": "lucide-file",
+              "title": "List"
             }
           }
         ]
@@ -218,7 +221,7 @@
             }
           },
           {
-            "id": "1b3fb18c5efb2b0b",
+            "id": "06afeadcec9ec271",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -258,6 +261,7 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
+    "ebooks/Non fiction/Dale Carnegie/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
     "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026/Decision.md",
     "Code Dumps/Projects/List.md",
@@ -290,7 +294,6 @@
     "PARA/Archives/Resources n Ideas/Project ideas.md",
     "PARA/Archives/Resources n Ideas/Randoms/Triggers/a few lyrics.md",
     "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
-    "Code Dumps/DT pyq.md",
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
     "Syllabus/Sem 5/Current Programming Techniques",
     "Syllabus/Sem 5/NM Elective-I",

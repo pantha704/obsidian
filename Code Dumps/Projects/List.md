@@ -26,3 +26,7 @@
 - ### Create an app on spaced-repetition learning technique called [Leitner System](https://en.wikipedia.org/wiki/Leitner_system) inspired by [learning to learn](https://kevin.the.li/posts/learning-to-learn/) and [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) 
 
 - ### A violence detection project which can detect violence from cctv cams and immediateely proceed to perform the chain of tasks to alert nearby police
+
+- ### Image pookification somewhat like it shows on pinterest
+
+- ### A stimulating Todo App which gives feedback on ticking off the completed tasks, based on [this blog](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)  
