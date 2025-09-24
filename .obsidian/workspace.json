@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/hw/Q1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Q1"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           },
           {
-            "id": "03b211df1593e1b1",
+            "id": "794316751e98761f",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -261,15 +261,18 @@
   },
   "active": "925a545ec6b40e83",
   "lastOpenFiles": [
+    "Code Dumps/hw/Q2.md",
+    "Code Dumps/hw/Q1.md",
+    "Code Dumps/AI LAB.md",
+    "Code Dumps/hw",
+    "Code Dumps/Projects/List.md",
     "ebooks/Non fiction/Dale Carnegie/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
     "Code Dumps/GSOC 2026/Plans.md",
     "Code Dumps/GSOC 2026/Decision.md",
-    "Code Dumps/Projects/List.md",
     "PARA/Archives/Blogs/gud blogs.md",
     "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "PARA/Archives/Resources n Ideas/Resources.md",
     "Code Dumps/GSOC 2026",
-    "Code Dumps/AI LAB.md",
     "Code Dumps/Projects/NFT Marketplace thirdweb.md",
     "Code Dumps/Posts/Solana Roadmap.md",
     "Code Dumps/Posts",
@@ -292,11 +295,8 @@
     "PARA/Archives/Prompts",
     "PARA/Archives/Resources n Ideas/Books sites.md",
     "PARA/Archives/Resources n Ideas/Project ideas.md",
-    "PARA/Archives/Resources n Ideas/Randoms/Triggers/a few lyrics.md",
     "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
     "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
-    "Syllabus/Sem 5/Current Programming Techniques",
-    "Syllabus/Sem 5/NM Elective-I",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Attachments/Pasted image 20241124204859.png",
