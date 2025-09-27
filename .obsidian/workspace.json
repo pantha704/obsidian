@@ -11,15 +11,12 @@
             "id": "925a545ec6b40e83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Code Dumps/hw/Q3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "ebooks/Non fiction/David Deutsch/The-Fabric-of-Reality-by-David-Deutsch.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Q3"
+              "icon": "lucide-file-text",
+              "title": "The-Fabric-of-Reality-by-David-Deutsch"
             }
           }
         ]
@@ -221,7 +218,7 @@
             }
           },
           {
-            "id": "1dcea192e1085036",
+            "id": "8e4c9735ec26c54e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -259,10 +256,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "925a545ec6b40e83",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
-    "Code Dumps/hw/Q2.md",
+    "ebooks/Non fiction/shape-up.pdf",
     "Code Dumps/hw/Q3.md",
+    "Code Dumps/hw/Q2.md",
     "Code Dumps/hw/Q1.md",
     "2024/April 2024.md",
     "2024/February 2024.md",
@@ -292,7 +290,6 @@
     "Code Dumps/Win Recovery.md",
     "PARA/Research ( Exploration )/Disk Recovery/Tools.md",
     "PARA/Research ( Exploration )/Disk Recovery",
-    "ebooks/Lists/Grow.md",
     "Syllabus/20230811_142039.pdf",
     "PARA/Archives/Prompts",
     "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
