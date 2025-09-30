@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2b49d36553e878",
+        "id": "9214651603a31ad1",
         "type": "tabs",
         "children": [
           {
-            "id": "925a545ec6b40e83",
+            "id": "fee49cfa440e5511",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ebooks/Non fiction/David Deutsch/The-Fabric-of-Reality-by-David-Deutsch.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The-Fabric-of-Reality-by-David-Deutsch"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -134,8 +132,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -144,8 +142,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
@@ -173,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -183,8 +181,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
@@ -193,8 +191,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
@@ -203,12 +201,32 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
             "id": "0c6c36bc7c2a0ac1",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
+            }
+          },
+          {
+            "id": "d273e85215c8dc8a",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
+            }
+          },
+          {
+            "id": "e17416117a05d031",
             "type": "leaf",
             "state": {
               "type": "inline-scripts-button-view",
@@ -218,7 +236,7 @@
             }
           },
           {
-            "id": "8e4c9735ec26c54e",
+            "id": "10a549b003fbe2c8",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -237,6 +255,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -252,52 +271,51 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "ebooks/Research n learn/coding/Decentralized Exchanges.pdf",
+    "ebooks/Non fiction/David Deutsch/The-Fabric-of-Reality-by-David-Deutsch.pdf",
+    "gitignore.md",
+    "PARA/Projects/Random.md",
+    "PARA/Archives/Prompts.md",
+    "PARA/Archives/Web3/Etc.md",
+    "PARA/Projects/Web2/Nextjs.md",
+    "ebooks/Non fiction/Ikigai.pdf",
+    "PARA/Archives/hecking/OSINT.md",
+    "PARA/Archives/VE/After Effects.md",
+    "Code Dumps/Parallax framer 3js.md",
+    "PARA/Archives/Web dev/Open source.md",
+    "PARA/Archives/Languages/Rusting up.md",
+    "PARA/Research ( Exploration )/Random.md",
+    "PARA/Archives/Web dev/Animations/GSAP.md",
+    "ebooks/Non fiction/12-Rules-for-Life.pdf",
+    "Attachments/Pasted image 20241204134245.png",
+    "Attachments/Pasted image 20241124204859.png",
+    "PARA/Archives/Web dev/Framer (by o1-mini).md",
+    "PARA/Archives/Web dev/Animations/Three js.md",
+    "PARA/Archives/Web dev/Animations/Resources.md",
+    "PARA/Archives/Web dev/Framer motion roadmap.md",
+    "PARA/Archives/Web dev/Animations/React spring.md",
+    "PARA/Archives/Web dev/Animations/Framer Motion.md",
+    "ebooks/Non fiction/The_Book_Of_Secrets_-_Osho.pdf",
+    "PARA/Archives/Web dev/Nextjs/Framer (by o1-mini).md",
+    "PARA/Archives/Web dev/Animations/Parallax Scroll.md",
+    "PARA/Archives/Web dev/Animations/Lottie Animation.md",
+    "PARA/Archives/AI ML/Machine learning (by o1-mini).md",
+    "PARA/Archives/Web dev/Nextjs/Framer motion roadmap.md",
+    "PARA/Archives/Web dev/Animations/React three fibre.md",
+    "PARA/Archives/Web dev/Animations/Framer/Framer Motion.md",
+    "PARA/Archives/Web dev/Animations/Framer",
+    "PARA/Archives/Web dev/Animations",
+    "PARA/Archives/VE",
     "ebooks/Non fiction/shape-up.pdf",
-    "Code Dumps/hw/Q3.md",
-    "Code Dumps/hw/Q2.md",
-    "Code Dumps/hw/Q1.md",
-    "2024/April 2024.md",
-    "2024/February 2024.md",
-    "Code Dumps/hw/Q2 done.md",
-    "Code Dumps/hw/Q1 done.md",
-    "Code Dumps/AI LAB.md",
     "Code Dumps/hw",
-    "Code Dumps/Projects/List.md",
     "ebooks/Non fiction/Dale Carnegie/How-to-Stop-Worrying-and-Start-Living-PDFdrive.pdf",
-    "Code Dumps/GSOC 2026/Plans.md",
-    "Code Dumps/GSOC 2026/Decision.md",
-    "PARA/Archives/Blogs/gud blogs.md",
-    "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
-    "PARA/Archives/Resources n Ideas/Resources.md",
-    "Code Dumps/GSOC 2026",
-    "Code Dumps/Projects/NFT Marketplace thirdweb.md",
-    "Code Dumps/Posts/Solana Roadmap.md",
-    "Code Dumps/Posts",
-    "PARA/Archives/Jailbreak/Prompt.md",
-    "PARA/Archives/GSOC 2025/common less comp.md",
-    "PARA/Archives/GSOC 2025/Get Started.md",
-    "PARA/Archives/GSOC 2025/etc.md",
-    "PARA/Archives/GSOC 2025/less comp.md",
-    "PARA/Archives/GSOC 2025/less comp 2.md",
-    "PARA/Archives/GSOC 2025/Prompts.md",
-    "ebooks/Lists/Me/Randoms/suggestions/claude.md",
-    "Code Dumps/Win Recovery.md",
-    "PARA/Research ( Exploration )/Disk Recovery/Tools.md",
-    "PARA/Research ( Exploration )/Disk Recovery",
-    "Syllabus/20230811_142039.pdf",
-    "PARA/Archives/Prompts",
-    "ebooks/Non fiction/How-to-Not-Die-Alone.pdf",
-    "ebooks/Non fiction/Kapil Gupta/Overcoming the World - Kapil Gupta.pdf",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
-    "Attachments/Pasted image 20241124204859.png",
-    "Attachments/Pasted image 20241204134245.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
   ]
 }
