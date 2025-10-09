@@ -236,18 +236,38 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "inline-scripts-button-view",
-              "title": "Inline Scripts - Buttons"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
-            "id": "6a9f297f3ef07517",
+            "id": "ed3af8300c228dd1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "e12ab1d085090a67",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
+            }
+          },
+          {
+            "id": "fc90deae8339ae88",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           }
         ],
@@ -260,7 +280,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -270,16 +289,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
       "obsidian-day-planner:Timeline": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "periodic-notes:Open today": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fee49cfa440e5511",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "Attachments/Pasted image 20251003185546.png",
     "Code Dumps/DGP 2025.md",
