@@ -41,7 +41,7 @@ None of these combine a **general web scraping network** with Solana’s **speed
 
 ### Founder-Market Fit
 
-I have working knowledge of **Rust** and **Solana’s Anchor framework**, with **fullstack development experience** using React and Node.js. I’ve built small **Node.js scraping tools** and experimented with **Solana dApps**, giving me hands-on understanding of the underlying tech.  
+I have working knowledge of **Rust** and **Solana’s Anchor framework**, with **fullstack development experience** using React, Next, Typescript and Node.js. I’ve built small **Python scraping tools** and experimented with **Solana dApps**, giving me hands-on understanding of the underlying tech.  
 My passion for **open and permissionless data access** comes from frustrations with centralized APIs and paywalled data. Being active in Solana communities on Discord keeps me close to developer feedback and potential collaborators—making this project both a technical and personal fit.
 
 ---

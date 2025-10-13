@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Turbin3/Capstone.md",
+                "file": "Code Dumps/Projects/List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Capstone"
+              "title": "List"
             }
           }
         ]
@@ -251,7 +251,7 @@
             }
           },
           {
-            "id": "37b85a4ba1a92801",
+            "id": "3702fc3ab5d501cc",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -291,9 +291,9 @@
   },
   "active": "fee49cfa440e5511",
   "lastOpenFiles": [
+    "PARA/Projects/Turbin3/Capstone.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Projects/Rust/solana.md",
-    "PARA/Projects/Turbin3/Capstone.md",
     "PARA/Projects/Turbin3/Independent Product Market Analysis.md",
     "Code Dumps/DGP 2025.md",
     "PARA/Projects/Turbin3",

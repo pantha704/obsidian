@@ -30,3 +30,5 @@
 - ### Image pookification somewhat like it shows on pinterest
 
 - ### A stimulating Todo App which gives feedback on ticking off the completed tasks, based on [this blog](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)  
+
+- ### A python program that creates temp mails and users can do anything with that it also shows their otp
