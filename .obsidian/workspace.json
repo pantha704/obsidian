@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/Ecosys/U3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "U3"
             }
           }
         ]
@@ -251,7 +251,7 @@
             }
           },
           {
-            "id": "3702fc3ab5d501cc",
+            "id": "da3cefa574b6c626",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -291,6 +291,9 @@
   },
   "active": "fee49cfa440e5511",
   "lastOpenFiles": [
+    "Code Dumps/Projects/List.md",
+    "Code Dumps/Ecosys/U3.md",
+    "Code Dumps/Ecosys",
     "PARA/Projects/Turbin3/Capstone.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Projects/Rust/solana.md",
@@ -326,12 +329,9 @@
     "PARA/Archives/Web dev/Animations/Framer Motion.md",
     "ebooks/Non fiction/The_Book_Of_Secrets_-_Osho.pdf",
     "PARA/Archives/Web dev/Nextjs/Framer (by o1-mini).md",
-    "PARA/Archives/Web dev/Animations/Parallax Scroll.md",
-    "PARA/Archives/Web dev/Animations/Lottie Animation.md",
     "PARA/Archives/Web dev/Animations/Framer",
     "PARA/Archives/Web dev/Animations",
     "PARA/Archives/VE",
-    "ebooks/Non fiction/shape-up.pdf",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
