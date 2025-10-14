@@ -35,4 +35,6 @@
 
 - ### An extension that can interact with browser elements and do anything on the browser live for the user, like filling forms 
 
-- ### A Dapp that keeps track of 
+- ### A DePin app that keeps track of your location, time spent on that location, your physical activities through a camera and it would be secure and allowed to be accessed only by a specific or group of accounts
+
+- ### 
