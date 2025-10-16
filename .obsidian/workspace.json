@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9214651603a31ad1",
+        "id": "e2fe26d5b3bb35b2",
         "type": "tabs",
         "children": [
           {
-            "id": "fee49cfa440e5511",
+            "id": "ff666d6cc1f3d6a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Dumps/Hackathons/Present a project.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Present a project"
+              "title": "New tab"
             }
           }
         ]
@@ -251,7 +246,7 @@
             }
           },
           {
-            "id": "61caea0c023c98c8",
+            "id": "cd00f4db580cb61f",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -289,8 +284,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fee49cfa440e5511",
+  "active": "ff666d6cc1f3d6a0",
   "lastOpenFiles": [
+    "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
+    "Code Dumps/Hackathons/Present a project.md",
     "ebooks/Fiction/George Orwell/orwell1984.pdf",
     "ebooks/Fiction/George Orwell/Animal Farm by George Orwell.pdf",
     "ebooks/Fiction/George Orwell",
@@ -301,11 +298,9 @@
     "ebooks/Fiction/The Plague - Albert Camus.pdf",
     "ebooks/Fiction/Brave-New-World_-_Aldous-Huxley.pdf",
     "Code Dumps/Clips/Just do it.md",
-    "Code Dumps/Hackathons/Present a project.md",
     "Code Dumps/Hackathons/Untitled.md",
     "Code Dumps/Hackathons",
     "Code Dumps/Projects/List.md",
-    "Code Dumps/Clips",
     "Code Dumps/Ecosys/U3 detailed.md",
     "Code Dumps/Ecosys/U3.md",
     "PARA/Projects/Turbin3/Capstone.md",
