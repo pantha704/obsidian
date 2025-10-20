@@ -11,10 +11,15 @@
             "id": "3fc66b16710a8732",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Projects/Turbin3/Capstone A2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Capstone A2"
             }
           }
         ]
@@ -286,6 +291,7 @@
   },
   "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "PARA/Projects/Turbin3/Unconfirmed 345989.crdownload",
     "PARA/Projects/Turbin3/Capstone A2.pdf",
     "PARA/Projects/Turbin3/Capstone A2 (2).pdf",
     "PARA/Projects/Capstone A2 (2).pdf",
@@ -299,7 +305,6 @@
     "ebooks/Fiction/Franz Kafka/the-metamorphosis.pdf",
     "ebooks/Fiction/Franz Kafka/The Trial - Franz Kafka - PDF.pdf",
     "ebooks/Fiction/Franz Kafka/The Castle frans_kafka_qesr-eng.pdf",
-    "ebooks/Fiction/Franz Kafka",
     "Code Dumps/Clips/Just do it.md",
     "Code Dumps/Hackathons/Untitled.md",
     "Code Dumps/Projects/List.md",

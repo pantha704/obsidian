@@ -358,21 +358,6 @@
 
 ---
 
-## Final Deliverable Checklist (for PDF)
-
-- Part A: User personas, prioritized list, function map.
-    
-- Part B: Adversarial critique and adjustments.
-    
-- Part C: Atomic user stories + refinement log.
-    
-- Part D: On-chain requirements for each story.
-    
-- Process Appendix (below): prompts used and AI outputs captured during the process (as required).
-    
-
----
-
 ## Process Appendix — Prompts & AI Outputs
 
 > _Required by the assignment: retain a record of prompts, AI outputs, and notes on how you used them._
