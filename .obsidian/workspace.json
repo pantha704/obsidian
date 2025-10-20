@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fe26d5b3bb35b2",
+        "id": "6df122a30af6cba8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff666d6cc1f3d6a0",
+            "id": "3fc66b16710a8732",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -246,7 +246,7 @@
             }
           },
           {
-            "id": "6efe8785110edd7f",
+            "id": "2c10b2d83f344ef4",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -284,8 +284,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ff666d6cc1f3d6a0",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
+    "PARA/Projects/Turbin3/Capstone A2.pdf",
+    "PARA/Projects/Turbin3/Capstone A2 (2).pdf",
+    "PARA/Projects/Capstone A2 (2).pdf",
+    "PARA/Projects/Turbin3/User Stories & On-Chain Requirements.md",
+    "PARA/Projects/Turbin3/Capstone A2.md",
     "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "Code Dumps/Hackathons/Present a project.md",
     "ebooks/Fiction/George Orwell/orwell1984.pdf",
@@ -295,11 +300,8 @@
     "ebooks/Fiction/Franz Kafka/The Trial - Franz Kafka - PDF.pdf",
     "ebooks/Fiction/Franz Kafka/The Castle frans_kafka_qesr-eng.pdf",
     "ebooks/Fiction/Franz Kafka",
-    "ebooks/Fiction/The Plague - Albert Camus.pdf",
-    "ebooks/Fiction/Brave-New-World_-_Aldous-Huxley.pdf",
     "Code Dumps/Clips/Just do it.md",
     "Code Dumps/Hackathons/Untitled.md",
-    "Code Dumps/Hackathons",
     "Code Dumps/Projects/List.md",
     "Code Dumps/Ecosys/U3 detailed.md",
     "Code Dumps/Ecosys/U3.md",
@@ -325,8 +327,6 @@
     "PARA/Archives/Web dev/Animations/GSAP.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
-    "PARA/Archives/Web dev/Framer (by o1-mini).md",
-    "PARA/Archives/Web dev/Animations/Three js.md",
     "Attachments/Pasted image 20250415121830.png",
     "Attachments/Pasted image 20250219223447.png",
     "Excalidraw/Drawing 2024-01-18 11.20.44.excalidraw.png"
