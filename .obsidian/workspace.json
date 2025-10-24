@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/Projects/Turbin3/Capstone A2.md",
+                "file": "PARA/Projects/Turbin3/Capstone.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Capstone A2"
+              "title": "Capstone"
+            }
+          },
+          {
+            "id": "15435b0f3cb62bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/Projects/Turbin3/Presenting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Presenting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,8 +262,8 @@
             "state": {
               "type": "inline-scripts-button-view",
               "state": {},
-              "icon": "inline-scripts-button-view",
-              "title": "Inline Scripts - Buttons"
+              "icon": "lucide-ghost",
+              "title": "inline-scripts-button-view"
             }
           },
           {
@@ -256,8 +272,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "timeline"
             }
           }
         ],
@@ -270,7 +286,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -279,24 +294,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Timeline": false,
-      "janitor:Janitor: scan vault": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "15435b0f3cb62bfa",
   "lastOpenFiles": [
+    "PARA/Projects/Turbin3/Capstone.md",
+    "PARA/Projects/Turbin3/Independent Product Market Analysis.md",
+    "PARA/Projects/Turbin3/Presenting.md",
+    "PARA/Projects/Turbin3/Capstone A2.md",
     "PARA/Projects/Turbin3/Unconfirmed 345989.crdownload",
     "PARA/Projects/Turbin3/Capstone A2.pdf",
     "PARA/Projects/Turbin3/Capstone A2 (2).pdf",
     "PARA/Projects/Capstone A2 (2).pdf",
     "PARA/Projects/Turbin3/User Stories & On-Chain Requirements.md",
-    "PARA/Projects/Turbin3/Capstone A2.md",
     "ebooks/Fiction/little, big: or the fairies parliament - john crowley.pdf",
     "Code Dumps/Hackathons/Present a project.md",
     "ebooks/Fiction/George Orwell/orwell1984.pdf",
@@ -304,16 +315,13 @@
     "ebooks/Fiction/George Orwell",
     "ebooks/Fiction/Franz Kafka/the-metamorphosis.pdf",
     "ebooks/Fiction/Franz Kafka/The Trial - Franz Kafka - PDF.pdf",
-    "ebooks/Fiction/Franz Kafka/The Castle frans_kafka_qesr-eng.pdf",
     "Code Dumps/Clips/Just do it.md",
     "Code Dumps/Hackathons/Untitled.md",
     "Code Dumps/Projects/List.md",
     "Code Dumps/Ecosys/U3 detailed.md",
     "Code Dumps/Ecosys/U3.md",
-    "PARA/Projects/Turbin3/Capstone.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Projects/Rust/solana.md",
-    "PARA/Projects/Turbin3/Independent Product Market Analysis.md",
     "Code Dumps/DGP 2025.md",
     "Attachments/Pasted image 20251003185546.png",
     "Attachments/Pasted image 20251003185543.png",
