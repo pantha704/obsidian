@@ -1,0 +1,218 @@
+/* Omarchy Theme for Obsidian */
+/* Generated on Sun Oct 26 01:02:31 PM IST 2025 from theme: blackturq */
+/* Colors sorted by frequency, backgrounds by distance */
+
+.theme-dark, .theme-light {
+  /* Core colors */
+  --background-primary: #0a0a0a;
+  --text-normal: #fff5ee;
+
+  /* Background variations (always distance-based) */
+  --background-primary-alt: #0a0a0a;
+  --background-secondary: #0a0a0a;
+  --background-secondary-alt: #0a0a0a;
+
+  /* Code block colors (always distance-based) */
+  --code-background: #121212;
+  --code-foreground: #adf0e9;
+
+  /* Border color from btop theme */
+  --border-color: #322f3b;
+
+  /* Selection colors from Alacritty */
+  --text-selection: #131314;
+  --text-selection-fg: #fff5ee;
+
+  /* 13-slot color system for remaining elements */
+  --text-title-h1: #8fecd5;
+  --text-title-h2: #131314;
+  --text-title-h3: #d35f5f;
+  --text-title-h4: #adf0e9;
+  --text-title-h5: #a9d1d7;
+  --text-title-h6: #a9d1d7;  /* Same as h5 */
+  --text-link: #a0d6b4;
+  --markup-code: #485362;
+  --text-mark: #9a9599;
+  --interactive-accent: #75dddd;
+  --blockquote-border: #322f3b;
+  --text-muted: #322f3b;  /* Use border color for muted text */
+  --text-faint: #322f3b;  /* Use border color for faint text */
+
+  /* Additional mappings */
+  --text-accent: var(--interactive-accent);
+  --text-accent-hover: var(--interactive-accent);
+  --text-error: var(--text-title-h1);
+  --text-error-hover: var(--text-title-h1);
+  --text-highlight-bg: #fff5ee;  /* Use text color as highlight background */
+  --text-on-accent: #0a0a0a;
+
+  --interactive-normal: var(--code-background);
+  --interactive-hover: var(--interactive-accent);
+  --interactive-accent-hover: var(--interactive-accent);
+  --interactive-success: var(--text-title-h2);
+
+  --scrollbar-bg: var(--background-primary);
+  --scrollbar-thumb-bg: var(--code-background);
+  --scrollbar-active-thumb-bg: var(--interactive-accent);
+
+  --background-modifier-border: var(--border-color);
+  --background-modifier-form-field: var(--code-background);
+  --background-modifier-form-field-highlighted: var(--code-background);
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+  --background-modifier-success: var(--interactive-success);
+  --background-modifier-error: var(--text-error);
+  --background-modifier-error-hover: var(--text-error);
+  --background-modifier-cover: rgba(0, 0, 0, 0.8);
+
+  --link-color: var(--text-link);
+  --link-color-hover: var(--text-link);
+  --link-unresolved-color: var(--text-muted);
+  --link-unresolved-opacity: 0.7;
+
+  --tag-color: var(--text-title-h3);
+  --tag-background: var(--code-background);
+
+  --graph-line: var(--text-muted);
+  --graph-node: var(--interactive-accent);
+  --graph-node-unresolved: var(--text-muted);
+  --graph-node-focused: var(--text-link);
+  --graph-node-tag: var(--text-title-h3);
+  --graph-node-attachment: var(--text-title-h2);
+
+  /* Fonts */
+  --font-interface-theme: "Liberation Sans";
+  --font-text-theme: "Liberation Sans";
+  --font-monospace-theme: "iA Writer Mono S";
+}
+
+/* Headers */
+.cm-header-1, .markdown-rendered h1 { color: var(--text-title-h1); }
+.cm-header-2, .markdown-rendered h2 { color: var(--text-title-h2); }
+.cm-header-3, .markdown-rendered h3 { color: var(--text-title-h3); }
+.cm-header-4, .markdown-rendered h4 { color: var(--text-title-h4); }
+.cm-header-5, .markdown-rendered h5 { color: var(--text-title-h5); }
+.cm-header-6, .markdown-rendered h6 { color: var(--text-title-h6); }
+
+/* Code blocks */
+.markdown-rendered code {
+  font-family: var(--font-monospace-theme);
+  background-color: var(--code-background);
+  color: var(--markup-code);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.markdown-rendered pre {
+  background-color: var(--code-background);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+}
+
+.markdown-rendered pre code {
+  background-color: transparent;
+  color: var(--code-foreground);
+}
+
+/* Syntax highlighting */
+.cm-s-obsidian span.cm-keyword { color: var(--text-title-h1); }
+.cm-s-obsidian span.cm-string { color: var(--text-title-h2); }
+.cm-s-obsidian span.cm-number { color: var(--text-title-h3); }
+.cm-s-obsidian span.cm-comment { color: var(--text-muted); }
+.cm-s-obsidian span.cm-operator { color: var(--text-link); }
+.cm-s-obsidian span.cm-variable { color: var(--text-normal); }
+.cm-s-obsidian span.cm-def { color: var(--text-link); }
+
+/* Highlighted text */
+.markdown-rendered mark,
+.cm-s-obsidian span.cm-highlight,
+mark {
+  background-color: var(--text-highlight-bg) !important;
+  color: var(--code-background) !important;
+}
+
+/* Links */
+.markdown-rendered a {
+  color: var(--text-link);
+}
+
+/* Blockquotes */
+.markdown-rendered blockquote {
+  border-left: 4px solid var(--blockquote-border);
+  padding-left: 1em;
+}
+
+/* Status bar */
+.status-bar {
+  background-color: var(--code-background);
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+/* Active file */
+.workspace-leaf.mod-active .workspace-leaf-header-title {
+  color: var(--interactive-accent);
+}
+
+.nav-file-title.is-active {
+  background-color: var(--code-background);
+  color: var(--interactive-accent);
+}
+
+/* Text selection */
+::selection {
+  background-color: var(--text-selection);
+  color: var(--text-selection-fg);
+}
+
+/* Search results */
+.search-result-file-title {
+  color: var(--interactive-accent);
+}
+
+.search-result-file-match {
+  background-color: var(--code-background);
+  color: var(--text-normal);
+  border-left: 3px solid var(--interactive-accent);
+}
+
+.search-result-file-matched-text {
+  color: var(--code-background);
+}
+
+/* Tables */
+.markdown-rendered table {
+  border: 1px solid var(--background-modifier-border);
+}
+
+.markdown-rendered th {
+  background-color: var(--code-background);
+  color: var(--text-accent);
+}
+
+.markdown-rendered td {
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* Callouts */
+.callout {
+  border-left: 4px solid var(--interactive-accent);
+  background-color: var(--code-background);
+}
+.callout * {
+  color: var(--text-normal);
+}
+
+/* Modal dialogs */
+.modal {
+  background-color: var(--background-primary);
+  border: 2px solid var(--background-modifier-border);
+}
+
+/* Settings */
+.vertical-tab-header-group-title {
+  color: var(--interactive-accent);
+}
+
+.vertical-tab-nav-item.is-active {
+  background-color: var(--code-background);
+  color: var(--interactive-accent);
+}
