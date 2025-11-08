@@ -37,4 +37,6 @@
 
 - ### A DePin app that keeps track of your location, time spent on that location, your physical activities through a camera and it would be secure and allowed to be accessed only by a specific or group of accounts
 
-- ### 
+- ### A public api formatter which converts unstructured data like "/bounty 100 ; /name K" to { bounty : 100, name: K }, might use LLM to not stay limited to "/key value;" format and users could convert any kind of understandable format they wish(or have just created themselves) into a json, yaml, etc.
+
+- ### Twitter thread writer (idea from superteam earn thread bounties), create an app which is connected with twitter through mcp or api and writes thread on a given topic, it may also refine the topic and may take some additional info from user about how the thread should be.
