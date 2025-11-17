@@ -1,0 +1,41 @@
+LAB 7
+
+Problem 7.  Using Decision Tree algorithm, predict which drug among drug X, drug Y and drug C should be given to a patient. Find the accuracy of the decision tree in predicting the correct drug for the patient.
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier, plot_tree
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import accuracy_score
+import matplotlib.pyplot as plt
+
+
+df = pd.read_csv("drug.csv")
+df.head()
+
+
+le = LabelEncoder()
+for col in ['Sex', 'BP', 'Cholesterol', 'Drug']:
+    df[col] = le.fit_transform(df[col])
+X = df[['Age', 'Sex', 'BP', 'Cholesterol', 'Na_to_K']]
+y = df['Drug']
+print(X)
+
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+model = DecisionTreeClassifier()
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+print("Accuracy:", accuracy_score(y_test, y_pred))
+
+
+plt.figure(figsize=(15,8))
+plot_tree(model,
+          feature_names=X.columns,
+          class_names=['drugA', 'drugB', 'drugC', 'drugX', 'drugY'],
+          filled=True,
+          rounded=True,
+          fontsize=10)
+plt.show()
+
+

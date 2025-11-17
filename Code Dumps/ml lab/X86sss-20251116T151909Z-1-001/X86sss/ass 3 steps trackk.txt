@@ -1,0 +1,86 @@
+ass 3
+
+
+1. Write a Python program and implement the following: Download the dataset from:
+https://www.kaggle.com/datasets/monicahjones/steps-tracker-dataset
+(a) Read the dataset and print 1st 20 rows of the dataset
+(b) Calculate the mean, median, or mode of a particular feature or column or row
+that contains a missing value and replace the result for the missing value
+(c) Check the correlation between attributes. [Hint: using a heatmap or normal
+mathematical approach.]
+(d) Display the results.
+
+
+
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# -------------------------
+# (a) Read dataset
+# -------------------------
+df = pd.read_csv(r"E:\X86sss\only data set\steps_tracker_dataset.csv")
+
+print("---- FIRST 20 ROWS ----")
+print(df.head(20))
+
+# Show columns to avoid KeyError
+print("\n---- COLUMN NAMES ----")
+print(df.columns)
+
+# -------------------------
+# (b) Fill missing values 
+# (automatic for all numeric columns)
+# -------------------------
+print("\n---- MISSING VALUES BEFORE ----")
+print(df.isnull().sum())
+
+numeric_cols = df.select_dtypes(include=['int64', 'float64']).columns
+
+# Fill numeric missing values with MEAN
+df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].mean())
+
+# For categorical columns — fill with MODE
+categorical_cols = df.select_dtypes(include=['object']).columns
+for col in categorical_cols:
+    df[col].fillna(df[col].mode()[0], inplace=True)
+
+print("\n---- MISSING VALUES AFTER ----")
+print(df.isnull().sum())
+
+# -------------------------
+# (c) Correlation Heatmap
+# -------------------------
+corr = df.corr(numeric_only=True)
+print("\n---- CORRELATION MATRIX ----")
+print(corr)
+
+plt.figure(figsize=(10, 6))
+sns.heatmap(corr, annot=True, cmap="coolwarm", linewidths=0.5)
+plt.title("Correlation Heatmap of Features")
+plt.show()
+
+# -------------------------
+# (d) Display cleaned dataset
+# -------------------------
+print("\n---- CLEANED DATASET ----")
+print(df.head())
+
+
+
+
+/////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+

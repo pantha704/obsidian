@@ -1,0 +1,131 @@
+asss 7
+
+1. Design and train a network of perceptrons that computes the functionality of XOR.
+
+
+
+import numpy as np
+
+# XOR Input and Output
+X = np.array([[0,0],[0,1],[1,0],[1,1]])
+y = np.array([[0],[1],[1],[0]])
+
+# Activation function (Sigmoid)
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+def sigmoid_derivative(x):
+    return x * (1 - x)
+
+# Initialize weights randomly
+np.random.seed(42)
+w0 = np.random.uniform(size=(2, 2))   # input -> hidden
+w1 = np.random.uniform(size=(2, 1))   # hidden -> output
+b0 = np.random.uniform(size=(1, 2))
+b1 = np.random.uniform(size=(1, 1))
+
+# Training parameters
+lr = 0.1
+epochs = 10000
+
+# Training loop
+for epoch in range(epochs):
+    # Forward pass
+    hidden_input = np.dot(X, w0) + b0
+    hidden_output = sigmoid(hidden_input)
+    final_input = np.dot(hidden_output, w1) + b1
+    final_output = sigmoid(final_input)
+
+    # Backpropagation
+    error = y - final_output
+    d_output = error * sigmoid_derivative(final_output)
+    d_hidden = d_output.dot(w1.T) * sigmoid_derivative(hidden_output)
+
+    # Weight updates
+    w1 += hidden_output.T.dot(d_output) * lr
+    w0 += X.T.dot(d_hidden) * lr
+    b1 += np.sum(d_output, axis=0, keepdims=True) * lr
+    b0 += np.sum(d_hidden, axis=0, keepdims=True) * lr
+
+# Test
+print("Predicted Output:")
+print(np.round(final_output))
+
+
+///////////////////////////////////////////////////////////////////////
+
+
+
+2. Perform a Multilayer perceptron neural network to classify flower type. Utilize num-
+ber of hidden layers, 5 and 200 to 400 iterations with a learning rate. Try with
+
+different loss functions/ activation functions such as MSE, Cross entropy, sigmoid,
+
+tanh, ReLU along with different optimizers GD, SGD, Adam. Illustrate the re-
+sult with performance metrics and observe Weight, Loss curve and accuracy curve.
+
+Dataset: Iris dataset
+
+
+
+
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv("iris.csv.csv")
+
+# Encode target
+le = LabelEncoder()
+df['species'] = le.fit_transform(df['species'])
+
+X = df.drop('species', axis=1)
+y = df['species']
+
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Scale features
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+# Define models to test
+models = [
+    ("Sigmoid + Adam", "logistic", "adam"),
+    ("Tanh + SGD", "tanh", "sgd"),
+    ("ReLU + Adam", "relu", "adam"),
+]
+
+for name, activation, optimizer in models:
+    mlp = MLPClassifier(hidden_layer_sizes=(10, 10, 10, 10, 10),
+                        activation=activation,
+                        solver=optimizer,
+                        max_iter=400,
+                        learning_rate_init=0.01,
+                        random_state=42)
+
+    mlp.fit(X_train, y_train)
+    y_pred = mlp.predict(X_test)
+
+    acc = accuracy_score(y_test, y_pred)
+    print(f"\n=== {name} ===")
+    print("Accuracy:", acc)
+    print(classification_report(y_test, y_pred))
+
+    # Plot learning curve
+    plt.plot(mlp.loss_curve_, label=f"{name}")
+
+plt.title("Loss Curves for Different Activations/Optimizers")
+plt.xlabel("Iterations")
+plt.ylabel("Loss")
+plt.legend()
+plt.show()
+
+
+

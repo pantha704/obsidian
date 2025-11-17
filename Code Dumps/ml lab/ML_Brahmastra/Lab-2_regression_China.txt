@@ -1,0 +1,101 @@
+Lab-2
+China_gdp
+Lab Problem 2.  (Part A) Split the data into Train and Test as per your preference. Write a Python Program for Linear Regression (Least Squares) using the Train and Test data.
+Please compute (i) MSE train error and (ii) MSE test error. Plot the Linear Regression (Least Squares line) on (iii) the training data and (iv) the test data. 
+(Part B) Finally, perform (Stochastic) Gradient Descent and plot the transition of the parameters: coef_ (coefficient) and intercept_(intercept) across the iteration numbers and for multiple batch sizes like, 10, 20.
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression , SGDRegressor
+from sklearn.metrics import mean_squared_error as mse
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+
+
+df = pd.read_csv('china_gdp (1).csv')
+df.head()
+
+
+
+X = df[['Year']]
+Y = df[['Value']]
+scaler = StandardScaler()
+Y_scaled = scaler.fit_transform(Y)
+X_scaled = scaler.fit_transform(X)
+X_train , X_test , Y_train , Y_test = train_test_split(X_scaled , Y_scaled , test_size=0.2 , random_state=42)
+model = LinearRegression()
+model.fit(X_train , Y_train)
+y_train_pred = model.predict(X_train)
+y_test_pred = model.predict(X_test)
+mse_train = mse(Y_train , y_train_pred)
+mse_test = mse(Y_test , y_test_pred)
+print("\n=== Linear Regression (Least Squares) ===")
+print("MSE (Train):", mse_train)
+print("MSE (Test):", mse_test)
+print("Coefficient (slope):", model.coef_)
+print("Intercept:", model.intercept_)
+
+
+
+plt.figure(figsize=(10,5))
+plt.subplot(1,2,1)
+plt.scatter(X_train , Y_train , color='blue' , label="Training Data")
+plt.plot(X_train , y_train_pred , color='red' , label='Regression Line')
+plt.xlabel("Year")
+plt.ylabel("Scaled GDP")
+plt.title("Training Data (Least Squares)")
+plt.legend()
+
+plt.subplot(1,2,2)
+plt.scatter(X_test , Y_test , color="blue",label="Test Data")
+plt.plot(X_test , y_test_pred , color="red" , label="Regression Line")
+plt.xlabel("Year")
+plt.ylabel("Scaled GDP")
+plt.title("Training Data (Least Squares)")
+plt.legend()
+
+plt.show()
+
+
+
+
+batch_sizes = [10 , 20]
+
+for batch in batch_sizes:
+  sgd = SGDRegressor(max_iter = 1 , tol=None , learning_rate="constant" , eta0 = 0.01 , random_state=42)
+
+  coef_history = []
+  intercept_history = []
+
+  for epochs in range(50):
+    index = np.random.permutation(len(X_train))
+    X_shuffled = X_train[index]
+    Y_shuffled = Y_train[index]
+
+    for i in range(0 , len(X_train) , batch):
+      X_batch = X_shuffled[i:i+batch]
+      Y_batch = Y_shuffled[i:i+batch]
+      sgd.partial_fit(X_batch, Y_batch.ravel())
+
+
+    coef_history.append(sgd.coef_[0])
+    intercept_history.append(sgd.intercept_[0])
+
+
+  plt.figure(figsize=(10,6))
+
+  plt.subplot(1,2,1)
+  plt.plot(coef_history , marker='o')
+  plt.title(f'Coefficient over Epochs (Batch={batch})')
+  plt.xlabel('Epoch')
+  plt.ylabel('Coefficient (slope)')
+
+  plt.subplot(1,2,2)
+  plt.plot(intercept_history , marker='o')
+  plt.title(f"Intercept over Epochs (Batch={batch})")
+  plt.xlabel('Epoch')
+  plt.ylabel('Coefficient (slope)')
+
+  plt.show()

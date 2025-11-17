@@ -1,0 +1,328 @@
+ass1
+
+1>>>> Take a list of 10 numbers of your choice. Write a python program to print the
+following:
+1. Print all the elements after 5th index
+2. Print all the elements before 6th index
+3. Print all the elements between 2nd and 8th indices
+---->
+
+
+
+
+# List of 10 numbers
+nums = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+# 1. Print all the elements after 5th index
+print("Elements after 5th index:", nums[6:])
+
+# 2. Print all the elements before 6th index
+print("Elements before 6th index:", nums[:6])
+
+# 3. Print all the elements between 2nd and 8th indices
+print("Elements between 2nd and 8th index:", nums[2:9])
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+2>>>> Write a python program to create a list with n number of items (where n should
+be atleast 6) with different types (integer, float, string) and perform the following
+functions:
+1. Count the length of the list
+2. Access the last element in the list using negative indexing.
+3. Add one item to a list using the append()method.
+4. Add several items using the extend()method.
+5. Add a list as an item to the existing list (nested list).
+6. Use the index operator to access the items at various location within the list.
+
+[Access 3 different index from the list] [provide comments to mention the loca-
+tion]
+
+7. Add an element to the list at the specified index using insert() method. [provide
+comments to specify the index]
+
+8. Replace an existing element from the list at a specified location. [provide com-
+ments to specify the index]
+
+9. Add duplicate elements to the list.
+10. Remove the item at the given index from the list using pop() method.
+11. Sort the elements of the given list in a specific ascending or descending order.
+12. Reverse the elements of the list using reverse() method.
+
+------>
+
+
+
+
+# Create a list with at least 6 items of different types
+my_list = [10, 3.14, "apple", 25, "banana", 7.5]
+
+# 1. Count the length of the list
+print("Length of the list:", len(my_list))
+
+# 2. Access the last element in the list using negative indexing
+print("Last element:", my_list[-1])
+
+# 3. Add one item to a list using append()
+my_list.append("orange")
+print("After append:", my_list)
+
+# 4. Add several items using extend()
+my_list.extend([100, "grape", 2.5])
+print("After extend:", my_list)
+
+# 5. Add a list as an item to the existing list (nested list)
+my_list.append(["nested1", "nested2"])
+print("After adding nested list:", my_list)
+
+# 6. Access items at various locations using index operator
+print("Item at index 0:", my_list[0])     # access first element
+print("Item at index 3:", my_list[3])     # access 4th element
+print("Item at index 5:", my_list[5])     # access 6th element
+
+# 7. Add an element at a specified index using insert()
+my_list.insert(2, "Inserted_here")  # inserting at index 2
+print("After insert at index 2:", my_list)
+
+# 8. Replace an element at a specified index
+my_list[4] = "Replaced_item"  # replacing element at index 4
+print("After replacing index 4:", my_list)
+
+# 9. Add duplicate elements
+my_list.append("apple")
+my_list.append(10)
+print("After adding duplicates:", my_list)
+
+# 10. Remove the item at a given index using pop()
+removed_item = my_list.pop(3)  # removing element at index 3
+print("After pop at index 3:", my_list)
+print("Removed item:", removed_item)
+
+# 11. Sort elements (only sortable items, create a new sortable list)
+sortable_list = [10, 3.14, 25, 7.5, 100, 2.5]
+sortable_list.sort()   # ascending
+print("Sorted list (ascending):", sortable_list)
+
+sortable_list.sort(reverse=True)  # descending
+print("Sorted list (descending):", sortable_list)
+
+# 12. Reverse the elements of the list
+my_list.reverse()
+print("Reversed list:", my_list)
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+3>>>>>Create two 1-D arrays of same size with n number of elements and display the
+index of the arrays where the value of elements in 1st array is more than and
+equal to its corresponding element in 2nd array.
+2. Create a 1-D array and perform the following:
+• Replace all even numbers in the array with 0
+• Extract the prime numbers from the array
+• Convert the 1D array to a 2D array in 2 rows Input
+• Display the array element indices such that array elements are sorted in
+ascending order [without the changing the position of elements]
+• Convert a binary NumPy array (holding only 0s and 1s) to a Boolean
+NumPy array.
+• Take an input of 10 elements and split the array into 3 arrays, where 1st
+two arrays should have 2 elements each and the rest of the elements in the
+last array. Display the arrays.
+--------->
+
+
+
+import numpy as np
+
+# -------------------------------------------------------------
+# 1. Create two 1-D arrays and display indices where arr1 >= arr2
+# -------------------------------------------------------------
+
+arr1 = np.array([10, 25, 35, 40, 15])
+arr2 = np.array([5, 30, 20, 40, 20])
+
+# Find indices where arr1 is greater than or equal to arr2
+indices = np.where(arr1 >= arr2)
+
+print("Array 1:", arr1)
+print("Array 2:", arr2)
+print("Indices where arr1 >= arr2:", indices[0])
+
+# -------------------------------------------------------------
+# 2. Create a 1-D array and perform operations
+# -------------------------------------------------------------
+
+arr = np.array([10, 3, 15, 22, 7, 8, 19, 4])
+
+print("\nOriginal Array:", arr)
+
+# Replace all even numbers with 0
+even_replaced = np.where(arr % 2 == 0, 0, arr)
+print("After replacing even numbers with 0:", even_replaced)
+
+# Function to extract primes
+def is_prime(x):
+    if x < 2:
+        return False
+    for i in range(2, int(np.sqrt(x)) + 1):
+        if x % i == 0:
+            return False
+    return True
+
+primes = np.array([num for num in arr if is_prime(num)])
+print("Prime numbers extracted:", primes)
+
+# Convert 1D to 2D (2 rows)
+arr_2d = arr.reshape(2, -1)
+print("1D to 2D array:\n", arr_2d)
+
+# Indices if array were sorted (without changing original array)
+sorted_indices = np.argsort(arr)
+print("Indices for sorted ascending order:", sorted_indices)
+
+# Convert binary array to boolean array
+binary_arr = np.array([1, 0, 1, 1, 0, 0, 1])
+bool_arr = binary_arr.astype(bool)
+print("Boolean array:", bool_arr)
+
+# Split array (10 elements → 2, 2, rest)
+input_arr = np.array([11, 22, 33, 44, 55, 66, 77, 88, 99, 100])
+
+split1 = input_arr[:2]
+split2 = input_arr[2:4]
+split3 = input_arr[4:]
+
+print("\nOriginal 10-element array:", input_arr)
+print("First array (2 elements):", split1)
+print("Second array (2 elements):", split2)
+print("Third array (remaining elements):", split3)
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+4. There are 190 students in a class of Data Science Theory. The subject is taught
+every day ( Monday to Sunday) in a week for an hour. Create and display a series of
+data as a count of attendance of the total number of students attending the subject
+every day in a week.
+[Hint: Use pandas to create the dataset, create the dataset for a week i.e. for all 7
+days in a week, for each respective day mention the number of attendees.]
+Perform the following with the series dataset created.
+• Display the dataset
+• Display the sorted dataset with least number of attendees at first
+• Show the day with maximum number of attendees
+• Display the 1st two days of the week and the number of attendees
+• Plot the dataset for each day in the week.
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Create a Pandas Series for weekly attendance
+attendance_data = {
+    "Monday": 180,
+    "Tuesday": 175,
+    "Wednesday": 190,
+    "Thursday": 185,
+    "Friday": 178,
+    "Saturday": 160,
+    "Sunday": 150
+}
+
+attendance_series = pd.Series(attendance_data)
+
+# ----------------------------------------
+# 1. Display the dataset
+# ----------------------------------------
+print("---- Attendance Dataset ----")
+print(attendance_series)
+
+# ----------------------------------------
+# 2. Display the sorted dataset (least first)
+# ----------------------------------------
+print("\n---- Sorted by Attendance (Least to Most) ----")
+print(attendance_series.sort_values())
+
+# ----------------------------------------
+# 3. Show the day with maximum attendance
+# ----------------------------------------
+max_day = attendance_series.idxmax()
+max_value = attendance_series.max()
+print("\n---- Day with Maximum Attendance ----")
+print(f"{max_day} → {max_value} students")
+
+# ----------------------------------------
+# 4. Display the 1st two days of the week
+# ----------------------------------------
+print("\n---- First Two Days Attendance ----")
+print(attendance_series.iloc[:2])
+
+# ----------------------------------------
+# 5. Plot the dataset
+# ----------------------------------------
+plt.figure(figsize=(10, 5))
+attendance_series.plot(kind='bar')
+plt.title("Attendance Count for Each Day of the Week")
+plt.xlabel("Day")
+plt.ylabel("Number of Students")
+plt.grid(axis='y')
+plt.show()
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+5>>>>https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression and
+perform the following:
+• Read the dataset
+• Display the information related to the dataset such as the number of rows and
+columns
+• Display the first 5 rows
+• Display the summary statistics for each numeric column
+• Display a random subset ( at least 5)
+------------->
+
+
+
+import pandas as pd
+
+# Read the dataset
+df = pd.read_csv("Salary_Data1.csv")
+
+# Display the number of rows and columns
+print("Number of rows and columns:", df.shape)
+
+# Display the first 5 rows
+print("\nFirst 5 rows:")
+print(df.head())
+
+# Display summary statistics for each numeric column
+print("\nSummary Statistics:")
+print(df.describe())
+
+# Display a random subset (at least 5 rows)
+print("\nRandom 5 rows:")
+print(df.sample(5))
+

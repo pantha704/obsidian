@@ -1,0 +1,227 @@
+ASS 4
+
+
+
+
+1. Perform linear regression to predict
+a. CO2 Emission [Dataset: fuel consumption dataset.csv]
+b. The selling price of a used car. [Dataset: used cars dataset.csv]
+
+Evaluate the quality of the models by computing relevant performance metrics, in-
+cluding the R2 value. Generate and display a plot that compares the actual values
+
+to the predicted values (Actual vs Predicted) for both tasks.
+
+
+/////A
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+
+# Load datasets
+fuel_df = pd.read_csv('fuel_consumption_dataset.csv')
+used_cars_df = pd.read_csv('used_cars_dataset.csv')
+
+# Task 1a: Predict CO2 Emissions
+X1 = fuel_df[['ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_COMB']]  # Feature columns
+y1 = fuel_df['CO2EMISSIONS']
+
+X1_train, X1_test, y1_train, y1_test = train_test_split(X1, y1, test_size=0.2, random_state=42)
+model1 = LinearRegression()
+model1.fit(X1_train, y1_train)
+y1_pred = model1.predict(X1_test)
+
+print(f'CO2 Emissions R²: {r2_score(y1_test, y1_pred):.4f}')
+plt.scatter(y1_test, y1_pred)
+plt.xlabel('Actual CO2 Emissions')
+plt.ylabel('Predicted CO2 Emissions')
+plt.title('Actual vs Predicted CO2 Emissions')
+plt.show()
+
+
+//////////////////////B
+
+
+# Task 1b: Predict Used Car Selling Price
+used_cars_df['year'] = pd.to_numeric(used_cars_df['year'], errors='coerce')
+used_cars_df['km_driven'] = pd.to_numeric(used_cars_df['km_driven'], errors='coerce')
+used_cars_df = used_cars_df.dropna()
+
+X2 = used_cars_df[['year', 'km_driven']]
+y2 = used_cars_df['selling_price']
+
+X2_train, X2_test, y2_train, y2_test = train_test_split(X2, y2, test_size=0.2, random_state=42)
+model2 = LinearRegression()
+model2.fit(X2_train, y2_train)
+y2_pred = model2.predict(X2_test)
+
+print(f'Used Car Price R²: {r2_score(y2_test, y2_pred):.4f}')
+plt.scatter(y2_test, y2_pred)
+plt.xlabel('Actual Selling Price')
+plt.ylabel('Predicted Selling Price')
+plt.title('Actual vs Predicted Used Car Prices')
+plt.show()
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+2. Perform linear regression with L1 (Lasso) and L2 (Ridge) regularization to predict
+the price of a House. Use hyperparameter tuning for the best result. Evaluate the
+accuracy of the models by computing relevant performance metrics, including the R2
+value. Generate and display a plot that compares the actual values to the predicted
+values (Actual vs Predicted) for both tasks.
+Dataset: housing price dataset.csv
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.linear_model import Lasso, Ridge
+from sklearn.model_selection import GridSearchCV
+
+housing_df = pd.read_csv('housing_price_dataset.csv')
+
+X3 = housing_df[['Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms',
+                 'Avg. Area Number of Bedrooms', 'Area Population']]
+y3 = housing_df['Price']
+
+X3_train, X3_test, y3_train, y3_test = train_test_split(X3, y3, test_size=0.2, random_state=42)
+
+# Lasso Regression with hyperparameter tuning
+lasso = Lasso()
+params = {'alpha': [0.01, 0.1, 1, 10, 100]}
+grid_lasso = GridSearchCV(lasso, param_grid=params, cv=5)
+grid_lasso.fit(X3_train, y3_train)
+lasso_pred = grid_lasso.predict(X3_test)
+
+print(f'Lasso Best Alpha: {grid_lasso.best_params_}')
+print(f'Lasso R²: {r2_score(y3_test, lasso_pred):.4f}')
+plt.scatter(y3_test, lasso_pred)
+plt.xlabel('Actual Price')
+plt.ylabel('Predicted Price')
+plt.title('Lasso: Actual vs Predicted House Price')
+plt.show()
+
+ridge = Ridge()
+grid_ridge = GridSearchCV(ridge, param_grid=params, cv=5)
+grid_ridge.fit(X3_train, y3_train)
+ridge_pred = grid_ridge.predict(X3_test)
+print(f'Ridge Best Alpha: {grid_ridge.best_params_}')
+print(f'Ridge R²: {r2_score(y3_test, ridge_pred):.4f}')
+plt.scatter(y3_test, ridge_pred)
+plt.xlabel('Actual Price')
+plt.ylabel('Predicted Price')
+plt.title('Ridge: Actual vs Predicted House Price')
+plt.show()
+
+
+
+////////////////////////////////////////////////////////////////////////
+
+
+3. Perform linear regression with one feature using gradient descent (without using a
+library function) to predict the salary of an employee based on the feature Years
+of Experience. Use hyperparameter tuning for the best result. Plot the hypothesis
+function and the data points after each epoch. Evaluate the accuracy of the models
+by computing relevant performance metrics, including the R2 value.
+Dataset: salary dataset.csv
+
+
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.linear_model import Lasso, Ridge
+from sklearn.model_selection import GridSearchCV
+
+salary_df = pd.read_csv('salary_data.csv')
+
+X4 = salary_df['YearsExperience'].values
+y4 = salary_df['Salary'].values
+
+# Normalize
+X4 = (X4 - np.mean(X4)) / np.std(X4)
+X4 = X4.reshape(-1, 1)
+
+# Gradient Descent Parameters
+alpha = 0.01  # Learning rate
+epochs = 1000
+m = len(y4)
+theta = np.zeros(2)
+
+X_b = np.c_[np.ones((m, 1)), X4]
+
+for epoch in range(epochs):
+    gradients = 2/m * X_b.T.dot(X_b.dot(theta) - y4)
+    theta -= alpha * gradients
+    if epoch % 100 == 0:
+        plt.scatter(X4, y4)
+        plt.plot(X4, X_b.dot(theta), color='red')
+        plt.title(f'Epoch {epoch}')
+        plt.show()
+
+y4_pred = X_b.dot(theta)
+print(f'Gradient Descent R²: {r2_score(y4, y4_pred):.4f}')
+plt.scatter(y4, y4_pred)
+plt.xlabel('Actual Salary')
+plt.ylabel('Predicted Salary')
+plt.title('Actual vs Predicted Salary')
+plt.show()
+
+
+
+
+///////////////////////////////////////////////////////////////////////
+
+
+
+4. Perform a non-linear regression to predict China’s GDP from 1960 to 2014 from
+given features. Evaluate the quality of the model by computing relevant performance
+metrics, including the R2 value. Generate and display a plot that compares the actual
+values to the predicted values (Actual vs Predicted) for both tasks.
+Dataset: china gdp.csv
+
+
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.linear_model import Lasso, Ridge
+from sklearn.model_selection import GridSearchCV
+from sklearn.preprocessing import PolynomialFeatures
+china_df = pd.read_csv('china_gdp.csv')
+X5 = china_df[['Year']]
+y5 = china_df['Value']
+X5_train, X5_test, y5_train, y5_test = train_test_split(X5, y5, test_size=0.2, random_state=42)
+poly = PolynomialFeatures(degree=3)
+X5_train_poly = poly.fit_transform(X5_train)
+X5_test_poly = poly.transform(X5_test)
+model_poly = LinearRegression()
+model_poly.fit(X5_train_poly, y5_train)
+y5_pred = model_poly.predict(X5_test_poly)
+print(f'Non-linear Regression R²: {r2_score(y5_test, y5_pred):.4f}')
+plt.scatter(y5_test, y5_pred)
+plt.xlabel('Actual GDP Value')
+plt.ylabel('Predicted GDP Value')
+plt.title('Actual vs Predicted China GDP')
+plt.show()
+
+
+

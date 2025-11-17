@@ -1,0 +1,81 @@
+Lab-3
+
+Perform linear regression to predict 
+a. CO2 Emission (Y = CO2EMISSIONS )
+b. The fuel consumption of a used car  (Y = FUELCONSUMPTION_COMB_MPG )
+Evaluate the quality of the models by computing the performance metric R² value. Generate and display a plot that compares the actual values to the predicted values (Actual vs Predicted) for both tasks.
+
+
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error as mse
+from sklearn.metrics import r2_score
+
+
+df = pd.read_csv('FuelConsumption (1).csv')
+df.head()
+
+
+
+df = df.drop(["MODELYEAR" , "MAKE" , "MODEL" , "VEHICLECLASS" ,"TRANSMISSION" , "FUELTYPE"], axis = 1)
+df.head()
+
+
+
+X = df[["ENGINESIZE" , "CYLINDERS" , "FUELCONSUMPTION_CITY" , "FUELCONSUMPTION_HWY" , "FUELCONSUMPTION_COMB" , "FUELCONSUMPTION_COMB_MPG"]]
+Y = df["CO2EMISSIONS"]
+X_train , X_test , Y_train , Y_test = train_test_split(X , Y , test_size = 0.2 , random_state = 42)
+model = LinearRegression()
+model.fit(X_train , Y_train)
+Y_pred = model.predict(X_test)
+r2_co2 = r2_score(Y_test , Y_pred)
+print("The R2 score of CO2 emission is:",r2_co2)
+
+
+plt.scatter(Y_test , Y_pred , color="blue" , alpha=0.6)
+plt.plot([Y_test.min() , Y_test.max()],[Y_test.min() , Y_test.max()] , color = 'red' , linewidth = 2,label = "Perfect fit line(y=x)")
+plt.xlabel("Actual CO2 Emission")
+plt.ylabel("Predicted CO2 Emission")
+plt.title("Actual vs Predicted CO2 Emission")
+plt.grid(True , linestyle = "--" , alpha = 0.5)
+plt.legend()
+plt.show()
+
+
+
+
+X2 = df[["ENGINESIZE" , "CYLINDERS" ,  "FUELCONSUMPTION_CITY" , "FUELCONSUMPTION_HWY" , "FUELCONSUMPTION_COMB" , "CO2EMISSIONS"]]
+Y2 = df["FUELCONSUMPTION_COMB_MPG"]
+X2_train , X2_test , Y2_train , Y2_test = train_test_split(X2 , Y2 , test_size = 0.2 , random_state = 42)
+model2 = LinearRegression()
+model2.fit(X2_train , Y2_train)
+Y2_pred = model2.predict(X2_test)
+r2_Fuel = r2_score(Y2_test , Y2_pred)
+print("The R2 score of FUELCONSUMPTION_COMB_MPG is:",r2_Fuel)
+
+
+
+
+# Plot actual vs predicted values
+plt.scatter(Y2_test, Y2_pred, color="blue", alpha=0.6)
+
+# Add perfect fit line (y = x)
+plt.plot([Y2_test.min(), Y2_test.max()],
+         [Y2_test.min(), Y2_test.max()],
+         color="red", linewidth=2, label="Perfect Fit Line (y = x)")
+
+# Labels and title
+plt.xlabel("Actual FUELCONSUMPTION_COMB_MPG")
+plt.ylabel("Predicted FUELCONSUMPTION_COMB_MPG")
+plt.title("Actual vs Predicted FUELCONSUMPTION_COMB_MPG")
+
+# Grid and legend
+plt.grid(True, linestyle="--", alpha=0.5)
+plt.legend()
+plt.show()

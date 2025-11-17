@@ -1,0 +1,51 @@
+Lab-4
+
+Perform a polynomial regression to predict China’s GDP from 1960 to 2014 from given features. Evaluate the quality of the model by computing the R² value. Generate and display a plot that compares the actual values to the predicted values. Tip: Try polynomial of degree 2,3,4,5
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import StandardScaler , PolynomialFeatures
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error as mse
+from sklearn.metrics import r2_score
+
+df = pd.read_csv('china_gdp (1).csv')
+df.head()
+
+
+X = df[['Year']]
+Y = df['Value']
+plt.figure(figsize=(8,6))
+plt.scatter(X , Y , color='blue', label="Actual GDP")
+plt.legend()
+plt.show()
+
+X_norm = X - X.min()
+degrees = [2 , 3 , 4 ,5]
+colors = ['green' , 'orange' , 'purple' , 'red']
+
+for b , color in zip(degrees,colors):
+  poly = PolynomialFeatures(degree = b)
+  X_poly = poly.fit_transform(X_norm)
+
+  model = LinearRegression()
+  model.fit(X_poly , Y)
+
+  Y_pred = model.predict(X_poly)
+
+  r2 = r2_score(Y , Y_pred)
+  print(f"Degree {b} -> R2 score is {r2:4f}")
+
+  plt.plot(X , Y_pred , color=color,label=f"Degree {b} -> r2 score: {r2}")
+
+plt.scatter(X , Y , color = 'blue' , label="Actual GDP")
+plt.xlabel("Year")
+plt.ylabel("GDP")
+plt.title(f"China GDP Prediction (Degree {b}) | R² = {r2:.4f}")
+plt.grid(True, linestyle="--", alpha=0.6)
+plt.legend()
+plt.show()
+
+

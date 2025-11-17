@@ -1,0 +1,46 @@
+Lab 5. 
+
+Perform k- means clustering algorithm for the given features. Utilize Euclidean distance and Manhattan distance for this problem. Also, plot in terms of 2D and 3D clusters this problem.
+
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
+
+df = pd.read_csv('iris.csv')
+df.head()
+
+
+X = df[["sepal_length" , "sepal_width", "petal_length" , "petal_width"]]
+Kmeans_eucledian = KMeans(n_clusters=3 , random_state=42).fit(X)
+labels_eucledian = Kmeans_eucledian.labels_
+centroids_eucledian = Kmeans_eucledian.cluster_centers_
+centroids_eucledian
+
+plt.scatter(X['petal_length'] ,  X['petal_width'] , c=labels_eucledian , s=50)
+plt.scatter(centroids_eucledian[:,2] , centroids_eucledian[:,3] , c='red' ,marker='X' , s=200)
+plt.title('Kmean clustering (Eucledian Distance)')
+plt.xlabel('Petal Length')
+plt.ylabel('Petal Width')
+plt.show()
+
+
+
+from mpl_toolkits.mplot3d import Axes3D
+Kmeans_3D = KMeans(n_clusters=3 , random_state=42).fit(X)
+labels_3D = Kmeans_3D.labels_
+centroid_3D = Kmeans_3D.cluster_centers_
+
+
+
+fig = plt.figure(figsize=(10,6))
+ax = fig.add_subplot(111,projection='3d')
+ax.scatter(X['sepal_length'] , X['sepal_width'] , X['petal_length'] , c=labels_3D , s=50)
+ax.scatter(centroid_3D[:,0] , centroid_3D[:,1] , centroid_3D[:,2] , c='red' , marker='X' , s=200)
+ax.set_xlabel("sepal Length")
+ax.set_ylabel("sepal Width")
+ax.set_zlabel("petal Length")
+plt.show()
+
+

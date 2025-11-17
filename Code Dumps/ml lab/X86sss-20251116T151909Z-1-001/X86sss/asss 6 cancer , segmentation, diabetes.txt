@@ -1,0 +1,384 @@
+assss 6
+
+
+1. Using SVM algorithm, predict if a patient has a benign tumor or malignant tumor
+(cancer) based on the features provided. Use the following kernel for the SVM
+algorithm:
+a) Linear b) Polynomial c) RBF d) Sigmoid
+Find the following metrics for each of the SVM algorithms:
+1) Accuracy 2) Recall 3) Precision 4) F1-Score
+5) Jaccard Score 6) Error rates 7) Confusion Matrix
+Compare all four SVM models using an ROC curve.
+Dataset: samplescancer.csv
+
+
+# ================================================================
+# Question 1
+# SVM Classification - Benign vs Malignant Tumor
+# Kernels: Linear, Polynomial, RBF, Sigmoid
+# ================================================================
+
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVC
+from sklearn.metrics import (
+    accuracy_score, recall_score, precision_score, f1_score,
+    jaccard_score, confusion_matrix, roc_curve, auc
+)
+import matplotlib.pyplot as plt
+
+# ---------------------------------------------------------------
+# 1. Load and clean dataset
+# ---------------------------------------------------------------
+# Change filename if needed
+df = pd.read_csv("samples_cancer.csv")
+
+# Replace '?' with NaN
+df.replace('?', np.nan, inplace=True)
+
+# Drop any rows with missing values (or use fillna if preferred)
+df.dropna(inplace=True)
+
+# Convert all numeric columns to float (except ID or target)
+for col in df.columns:
+    if col not in ['id', 'Class']:
+        df[col] = df[col].astype(float)
+
+# ---------------------------------------------------------------
+# 2. Prepare features and labels
+# ---------------------------------------------------------------
+# Assuming last column is the target (Class: 2=benign, 4=malignant)
+X = df.iloc[:, 1:-1]   # Skip ID column
+y = df.iloc[:, -1]
+
+# Convert target to binary (0 = benign, 1 = malignant)
+y = y.map({2: 0, 4: 1})
+
+# ---------------------------------------------------------------
+# 3. Split dataset
+# ---------------------------------------------------------------
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.3, random_state=42
+)
+
+# Scale features
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+# ---------------------------------------------------------------
+# 4. Train SVM models with different kernels
+# ---------------------------------------------------------------
+kernels = ['linear', 'poly', 'rbf', 'sigmoid']
+results = {}
+
+plt.figure(figsize=(7, 5))
+
+for kernel in kernels:
+    model = SVC(kernel=kernel, probability=True, random_state=42)
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+
+    # Evaluation metrics
+    acc = accuracy_score(y_test, y_pred)
+    rec = recall_score(y_test, y_pred)
+    pre = precision_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
+    jac = jaccard_score(y_test, y_pred)
+    err = 1 - acc
+    cm = confusion_matrix(y_test, y_pred)
+
+    results[kernel] = {
+        'Accuracy': acc,
+        'Recall': rec,
+        'Precision': pre,
+        'F1-Score': f1,
+        'Jaccard': jac,
+        'Error Rate': err,
+        'Confusion Matrix': cm
+    }
+
+    # ROC curve
+    y_prob = model.predict_proba(X_test)[:, 1]
+    fpr, tpr, _ = roc_curve(y_test, y_prob)
+    roc_auc = auc(fpr, tpr)
+    plt.plot(fpr, tpr, label=f'{kernel} (AUC={roc_auc:.2f})')
+
+# ---------------------------------------------------------------
+# 5. Plot ROC Curve comparison
+# ---------------------------------------------------------------
+plt.plot([0, 1], [0, 1], 'k--')
+plt.title('ROC Curve Comparison of SVM Kernels')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.legend()
+plt.show()
+
+# ---------------------------------------------------------------
+# 6. Print results
+# ---------------------------------------------------------------
+for k, v in results.items():
+    print(f"\n=== Kernel: {k.upper()} ===")
+    for metric, value in v.items():
+        if metric != 'Confusion Matrix':
+            print(f"{metric}: {value:.4f}")
+        else:
+            print(f"{metric}:\n{value}")
+
+
+/////////////////////////////////////////////////////////////
+
+2. Applying SVM, Naive Bayes, Decision tree and KNN to predict diabetes based on
+features set. Compare the four classification algorithms with performance metrics
+such as accuracy, recall, precision, F1- score. Also, design the heat map confusion
+matrix for the above algorithms and construct ROC curve for comparison.
+Dataset: pima-indians-diabetes.data.csv
+
+
+
+# ================================================================
+# Question 2
+# SVM, Naive Bayes, Decision Tree, and KNN on Diabetes dataset
+# Compare Accuracy, Recall, Precision, F1-score
+# Show Confusion Matrix (Heatmap) and ROC Curve
+# ================================================================
+
+import os
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVC
+from sklearn.naive_bayes import GaussianNB
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import (
+    accuracy_score, recall_score, precision_score, f1_score,
+    confusion_matrix, roc_curve, auc
+)
+
+# ---------------------------------------------------------------
+# 1. Load dataset (from local folder)
+# ---------------------------------------------------------------
+# Try both possible filenames
+if os.path.exists('pima-indians-diabetes.data.csv'):
+    filename = 'pima-indians-diabetes.data.csv'
+elif os.path.exists('pima-indians-diabetes.csv'):
+    filename = 'pima-indians-diabetes.csv'
+else:
+    raise FileNotFoundError(
+        "⚠️ Dataset not found!\n"
+        "Please make sure the file is in the SAME folder as this script.\n"
+        "Expected file: 'pima-indians-diabetes.data.csv' or 'pima-indians-diabetes.csv'"
+    )
+
+df = pd.read_csv(filename, header=None)
+df.columns = [
+    'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness',
+    'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome'
+]
+
+# ---------------------------------------------------------------
+# 2. Clean the data (replace 0s with median values)
+# ---------------------------------------------------------------
+cols_with_zeros = ['Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI']
+for c in cols_with_zeros:
+    df[c] = df[c].replace(0, np.nan)
+    df[c] = df[c].fillna(df[c].median())  # ✅ no warning version
+
+# ---------------------------------------------------------------
+# 3. Prepare data for training
+# ---------------------------------------------------------------
+X = df.drop(columns=['Outcome'])
+y = df['Outcome']
+
+# Scale features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(
+    X_scaled, y, test_size=0.25, random_state=42, stratify=y
+)
+
+# ---------------------------------------------------------------
+# 4. Define models
+# ---------------------------------------------------------------
+models = {
+    'SVM (RBF)': SVC(kernel='rbf', probability=True, random_state=0),
+    'Naive Bayes': GaussianNB(),
+    'Decision Tree': DecisionTreeClassifier(random_state=0),
+    'KNN': KNeighborsClassifier(n_neighbors=5)
+}
+
+# ---------------------------------------------------------------
+# 5. Train, Predict, and Evaluate
+# ---------------------------------------------------------------
+results = {}
+
+plt.figure(figsize=(8, 6))
+for name, clf in models.items():
+    clf.fit(X_train, y_train)
+    y_pred = clf.predict(X_test)
+
+    # Probability scores for ROC
+    if hasattr(clf, "predict_proba"):
+        y_prob = clf.predict_proba(X_test)[:, 1]
+    else:
+        y_prob = clf.decision_function(X_test)
+        y_prob = (y_prob - y_prob.min()) / (y_prob.max() - y_prob.min())
+
+    # Metrics
+    acc = accuracy_score(y_test, y_pred)
+    rec = recall_score(y_test, y_pred)
+    prec = precision_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
+    cm = confusion_matrix(y_test, y_pred)
+
+    results[name] = {
+        'accuracy': acc,
+        'recall': rec,
+        'precision': prec,
+        'f1': f1,
+        'confusion_matrix': cm
+    }
+
+    # ROC curve
+    fpr, tpr, _ = roc_curve(y_test, y_prob)
+    roc_auc = auc(fpr, tpr)
+    plt.plot(fpr, tpr, lw=2, label=f'{name} (AUC = {roc_auc:.3f})')
+
+# ---------------------------------------------------------------
+# 6. ROC Curve Plot
+# ---------------------------------------------------------------
+plt.plot([0, 1], [0, 1], 'k--')
+plt.title('ROC Curve Comparison (Diabetes Prediction)')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.legend()
+plt.show()
+
+# ---------------------------------------------------------------
+# 7. Print Metrics and Confusion Matrices
+# ---------------------------------------------------------------
+for name, r in results.items():
+    print(f"\n=== {name} ===")
+    print(f"Accuracy : {r['accuracy']:.4f}")
+    print(f"Recall   : {r['recall']:.4f}")
+    print(f"Precision: {r['precision']:.4f}")
+    print(f"F1-Score : {r['f1']:.4f}")
+
+    plt.figure(figsize=(4, 3))
+    sns.heatmap(r['confusion_matrix'], annot=True, fmt='d', cmap='Blues')
+    plt.title(f'{name} - Confusion Matrix')
+    plt.xlabel('Predicted')
+    plt.ylabel('Actual')
+    plt.show()
+
+
+
+
+///////////////////////////////////////////////////////////////
+
+
+3. Perform k- means clustering algorithm for customer segmentation from given fea-
+tures. Utilize Euclidean distance and Manhattan distance for this problem. Also,
+
+plot in terms of 2D and 3D clusters this problem.
+Dataset: Customer segmentation dataset
+
+
+
+
+
+# ================================================================
+# Question 3
+# K-Means Clustering for Customer Segmentation
+# Using Euclidean and Manhattan distance
+# ================================================================
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+from scipy.spatial.distance import cdist
+from mpl_toolkits.mplot3d import Axes3D
+
+# ---------------------------------------------------------------
+# 1. Load dataset
+# ---------------------------------------------------------------
+df = pd.read_csv("Cust_Segmentation.csv")  # 👈 Your dataset name
+print("✅ Dataset loaded successfully!\n")
+print(df.head())
+
+# ---------------------------------------------------------------
+# 2. Select numerical features for clustering
+# ---------------------------------------------------------------
+# Using columns that exist in your file
+X = df[['Age', 'Income', 'DebtIncomeRatio']]
+
+# Standardize the data
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# ---------------------------------------------------------------
+# 3. Find optimal number of clusters (Elbow Method)
+# ---------------------------------------------------------------
+distortions = []
+K = range(1, 11)
+for k in K:
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    kmeans.fit(X_scaled)
+    distortions.append(
+        sum(np.min(cdist(X_scaled, kmeans.cluster_centers_, 'euclidean'), axis=1)) / X_scaled.shape[0]
+    )
+
+plt.figure(figsize=(6, 4))
+plt.plot(K, distortions, 'bx-')
+plt.xlabel('k')
+plt.ylabel('Average Distortion')
+plt.title('Elbow Method (Euclidean Distance)')
+plt.show()
+
+# ---------------------------------------------------------------
+# 4. Apply K-Means (choose k based on elbow, example k=4)
+# ---------------------------------------------------------------
+k = 4
+kmeans_euclidean = KMeans(n_clusters=k, random_state=42)
+df['Cluster_Euclidean'] = kmeans_euclidean.fit_predict(X_scaled)
+
+# Manhattan distance version
+dist_matrix = cdist(X_scaled, kmeans_euclidean.cluster_centers_, metric='cityblock')
+df['Cluster_Manhattan'] = np.argmin(dist_matrix, axis=1)
+
+# ---------------------------------------------------------------
+# 5. Visualize Clusters (2D)
+# ---------------------------------------------------------------
+plt.figure(figsize=(7, 5))
+plt.scatter(df['Income'], df['DebtIncomeRatio'],
+            c=df['Cluster_Euclidean'], cmap='rainbow')
+plt.title('Customer Segments (Euclidean Distance)')
+plt.xlabel('Income')
+plt.ylabel('DebtIncomeRatio')
+plt.show()
+
+# ---------------------------------------------------------------
+# 6. Visualize Clusters (3D)
+# ---------------------------------------------------------------
+fig = plt.figure(figsize=(8, 6))
+ax = fig.add_subplot(111, projection='3d')
+ax.scatter(df['Age'], df['Income'], df['DebtIncomeRatio'],
+           c=df['Cluster_Euclidean'], cmap='rainbow')
+ax.set_xlabel('Age')
+ax.set_ylabel('Income')
+ax.set_zlabel('DebtIncomeRatio')
+ax.set_title('3D View of Customer Segments')
+plt.show()
+
+print("\n✅ Clustering complete! Check the 2D and 3D plots.")
