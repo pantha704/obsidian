@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6df122a30af6cba8",
+        "id": "6b31927f2e6239d0",
         "type": "tabs",
         "children": [
           {
-            "id": "24cfab3cfa628e90",
+            "id": "7d8a36e1f6d2ae4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Syllabus/Sem 5/Computer Networks/Quick Rev.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Quick Rev"
             }
           }
         ]
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -282,8 +283,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d0602b7e30fbfe",
+  "active": "9715214fedade482",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20251202091727.png",
+    "Attachments/Pasted image 20251202091721.png",
+    "Code Dumps/Projects/List.md",
+    "Syllabus/Sem 5/Computer Networks/Quick Rev.md",
     "Code Dumps/ml lab/used_cars_dataset.csv",
     "Code Dumps/ml lab/teleCust.csv",
     "Code Dumps/ml lab/steps_tracker_dataset.csv",
@@ -294,7 +299,6 @@
     "Code Dumps/ml lab/pima-indians-diabetes.csv",
     "Code Dumps/ml lab/missingValue.py",
     "Code Dumps/ml lab/iris.csv.csv",
-    "Code Dumps/ml lab/iris.csv",
     "Code Dumps/celo/ui prompt.md",
     "PARA/Projects/Turbin3/Capstone.md",
     "Code Dumps/celo/celo.md",
@@ -305,7 +309,6 @@
     "Code Dumps/Hackathons/Present a project.md",
     "Code Dumps/Clips/Just do it.md",
     "Code Dumps/Hackathons/Untitled.md",
-    "Code Dumps/Projects/List.md",
     "Code Dumps/Ecosys/U3 detailed.md",
     "Code Dumps/Ecosys/U3.md",
     "PARA/Projects/Rust/Rust Basic Projects.md",
@@ -322,7 +325,6 @@
     "PARA/Archives/hecking/OSINT.md",
     "PARA/Archives/VE/After Effects.md",
     "Code Dumps/Parallax framer 3js.md",
-    "PARA/Archives/Web dev/Open source.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20250415121830.png",
