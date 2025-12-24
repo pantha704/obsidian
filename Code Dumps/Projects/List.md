@@ -40,3 +40,6 @@
 - ### A public api formatter which converts unstructured data like "/bounty 100 ; /name K" to { bounty : 100, name: K }, might use LLM to not stay limited to "/key value;" format and users could convert any kind of understandable format they wish(or have just created themselves) into a json, yaml, etc.
 
 - ### Twitter thread writer (idea from superteam earn thread bounties), create an app which is connected with twitter through mcp or api and writes thread on a given topic, it may also refine the topic and may take some additional info from user about how the thread should be.
+  
+- ### A program that is totally independent understands markets and real world can interact with it and make his own living himself, by doing prediction markets or stake or  trading or something that doesn't require manual work
+  
