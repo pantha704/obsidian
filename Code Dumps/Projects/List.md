@@ -42,4 +42,5 @@
 - ### Twitter thread writer (idea from superteam earn thread bounties), create an app which is connected with twitter through mcp or api and writes thread on a given topic, it may also refine the topic and may take some additional info from user about how the thread should be.
   
 - ### A program that is totally independent understands markets and real world can interact with it and make his own living himself, by doing prediction markets or stake or  trading or something that doesn't require manual work
-  
+
+- ### Twitter persona launcher which tweets every day on the specified topics. At the end of the day analyse if its getting distracted into rage-baits, criticism, etc. And acts like a genuine user with experience
