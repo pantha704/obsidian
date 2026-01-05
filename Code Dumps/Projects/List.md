@@ -44,3 +44,5 @@
 - ### A program that is totally independent understands markets and real world can interact with it and make his own living himself, by doing prediction markets or stake or  trading or something that doesn't require manual work
 
 - ### Twitter persona launcher which tweets every day on the specified topics. At the end of the day analyse if its getting distracted into rage-baits, criticism, etc. And acts like a genuine user with experience
+
+- ### An app on which if we upload any pdf or ebook or anything readable it can calculate the reading time required for it. as a whole and also chapter/section wise. It is also a online pdf/ebook reader which has its own collection of books to which people can also add new books or make a request for a book thats net yet available. It will also have an option to play background music while reading, will have an text  to speech reader, AI summarizer with good integrity with any provided pdf.

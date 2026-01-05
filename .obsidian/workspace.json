@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RRR/Untitled.md",
+                "file": "PARA/Archives/Prompts/Senior SW Engineer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Senior SW Engineer"
             }
           }
         ]
@@ -284,10 +284,13 @@
   },
   "active": "c7aca0e381cd5669",
   "lastOpenFiles": [
-    "ebooks/Research n learn/coding/Rust/Rust for Rustaceans.pdf",
-    "RRR/Untitled.md",
-    "RRR",
+    "PARA/Archives/Resources n Ideas/Resources.md",
+    "PARA/Archives/Prompts/Senior SW Engineer.md",
+    "PARA/Projects/Rust/Rust Basic Projects.md",
     "Code Dumps/Projects/List.md",
+    "RRR/Untitled.md",
+    "ebooks/Research n learn/coding/Rust/Rust for Rustaceans.pdf",
+    "RRR",
     "ebooks/Research n learn/coding/Rust/Rust for Rustaceans 1.pdf",
     "ebooks/Fiction/little, big or the fairies parliament - john crowley.pdf",
     "Syllabus/Sem 5/Computer Networks/Quick Rev.md",
@@ -299,7 +302,6 @@
     "Code Dumps/ml lab/samples_cancer.csv",
     "Code Dumps/ml lab/salary_data.csv",
     "Code Dumps/ml lab/salary.py",
-    "Code Dumps/ml lab/pima-indians-diabetes.data.csv",
     "Code Dumps/celo/ui prompt.md",
     "PARA/Projects/Turbin3/Capstone.md",
     "Code Dumps/celo/celo.md",
@@ -312,7 +314,6 @@
     "Code Dumps/Hackathons/Untitled.md",
     "Code Dumps/Ecosys/U3 detailed.md",
     "Code Dumps/Ecosys/U3.md",
-    "PARA/Projects/Rust/Rust Basic Projects.md",
     "PARA/Projects/Rust/solana.md",
     "Code Dumps/DGP 2025.md",
     "Attachments/Pasted image 20251003185546.png",
@@ -324,7 +325,6 @@
     "PARA/Archives/Web3/Etc.md",
     "PARA/Projects/Web2/Nextjs.md",
     "PARA/Archives/hecking/OSINT.md",
-    "PARA/Archives/VE/After Effects.md",
     "Attachments/Pasted image 20241204134245.png",
     "Attachments/Pasted image 20241124204859.png",
     "Attachments/Pasted image 20250415121830.png",
