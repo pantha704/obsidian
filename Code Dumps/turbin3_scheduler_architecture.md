@@ -2,56 +2,64 @@
 
 This document maps out how all 6 of the active issues in the `scheduler` project connect to form the final production application.
 
-## System Diagram
+## System Diagram (ASCII)
 
-```mermaid
-flowchart TD
-    %% Users and Inputs
-    User([User]) -->|Add/Remove Jobs| CLI
-
-    %% Components
-    subgraph Frontend
-        CLI[CLI Interface<br/>Issue #4]
-    end
-
-    subgraph Core Engine
-        QM[(Queue Manager<br/>Issue #1)]
-        TPE{Time & Priority Engine<br/>Issue #2}
-        WE[Worker Executor<br/>Issue #3]
-    end
-
-    subgraph State & Persistence
-        Storage[(Disk: queue.json<br/>Issue #6)]
-        Tele[Telemetry & Events<br/>Issue #5]
-    end
-
-    %% Data Flow
-    CLI -->|Push(Job), Remove(ID)| QM
-    QM <-->|save_queue / load_queue| Storage
-
-    TPE -->|Polls current_time >= execution_time| QM
-    TPE -->|If Ready: Pop Job & Dispatch| WE
-
-    WE -->|job.start()| JobLogic
-
-    subgraph JobLogic [Job Execution Cycle]
-        direction TB
-        Run[Run Function Pointer]
-        Run -->|Success| Complete[job.complete()]
-        Run -->|Error| Fail[job.fail_and_retry()]
-    end
-
-    WE --> JobLogic
-
-    %% Retry Cycle
-    Fail -->|Returns True| QM
-    Fail -->|Returns False| Dead([Permanently Failed])
-    Complete --> Done([Completed])
-
-    %% Telemetry hooks
-    JobLogic -.->|Emits INFO/WARN Events| Tele
-    Tele -->|stdout| Terminal
-    Tele -->|fs::write| LogFile[logs/scheduler.log]
+```text
+                                +-------------------+
+                                |    Issue #4       |
+          [Add/Remove Jobs] --> | CLI Interface     | --> [Displays logs to User]
+                                +---------+---------+
+                                          |
+                                          v
++---------------------------------------------------------------------------------+
+|                                CORE ENGINE                                      |
+|                                                                                 |
+|   +-------------------+                           +-------------------------+   |
+|   |    Issue #1       | <--(Pop next ready)------ |       Issue #2          |   |
+|   | Queue Manager     |                           | Time & Priority Engine  |   |
+|   | (Holds Pending)   | ------(Poll current_time & execution_time)--------> |   |
+|   +---------+---------+                           +-----------+-------------+   |
+|             |                                                 |                 |
+|             v                                                 |                 |
+|   +-------------------+                                       |                 |
+|   |    Issue #6       |           (Yes, Current Time >= Execution Time)         |
+|   | Storage System    |                                       |                 |
+|   | (queue.json)      |                                       |                 |
+|   +-------------------+                                       v                 |
+|                                                     +-----------------------+   |
+|                                                     |      Issue #3         |   |
+|         ^                                           | Worker Executor       |   |
+|         |                                           +-----------+-----------+   |
+|         |                                                       |               |
++---------|-------------------------------------------------------|---------------+
+          |                                                       |
+          |               +---------------------------------------+
+          |               | (Executes job.start())
+          |               v
+          |     +-------------------+
+          |     |    Job Payload    |
+          |     | (Actual Function) |
+          |     +---------+---------+
+          |               |
+          |               v
+    [retry_count < max?]  |
+  +------(If True)--------+-------+
+  |                               |
+  |     +-------------------+     |
+  +---- |job.fail_and_retry()|    |     +-------------------+
+        +---------+---------+     +---> | job.complete()    |
+                  |                     +---------+---------+
+                  |                               |
+                  |                               |
++-----------------v-------------------------------v-------------------------------+
+|      Issue #5: Event System & Telemetry (Listens to ALL state changes)          |
+|                                                                                 |
+|                   Emit INFO/WARN Logs & CPU/Memory Stats                        |
+|                                                                                 |
+|   +-------------------------+                 +-----------------------------+   |
+|   | Terminal / CLI display  |                 | logs/scheduler.log disk file|   |
+|   +-------------------------+                 +-----------------------------+   |
++---------------------------------------------------------------------------------+
 ```
 
 ## Component Breakdowns
