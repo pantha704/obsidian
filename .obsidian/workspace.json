@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Dumps/Projects/List.md",
+                "file": "Code Dumps/port-protocol/mini-militia-architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "mini-militia-architecture"
             }
           }
         ],
@@ -315,7 +315,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5676966cc7cf6eb1",
+  "active": "32d0602b7e30fbfe",
   "lastOpenFiles": [
     "Code Dumps/Projects/List.md",
     "PARA/Archives/Prompts/Senior SW Engineer.md",
