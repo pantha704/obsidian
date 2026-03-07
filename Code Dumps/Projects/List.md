@@ -55,4 +55,6 @@
 
 - ### a desktop cleaner app that checks how many tools and packages you have installed in your system and helps you clean them up (it includes caches, temp files/data, total data used, etc) all of them can be cleared up 
 
-- ### A mobile app where people can search for any kind of books be it fiction, non fiction, science, education, coding, etc.
+- ### A mobile app where people can search for any kind of books be it fiction, non fiction, science, education, coding, etc. and also summarizes any pdf it has been asked for.      And it also has support for various pyqs and mock tests for jee and neet exams this app is mainly for such students who are preparing for competitive examse like jee, neet, CAT, GATE etc.
+
+- ### Understand how social media algos work and create an app which is a full rss feed realtime of real news, and the feed is totally controlled by the end user. (eg: how much more/less related content does the user wants to see which is new to him and hasnt seen before, or simply how much is he open to new content based on his preferred categories or past interactions, and many other features or parameters like this to allow the user to have full control over what knowledge he takes in).
